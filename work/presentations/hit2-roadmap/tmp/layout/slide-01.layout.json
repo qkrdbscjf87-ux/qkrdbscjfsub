@@ -1,0 +1,1895 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/enytt8",
+    "id": "enytt8",
+    "slide": 1,
+    "layoutId": "6cf91a3c-6fa8-4ee4-a099-a5f21b0c8335",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "bd4aec9a-5f69-4691-ba09-4549c1d49152",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#0B1020",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "6cf91a3c-6fa8-4ee4-a099-a5f21b0c8335",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "bd4aec9a-5f69-4691-ba09-4549c1d49152",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "bd4aec9a-5f69-4691-ba09-4549c1d49152",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "1",
+      "name": "top-accent",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "2",
+      "name": "left-accent",
+      "bbox": [
+        0,
+        0,
+        16,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B35",
+      "lineColor": "#FF6B35",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "3",
+      "name": "eyebrow",
+      "bbox": [
+        54,
+        38,
+        560,
+        30
+      ],
+      "geometry": "rect",
+      "text": "HIT2 JAPAN LAUNCH ROADMAP | PAGE 01",
+      "textPreview": "HIT2 JAPAN LAUNCH ROADMAP | PAGE 01",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIT2 JAPAN LAUNCH ROADMAP | PAGE 01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIT2 JAPAN LAUNCH ROADMAP | PAGE 01",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIT2 JAPAN LAUNCH ROADMAP | PAGE 01",
+              "fontSize": 15,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "4",
+      "name": "footer",
+      "bbox": [
+        54,
+        678,
+        520,
+        28
+      ],
+      "geometry": "rect",
+      "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+      "textPreview": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#94A3B8"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+              "fontSize": 15,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "5",
+      "name": "page-no",
+      "bbox": [
+        1150,
+        678,
+        44,
+        28
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#94A3B8",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 16,
+              "color": "#94A3B8",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "6",
+      "name": "hero-panel",
+      "bbox": [
+        42,
+        34,
+        1168,
+        236
+      ],
+      "geometry": "rect",
+      "fillColor": "#10192E",
+      "lineColor": "#22304E",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "7",
+      "name": "hero-kicker",
+      "bbox": [
+        68,
+        86,
+        600,
+        28
+      ],
+      "geometry": "rect",
+      "text": "개발 PM 관점의 글로벌 런칭 준비안",
+      "textPreview": "개발 PM 관점의 글로벌 런칭 준비안",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "개발 PM 관점의 글로벌 런칭 준비안"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "개발 PM 관점의 글로벌 런칭 준비안",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "개발 PM 관점의 글로벌 런칭 준비안",
+              "fontSize": 20,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "8",
+      "name": "hero-title",
+      "bbox": [
+        64,
+        124,
+        850,
+        64
+      ],
+      "geometry": "rect",
+      "text": "HIT2 일본 런칭 6개월 전 로드맵",
+      "textPreview": "HIT2 일본 런칭 6개월 전 로드맵",
+      "resolvedFontSize": 42,
+      "resolvedTextStyle": {
+        "fontSize": 42,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIT2 일본 런칭 6개월 전 로드맵"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIT2 일본 런칭 6개월 전 로드맵",
+          "resolvedTextStyle": {
+            "fontSize": 42,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIT2 일본 런칭 6개월 전 로드맵",
+              "fontSize": 42,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "9",
+      "name": "hero-subtitle",
+      "bbox": [
+        68,
+        200,
+        840,
+        34
+      ],
+      "geometry": "rect",
+      "text": "마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.",
+      "textPreview": "마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.",
+              "fontSize": 19,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qh0fepkz",
+      "id": "10",
+      "name": "tag-1",
+      "bbox": [
+        930,
+        84,
+        170,
+        34
+      ],
+      "geometry": "roundRect",
+      "text": "런칭 D-6M",
+      "textPreview": "런칭 D-6M",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#06111F",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "런칭 D-6M"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "런칭 D-6M",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#06111F",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "런칭 D-6M",
+              "fontSize": 15,
+              "color": "#06111F",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2t83itg",
+      "id": "11",
+      "name": "tag-2",
+      "bbox": [
+        930,
+        132,
+        170,
+        34
+      ],
+      "geometry": "roundRect",
+      "text": "일본 서비스",
+      "textPreview": "일본 서비스",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "일본 서비스"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "일본 서비스",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "일본 서비스",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#FF6B35",
+      "lineColor": "#FF6B35",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nqxs72x",
+      "id": "12",
+      "name": "tag-3",
+      "bbox": [
+        930,
+        180,
+        170,
+        34
+      ],
+      "geometry": "roundRect",
+      "text": "개발 PM",
+      "textPreview": "개발 PM",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "개발 PM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "개발 PM",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "개발 PM",
+              "fontSize": 15,
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "fillColor": "#334155",
+      "lineColor": "#334155",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/18jqh0fe",
+      "id": "13",
+      "name": "scope-title",
+      "bbox": [
+        64,
+        306,
+        220,
+        34
+      ],
+      "geometry": "rect",
+      "text": "작성 범위",
+      "textPreview": "작성 범위",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "작성 범위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "작성 범위",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "작성 범위",
+              "fontSize": 25,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q5o7qpg3",
+      "id": "14",
+      "name": "scope-note",
+      "bbox": [
+        260,
+        313,
+        440,
+        24
+      ],
+      "geometry": "rect",
+      "text": "실제 경력 서술을 바탕으로 한 임의 로드맵 초안",
+      "textPreview": "실제 경력 서술을 바탕으로 한 임의 로드맵 초안",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "실제 경력 서술을 바탕으로 한 임의 로드맵 초안"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "실제 경력 서술을 바탕으로 한 임의 로드맵 초안",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#94A3B8"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "실제 경력 서술을 바탕으로 한 임의 로드맵 초안",
+              "fontSize": 15,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jqh0fepk",
+      "id": "15",
+      "name": "scope-row-1",
+      "bbox": [
+        64,
+        374,
+        674,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#151F34",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bat47y1",
+      "id": "16",
+      "name": "scope-label-1",
+      "bbox": [
+        88,
+        390,
+        132,
+        24
+      ],
+      "geometry": "rect",
+      "text": "목표",
+      "textPreview": "목표",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "목표"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "목표",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "목표",
+              "fontSize": 16,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1w7mp0bi",
+      "id": "17",
+      "name": "scope-value-1",
+      "bbox": [
+        236,
+        389,
+        460,
+        26
+      ],
+      "geometry": "rect",
+      "text": "일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시",
+      "textPreview": "일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시",
+              "fontSize": 16,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxc3ylc7",
+      "id": "18",
+      "name": "scope-row-2",
+      "bbox": [
+        64,
+        428,
+        674,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ji5snelo",
+      "id": "19",
+      "name": "scope-label-2",
+      "bbox": [
+        88,
+        444,
+        132,
+        24
+      ],
+      "geometry": "rect",
+      "text": "핵심 축",
+      "textPreview": "핵심 축",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "핵심 축"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "핵심 축",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "핵심 축",
+              "fontSize": 16,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bat47y1k",
+      "id": "20",
+      "name": "scope-value-2",
+      "bbox": [
+        236,
+        443,
+        460,
+        26
+      ],
+      "geometry": "rect",
+      "text": "마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응",
+      "textPreview": "마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응",
+              "fontSize": 16,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp0bi9s3",
+      "id": "21",
+      "name": "scope-row-3",
+      "bbox": [
+        64,
+        482,
+        674,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#151F34",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tgfmlkjm",
+      "id": "22",
+      "name": "scope-label-3",
+      "bbox": [
+        88,
+        498,
+        132,
+        24
+      ],
+      "geometry": "rect",
+      "text": "산출물",
+      "textPreview": "산출물",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "산출물"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "산출물",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "산출물",
+              "fontSize": 16,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4vmtwra5",
+      "id": "23",
+      "name": "scope-value-3",
+      "bbox": [
+        236,
+        497,
+        460,
+        26
+      ],
+      "geometry": "rect",
+      "text": "월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안",
+      "textPreview": "월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안",
+              "fontSize": 16,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "24",
+      "name": "scope-row-4",
+      "bbox": [
+        64,
+        536,
+        674,
+        54
+      ],
+      "geometry": "rect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "25",
+      "name": "scope-label-4",
+      "bbox": [
+        88,
+        552,
+        132,
+        24
+      ],
+      "geometry": "rect",
+      "text": "전제",
+      "textPreview": "전제",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "전제"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "전제",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "전제",
+              "fontSize": 16,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvu9kni",
+      "id": "26",
+      "name": "scope-value-4",
+      "bbox": [
+        236,
+        551,
+        460,
+        26
+      ],
+      "geometry": "rect",
+      "text": "상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성",
+      "textPreview": "상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성",
+              "fontSize": 16,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "27",
+      "name": "evidence-title",
+      "bbox": [
+        820,
+        306,
+        220,
+        34
+      ],
+      "geometry": "rect",
+      "text": "경력 근거",
+      "textPreview": "경력 근거",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "경력 근거"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "경력 근거",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "경력 근거",
+              "fontSize": 25,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bq1oryts",
+      "id": "28",
+      "name": "evidence-card-1",
+      "bbox": [
+        820,
+        344,
+        374,
+        64
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m58z25kb",
+      "id": "29",
+      "name": "evidence-bar-1",
+      "bbox": [
+        820,
+        344,
+        6,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "30",
+      "name": "evidence-title-1",
+      "bbox": [
+        844,
+        354,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "HIT2 일본 서비스 개발 PM",
+      "textPreview": "HIT2 일본 서비스 개발 PM",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIT2 일본 서비스 개발 PM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIT2 일본 서비스 개발 PM",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIT2 일본 서비스 개발 PM",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "31",
+      "name": "evidence-body-1",
+      "bbox": [
+        844,
+        380,
+        310,
+        20
+      ],
+      "geometry": "rect",
+      "text": "런칭 운영을 담당 PM 관점에서 통합 관리",
+      "textPreview": "런칭 운영을 담당 PM 관점에서 통합 관리",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "런칭 운영을 담당 PM 관점에서 통합 관리"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "런칭 운영을 담당 PM 관점에서 통합 관리",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "런칭 운영을 담당 PM 관점에서 통합 관리",
+              "fontSize": 13,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "32",
+      "name": "evidence-card-2",
+      "bbox": [
+        820,
+        428,
+        374,
+        64
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "33",
+      "name": "evidence-bar-2",
+      "bbox": [
+        820,
+        428,
+        6,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B35",
+      "lineColor": "#FF6B35",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "34",
+      "name": "evidence-title-2",
+      "bbox": [
+        844,
+        438,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "마일스톤 및 배포 일정 총괄",
+      "textPreview": "마일스톤 및 배포 일정 총괄",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "마일스톤 및 배포 일정 총괄"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "마일스톤 및 배포 일정 총괄",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "마일스톤 및 배포 일정 총괄",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "35",
+      "name": "evidence-body-2",
+      "bbox": [
+        844,
+        464,
+        310,
+        20
+      ],
+      "geometry": "rect",
+      "text": "일정·범위·릴리즈 기준을 연결해 관리",
+      "textPreview": "일정·범위·릴리즈 기준을 연결해 관리",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "일정·범위·릴리즈 기준을 연결해 관리"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "일정·범위·릴리즈 기준을 연결해 관리",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "일정·범위·릴리즈 기준을 연결해 관리",
+              "fontSize": 13,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "36",
+      "name": "evidence-card-3",
+      "bbox": [
+        820,
+        512,
+        374,
+        64
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "37",
+      "name": "evidence-bar-3",
+      "bbox": [
+        820,
+        512,
+        6,
+        64
+      ],
+      "geometry": "rect",
+      "fillColor": "#7C3AED",
+      "lineColor": "#7C3AED",
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "38",
+      "name": "evidence-title-3",
+      "bbox": [
+        844,
+        522,
+        300,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Perforce 기반 빌드·버전 관리",
+      "textPreview": "Perforce 기반 빌드·버전 관리",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Perforce 기반 빌드·버전 관리"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Perforce 기반 빌드·버전 관리",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Perforce 기반 빌드·버전 관리",
+              "fontSize": 16,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "39",
+      "name": "evidence-body-3",
+      "bbox": [
+        844,
+        548,
+        310,
+        20
+      ],
+      "geometry": "rect",
+      "text": "업데이트 안정성을 확보하는 릴리즈 체계 경험",
+      "textPreview": "업데이트 안정성을 확보하는 릴리즈 체계 경험",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "업데이트 안정성을 확보하는 릴리즈 체계 경험"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "업데이트 안정성을 확보하는 릴리즈 체계 경험",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "업데이트 안정성을 확보하는 릴리즈 체계 경험",
+              "fontSize": 13,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
