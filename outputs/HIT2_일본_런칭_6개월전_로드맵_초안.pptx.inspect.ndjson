@@ -1,322 +1,449 @@
-{"kind":"deck","id":"pr/p6tkjr","name":"Deck"}
-{"kind":"layout","layoutId":"41b92bd0-e7c3-406a-893f-c8966144f7d0","name":"Master","type":"master"}
-{"kind":"layout","layoutId":"329c4dce-93fb-4533-8d3d-3b6c22f2b2f7","name":"Title Slide","type":"title"}
-{"kind":"slide","id":"sl/oucrvo","slide":1,"title":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textShapes":26}
-{"kind":"shape","id":"sh/kf6dcbul","slide":1,"name":"top-accent","bbox":[0,0,1280,10]}
-{"kind":"shape","id":"sh/vu9knih4","slide":1,"name":"left-accent","bbox":[0,0,16,720]}
-{"kind":"textbox","id":"sh/29gr2p8n","slide":1,"name":"eyebrow","text":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textPreview":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textChars":35,"textLines":1,"bbox":[54,38,620,30]}
-{"kind":"textbox","id":"sh/d8bat47y","slide":1,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
-{"kind":"textbox","id":"sh/knih4byh","slide":1,"name":"page-no","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
-{"kind":"shape","id":"sh/v6psfil0","slide":1,"name":"hero-panel","bbox":[42,34,1168,236]}
-{"kind":"textbox","id":"sh/2lszqtcj","slide":1,"name":"hero-kicker","text":"개발 PM 관점의 글로벌 런칭 준비안","textPreview":"개발 PM 관점의 글로벌 런칭 준비안","textChars":20,"textLines":1,"bbox":[68,86,600,28]}
-{"kind":"textbox","id":"sh/dcbulwva","slide":1,"name":"hero-title","text":"HIT2 일본 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 런칭 6개월 전 로드맵","textChars":20,"textLines":1,"bbox":[64,124,850,64]}
-{"kind":"textbox","id":"sh/kre1w7mp","slide":1,"name":"hero-subtitle","text":"마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.","textPreview":"마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.","textChars":51,"textLines":1,"bbox":[68,200,840,34]}
-{"kind":"textbox","id":"sh/6psfil0r","slide":1,"name":"tag-1","text":"런칭 D-6M","textPreview":"런칭 D-6M","textChars":7,"textLines":1,"bbox":[930,84,170,34]}
-{"kind":"textbox","id":"sh/val87ed8","slide":1,"name":"tag-2","text":"일본 서비스","textPreview":"일본 서비스","textChars":6,"textLines":1,"bbox":[930,132,170,34]}
-{"kind":"textbox","id":"sh/kre1w7mp","slide":1,"name":"tag-3","text":"개발 PM","textPreview":"개발 PM","textChars":5,"textLines":1,"bbox":[930,180,170,34]}
-{"kind":"textbox","id":"sh/dcbulwva","slide":1,"name":"scope-title","text":"작성 범위","textPreview":"작성 범위","textChars":5,"textLines":1,"bbox":[64,306,220,34]}
-{"kind":"textbox","id":"sh/2x4nap4r","slide":1,"name":"scope-note","text":"실제 경력 서술을 바탕으로 한 임의 로드맵 초안","textPreview":"실제 경력 서술을 바탕으로 한 임의 로드맵 초안","textChars":26,"textLines":1,"bbox":[260,313,440,24]}
-{"kind":"shape","id":"sh/vixczed8","slide":1,"name":"scope-row-1","bbox":[64,374,674,54]}
-{"kind":"textbox","id":"sh/k3q5o7qp","slide":1,"name":"scope-label-1","text":"목표","textPreview":"목표","textChars":2,"textLines":1,"bbox":[88,390,132,24]}
-{"kind":"textbox","id":"sh/donyd0z6","slide":1,"name":"scope-value-1","text":"일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시","textPreview":"일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시","textChars":31,"textLines":1,"bbox":[236,389,460,26]}
-{"kind":"shape","id":"sh/29gr2p8n","slide":1,"name":"scope-row-2","bbox":[64,428,674,54]}
-{"kind":"textbox","id":"sh/vu9knih4","slide":1,"name":"scope-label-2","text":"핵심 축","textPreview":"핵심 축","textChars":4,"textLines":1,"bbox":[88,444,132,24]}
-{"kind":"textbox","id":"sh/judg7ads","slide":1,"name":"scope-value-2","text":"마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응","textPreview":"마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응","textChars":34,"textLines":1,"bbox":[236,443,460,26]}
-{"kind":"shape","id":"sh/u9knih4b","slide":1,"name":"scope-row-3","bbox":[64,482,674,54]}
-{"kind":"textbox","id":"sh/1032lszq","slide":1,"name":"scope-label-3","text":"산출물","textPreview":"산출물","textChars":3,"textLines":1,"bbox":[88,498,132,24]}
-{"kind":"textbox","id":"sh/cfa9w3m9","slide":1,"name":"scope-value-3","text":"월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안","textPreview":"월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안","textChars":30,"textLines":1,"bbox":[236,497,460,26]}
-{"kind":"shape","id":"sh/jm1cfa9w","slide":1,"name":"scope-row-4","bbox":[64,536,674,54]}
-{"kind":"textbox","id":"sh/u18jqh0f","slide":1,"name":"scope-label-4","text":"전제","textPreview":"전제","textChars":2,"textLines":1,"bbox":[88,552,132,24]}
-{"kind":"textbox","id":"sh/1orytsvu","slide":1,"name":"scope-value-4","text":"상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성","textPreview":"상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성","textChars":29,"textLines":1,"bbox":[236,551,460,26]}
-{"kind":"textbox","id":"sh/c7u54zid","slide":1,"name":"evidence-title","text":"경력 근거","textPreview":"경력 근거","textChars":5,"textLines":1,"bbox":[820,306,220,34]}
-{"kind":"shape","id":"sh/nap4r65w","slide":1,"name":"evidence-card-1","bbox":[820,344,374,64]}
-{"kind":"shape","id":"sh/upwb2hwf","slide":1,"name":"evidence-bar-1","bbox":[820,344,6,64]}
-{"kind":"textbox","id":"sh/4r65wjud","slide":1,"name":"evidence-title-1","text":"HIT2 일본 서비스 개발 PM","textPreview":"HIT2 일본 서비스 개발 PM","textChars":17,"textLines":1,"bbox":[844,354,300,24]}
-{"kind":"textbox","id":"sh/xc3ylc7u","slide":1,"name":"evidence-body-1","text":"런칭 운영을 담당 PM 관점에서 통합 관리","textPreview":"런칭 운영을 담당 PM 관점에서 통합 관리","textChars":23,"textLines":1,"bbox":[844,380,310,20]}
-{"kind":"shape","id":"sh/mlkjm1cf","slide":1,"name":"evidence-card-2","bbox":[820,428,374,64]}
-{"kind":"shape","id":"sh/f6dcbulw","slide":1,"name":"evidence-bar-2","bbox":[820,428,6,64]}
-{"kind":"textbox","id":"sh/4zidonyd","slide":1,"name":"evidence-title-2","text":"마일스톤 및 배포 일정 총괄","textPreview":"마일스톤 및 배포 일정 총괄","textChars":15,"textLines":1,"bbox":[844,438,300,24]}
-{"kind":"textbox","id":"sh/xkf6dcbu","slide":1,"name":"evidence-body-2","text":"일정·범위·릴리즈 기준을 연결해 관리","textPreview":"일정·범위·릴리즈 기준을 연결해 관리","textChars":20,"textLines":1,"bbox":[844,464,310,20]}
-{"kind":"shape","id":"sh/mtwra5gb","slide":1,"name":"evidence-card-3","bbox":[820,512,374,64]}
-{"kind":"shape","id":"sh/fepkzupw","slide":1,"name":"evidence-bar-3","bbox":[820,512,6,64]}
-{"kind":"textbox","id":"sh/83itgfml","slide":1,"name":"evidence-title-3","text":"Perforce 기반 빌드·버전 관리","textPreview":"Perforce 기반 빌드·버전 관리","textChars":20,"textLines":1,"bbox":[844,522,300,24]}
-{"kind":"textbox","id":"sh/xobm58z2","slide":1,"name":"evidence-body-3","text":"업데이트 안정성을 확보하는 릴리즈 체계 경험","textPreview":"업데이트 안정성을 확보하는 릴리즈 체계 경험","textChars":24,"textLines":1,"bbox":[844,548,310,20]}
-{"kind":"notes","id":"nt/oucrvo","slide":1,"text":""}
-{"kind":"slide","id":"sl/in6a6x","slide":2,"title":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textShapes":63}
-{"kind":"shape","id":"sh/qxs72x4n","slide":2,"name":"top-accent","bbox":[0,0,1280,10]}
-{"kind":"shape","id":"sh/xobm58z2","slide":2,"name":"left-accent","bbox":[0,0,16,720]}
-{"kind":"textbox","id":"sh/83itgfml","slide":2,"name":"eyebrow","text":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textPreview":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textChars":34,"textLines":1,"bbox":[54,38,620,30]}
-{"kind":"textbox","id":"sh/fu18jqh0","slide":2,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
-{"kind":"textbox","id":"sh/m94fu18j","slide":2,"name":"page-no","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
-{"kind":"textbox","id":"sh/x0nuxc3y","slide":2,"name":"title-02","text":"6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다","textPreview":"6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다","textChars":32,"textLines":1,"bbox":[54,82,1110,56]}
-{"kind":"textbox","id":"sh/4fu18jqh","slide":2,"name":"subtitle-02","text":"PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.","textPreview":"PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.","textChars":59,"textLines":1,"bbox":[56,144,1080,34]}
-{"kind":"shape","id":"sh/f6dcbulw","slide":2,"name":"timeline-line","bbox":[82,357,1046,3]}
-{"kind":"shape","id":"sh/mlkjm1cf","slide":2,"name":"timeline-card-1","bbox":[54,232,166,250]}
-{"kind":"shape","id":"sh/gbq1oryt","slide":2,"name":"timeline-bar-1","bbox":[54,232,166,7]}
-{"kind":"textbox","id":"sh/5wjudg7a","slide":2,"name":"timeline-month-1","text":"D-6M","textPreview":"D-6M","textChars":4,"textLines":1,"bbox":[70,256,70,24]}
-{"kind":"textbox","id":"sh/y90je9cv","slide":2,"name":"timeline-title-1","text":"범위·일정 확정","textPreview":"범위·일정 확정","textChars":8,"textLines":1,"bbox":[70,290,132,48]}
-{"kind":"textbox","id":"sh/nuxc3ylc","slide":2,"name":"timeline-dot-1-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,354,12,22]}
-{"kind":"textbox","id":"sh/gn29gr2p","slide":2,"name":"timeline-item-1-1","text":"일본 서비스 범위","textPreview":"일본 서비스 범위","textChars":9,"textLines":1,"bbox":[84,357,118,30]}
-{"kind":"textbox","id":"sh/58z25kb6","slide":2,"name":"timeline-dot-1-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,388,12,22]}
-{"kind":"textbox","id":"sh/yhgn29gr","slide":2,"name":"timeline-item-1-2","text":"마일스톤 기준","textPreview":"마일스톤 기준","textChars":7,"textLines":1,"bbox":[84,391,118,30]}
-{"kind":"textbox","id":"sh/n29gr2p8","slide":2,"name":"timeline-dot-1-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,422,12,22]}
-{"kind":"textbox","id":"sh/czed8v6p","slide":2,"name":"timeline-item-1-3","text":"브랜치 운영 원칙","textPreview":"브랜치 운영 원칙","textChars":9,"textLines":1,"bbox":[84,425,118,30]}
-{"kind":"shape","id":"sh/5kb6xkf6","slide":2,"name":"timeline-card-2","bbox":[244,232,166,250]}
-{"kind":"shape","id":"sh/9cvixcze","slide":2,"name":"timeline-bar-2","bbox":[244,232,166,7]}
-{"kind":"textbox","id":"sh/gr2p8nqx","slide":2,"name":"timeline-month-2","text":"D-5M","textPreview":"D-5M","textChars":4,"textLines":1,"bbox":[260,256,70,24]}
-{"kind":"textbox","id":"sh/r65wjudg","slide":2,"name":"timeline-title-2","text":"개발·현지화 반영","textPreview":"개발·현지화 반영","textChars":9,"textLines":1,"bbox":[260,290,132,48]}
-{"kind":"textbox","id":"sh/ylc7u54z","slide":2,"name":"timeline-dot-2-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,354,12,22]}
-{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"name":"timeline-item-2-1","text":"번역 리소스 반영","textPreview":"번역 리소스 반영","textChars":9,"textLines":1,"bbox":[274,357,118,30]}
-{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"name":"timeline-dot-2-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,388,12,22]}
-{"kind":"textbox","id":"sh/nih4byhg","slide":2,"name":"timeline-item-2-2","text":"퍼블리셔 요청 정리","textPreview":"퍼블리셔 요청 정리","textChars":10,"textLines":1,"bbox":[274,391,118,30]}
-{"kind":"textbox","id":"sh/yxobm58z","slide":2,"name":"timeline-dot-2-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,422,12,22]}
-{"kind":"textbox","id":"sh/9s36hcrm","slide":2,"name":"timeline-item-2-3","text":"개발 마감 기준","textPreview":"개발 마감 기준","textChars":8,"textLines":1,"bbox":[274,425,118,30]}
-{"kind":"shape","id":"sh/g7adsji5","slide":2,"name":"timeline-card-3","bbox":[434,232,166,250]}
-{"kind":"shape","id":"sh/ap4r65wj","slide":2,"name":"timeline-bar-3","bbox":[434,232,166,7]}
-{"kind":"textbox","id":"sh/za1gvy90","slide":2,"name":"timeline-month-3","text":"D-4M","textPreview":"D-4M","textChars":4,"textLines":1,"bbox":[450,256,70,24]}
-{"kind":"textbox","id":"sh/svu9knih","slide":2,"name":"timeline-title-3","text":"QA 진입","textPreview":"QA 진입","textChars":5,"textLines":1,"bbox":[450,290,132,48]}
-{"kind":"textbox","id":"sh/hgn29gr2","slide":2,"name":"timeline-dot-3-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,354,12,22]}
-{"kind":"textbox","id":"sh/a1gvy90j","slide":2,"name":"timeline-item-3-1","text":"일본향 빌드 점검","textPreview":"일본향 빌드 점검","textChars":9,"textLines":1,"bbox":[464,357,118,30]}
-{"kind":"textbox","id":"sh/zidonyd0","slide":2,"name":"timeline-dot-3-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,388,12,22]}
-{"kind":"textbox","id":"sh/s36hcrmh","slide":2,"name":"timeline-item-3-2","text":"이슈 등급 분류","textPreview":"이슈 등급 분류","textChars":8,"textLines":1,"bbox":[464,391,118,30]}
-{"kind":"textbox","id":"sh/hoza1gvy","slide":2,"name":"timeline-dot-3-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,422,12,22]}
-{"kind":"textbox","id":"sh/a5gbq1or","slide":2,"name":"timeline-item-3-3","text":"수정 우선순위","textPreview":"수정 우선순위","textChars":7,"textLines":1,"bbox":[464,425,118,30]}
-{"kind":"shape","id":"sh/3m94fu18","slide":2,"name":"timeline-card-4","bbox":[624,232,166,250]}
-{"kind":"shape","id":"sh/7adsji5s","slide":2,"name":"timeline-bar-4","bbox":[624,232,166,7]}
-{"kind":"textbox","id":"sh/epkzupwb","slide":2,"name":"timeline-month-4","text":"D-3M","textPreview":"D-3M","textChars":4,"textLines":1,"bbox":[640,256,70,24]}
-{"kind":"textbox","id":"sh/pg3ex0nu","slide":2,"name":"timeline-title-4","text":"검수·CBT 준비","textPreview":"검수·CBT 준비","textChars":9,"textLines":1,"bbox":[640,290,132,48]}
-{"kind":"textbox","id":"sh/wval87ed","slide":2,"name":"timeline-dot-4-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,354,12,22]}
-{"kind":"textbox","id":"sh/7mp0bi9s","slide":2,"name":"timeline-item-4-1","text":"퍼블리셔 검수 대응","textPreview":"퍼블리셔 검수 대응","textChars":10,"textLines":1,"bbox":[654,357,118,30]}
-{"kind":"textbox","id":"sh/e1w7mp0b","slide":2,"name":"timeline-dot-4-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,388,12,22]}
-{"kind":"textbox","id":"sh/psfil0rq","slide":2,"name":"timeline-item-4-2","text":"CBT 빌드 기준","textPreview":"CBT 빌드 기준","textChars":9,"textLines":1,"bbox":[654,391,118,30]}
-{"kind":"textbox","id":"sh/w7mp0bi9","slide":2,"name":"timeline-dot-4-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,422,12,22]}
-{"kind":"textbox","id":"sh/7u54zido","slide":2,"name":"timeline-item-4-3","text":"운영 시나리오","textPreview":"운영 시나리오","textChars":7,"textLines":1,"bbox":[654,425,118,30]}
-{"kind":"shape","id":"sh/ed8bat47","slide":2,"name":"timeline-card-5","bbox":[814,232,166,250]}
-{"kind":"shape","id":"sh/oj2t83it","slide":2,"name":"timeline-bar-5","bbox":[814,232,166,7]}
-{"kind":"textbox","id":"sh/d4vmtwra","slide":2,"name":"timeline-month-5","text":"D-2M","textPreview":"D-2M","textChars":4,"textLines":1,"bbox":[830,256,70,24]}
-{"kind":"textbox","id":"sh/6dcbulwv","slide":2,"name":"timeline-title-5","text":"후보 빌드 안정화","textPreview":"후보 빌드 안정화","textChars":9,"textLines":1,"bbox":[830,290,132,48]}
-{"kind":"textbox","id":"sh/vy90je9c","slide":2,"name":"timeline-dot-5-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,354,12,22]}
-{"kind":"textbox","id":"sh/o7qpg3ex","slide":2,"name":"timeline-item-5-1","text":"릴리즈 후보 관리","textPreview":"릴리즈 후보 관리","textChars":9,"textLines":1,"bbox":[844,357,118,30]}
-{"kind":"textbox","id":"sh/dsji5sne","slide":2,"name":"timeline-dot-5-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,388,12,22]}
-{"kind":"textbox","id":"sh/61032lsz","slide":2,"name":"timeline-item-5-2","text":"잔여 이슈 추적","textPreview":"잔여 이슈 추적","textChars":8,"textLines":1,"bbox":[844,391,118,30]}
-{"kind":"textbox","id":"sh/vmtwra5g","slide":2,"name":"timeline-dot-5-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,422,12,22]}
-{"kind":"textbox","id":"sh/ovahoza1","slide":2,"name":"timeline-item-5-3","text":"심의·스토어 체크","textPreview":"심의·스토어 체크","textChars":9,"textLines":1,"bbox":[844,425,118,30]}
-{"kind":"shape","id":"sh/dg7adsji","slide":2,"name":"timeline-card-6","bbox":[1004,232,166,250]}
-{"kind":"shape","id":"sh/1kre1w7m","slide":2,"name":"timeline-bar-6","bbox":[1004,232,166,7]}
-{"kind":"textbox","id":"sh/c3ylc7u5","slide":2,"name":"timeline-month-6","text":"D-1M","textPreview":"D-1M","textChars":4,"textLines":1,"bbox":[1020,256,70,24]}
-{"kind":"textbox","id":"sh/ji5snelo","slide":2,"name":"timeline-title-6","text":"Live 릴리즈 준비","textPreview":"Live 릴리즈 준비","textChars":11,"textLines":1,"bbox":[1020,290,132,48]}
-{"kind":"textbox","id":"sh/uxc3ylc7","slide":2,"name":"timeline-dot-6-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,354,12,22]}
-{"kind":"textbox","id":"sh/1cfa9w3m","slide":2,"name":"timeline-item-6-1","text":"배포 리허설","textPreview":"배포 리허설","textChars":6,"textLines":1,"bbox":[1034,357,118,30]}
-{"kind":"textbox","id":"sh/crmhk3q5","slide":2,"name":"timeline-dot-6-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,388,12,22]}
-{"kind":"textbox","id":"sh/j6tovaho","slide":2,"name":"timeline-item-6-2","text":"장애 대응 플랜","textPreview":"장애 대응 플랜","textChars":8,"textLines":1,"bbox":[1034,391,118,30]}
-{"kind":"textbox","id":"sh/ulwval87","slide":2,"name":"timeline-dot-6-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,422,12,22]}
-{"kind":"textbox","id":"sh/18jqh0fe","slide":2,"name":"timeline-item-6-3","text":"런칭 당일 체계","textPreview":"런칭 당일 체계","textChars":8,"textLines":1,"bbox":[1034,425,118,30]}
-{"kind":"textbox","id":"sh/8nqxs72x","slide":2,"name":"management-title","text":"PM 관리 포인트","textPreview":"PM 관리 포인트","textChars":9,"textLines":1,"bbox":[54,506,240,28]}
-{"kind":"textbox","id":"sh/mhk3q5o7","slide":2,"name":"management-note","text":"마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.","textPreview":"마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.","textChars":44,"textLines":1,"bbox":[242,511,760,22]}
-{"kind":"shape","id":"sh/b2hwfyxo","slide":2,"name":"mgmt-card-1","bbox":[54,546,260,82]}
-{"kind":"shape","id":"sh/4nap4r65","slide":2,"name":"mgmt-bar-1","bbox":[54,546,260,5]}
-{"kind":"textbox","id":"sh/t83itgfm","slide":2,"name":"mgmt-label-1","text":"마일스톤","textPreview":"마일스톤","textChars":4,"textLines":1,"bbox":[74,566,210,24]}
-{"kind":"textbox","id":"sh/m58z25kb","slide":2,"name":"mgmt-body-1","text":"일정·범위 통제 기준 관리","textPreview":"일정·범위 통제 기준 관리","textChars":14,"textLines":1,"bbox":[74,594,214,24]}
-{"kind":"shape","id":"sh/bq1oryts","slide":2,"name":"mgmt-card-2","bbox":[340,546,260,82]}
-{"kind":"shape","id":"sh/4byhgn29","slide":2,"name":"mgmt-bar-2","bbox":[340,546,260,5]}
-{"kind":"textbox","id":"sh/twra5gbq","slide":2,"name":"mgmt-label-2","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[360,566,210,24]}
-{"kind":"textbox","id":"sh/m1cfa9w3","slide":2,"name":"mgmt-body-2","text":"Perforce 기반 릴리즈 관리","textPreview":"Perforce 기반 릴리즈 관리","textChars":18,"textLines":1,"bbox":[360,594,214,24]}
-{"kind":"shape","id":"sh/bm58z25k","slide":2,"name":"mgmt-card-3","bbox":[626,546,260,82]}
-{"kind":"shape","id":"sh/fepkzupw","slide":2,"name":"mgmt-bar-3","bbox":[626,546,260,5]}
-{"kind":"textbox","id":"sh/mtwra5gb","slide":2,"name":"mgmt-label-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[646,566,210,24]}
-{"kind":"textbox","id":"sh/xkf6dcbu","slide":2,"name":"mgmt-body-3","text":"이슈 대응과 수정 반영 추적","textPreview":"이슈 대응과 수정 반영 추적","textChars":15,"textLines":1,"bbox":[646,594,214,24]}
-{"kind":"shape","id":"sh/4zidonyd","slide":2,"name":"mgmt-card-4","bbox":[912,546,260,82]}
-{"kind":"shape","id":"sh/f6dcbulw","slide":2,"name":"mgmt-bar-4","bbox":[912,546,260,5]}
-{"kind":"textbox","id":"sh/mlkjm1cf","slide":2,"name":"mgmt-label-4","text":"퍼블리셔 대응","textPreview":"퍼블리셔 대응","textChars":7,"textLines":1,"bbox":[932,566,210,24]}
-{"kind":"textbox","id":"sh/xc3ylc7u","slide":2,"name":"mgmt-body-4","text":"협업 이슈와 의사결정 정리","textPreview":"협업 이슈와 의사결정 정리","textChars":14,"textLines":1,"bbox":[932,594,214,24]}
-{"kind":"notes","id":"nt/in6a6x","slide":2,"text":""}
-{"kind":"slide","id":"sl/4aj5ic","slide":3,"title":"LAUNCH GATE CRITERIA | PAGE 03","textShapes":37}
-{"kind":"shape","id":"sh/0rqd4vmt","slide":3,"name":"top-accent","bbox":[0,0,1280,10]}
-{"kind":"shape","id":"sh/b6xkf6dc","slide":3,"name":"left-accent","bbox":[0,0,16,720]}
-{"kind":"textbox","id":"sh/il0rqd4v","slide":3,"name":"eyebrow","text":"LAUNCH GATE CRITERIA | PAGE 03","textPreview":"LAUNCH GATE CRITERIA | PAGE 03","textChars":30,"textLines":1,"bbox":[54,38,620,30]}
-{"kind":"textbox","id":"sh/t47y1kre","slide":3,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
-{"kind":"textbox","id":"sh/0je9cvix","slide":3,"name":"page-no","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
-{"kind":"textbox","id":"sh/byhgn29g","slide":3,"name":"title-03","text":"마일스톤은 일정이 아니라 통과 기준으로 관리합니다","textPreview":"마일스톤은 일정이 아니라 통과 기준으로 관리합니다","textChars":27,"textLines":1,"bbox":[54,82,1110,56]}
-{"kind":"textbox","id":"sh/idonyd0z","slide":3,"name":"subtitle-03","text":"월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·버전·QA·퍼블리셔 기준을 함께 판정합니다.","textPreview":"월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·버전·QA·퍼블리셔 기준을 함께 판정합니다.","textChars":57,"textLines":1,"bbox":[56,144,1080,34]}
-{"kind":"textbox","id":"sh/p0bi9s36","slide":3,"name":"gate-section-title","text":"핵심 게이트","textPreview":"핵심 게이트","textChars":6,"textLines":1,"bbox":[54,184,220,30]}
-{"kind":"shape","id":"sh/0fepkzup","slide":3,"name":"gate-card-1","bbox":[54,220,390,98]}
-{"kind":"shape","id":"sh/itgfmlkj","slide":3,"name":"gate-bar-1","bbox":[54,220,7,98]}
-{"kind":"textbox","id":"sh/7ed8bat4","slide":3,"name":"gate-phase-1","text":"Gate 1","textPreview":"Gate 1","textChars":6,"textLines":1,"bbox":[82,236,84,24]}
-{"kind":"textbox","id":"sh/0z61032l","slide":3,"name":"gate-title-1","text":"범위 고정","textPreview":"범위 고정","textChars":5,"textLines":1,"bbox":[170,235,230,26]}
-{"kind":"textbox","id":"sh/pkzupwb2","slide":3,"name":"gate-body-1","text":"일본 서비스 범위와 마일스톤 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.","textPreview":"일본 서비스 범위와 마일스톤 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.","textChars":48,"textLines":1,"bbox":[82,272,318,32]}
-{"kind":"shape","id":"sh/ih4byhgn","slide":3,"name":"gate-card-2","bbox":[54,346,390,98]}
-{"kind":"shape","id":"sh/72x4nap4","slide":3,"name":"gate-bar-2","bbox":[54,346,7,98]}
-{"kind":"textbox","id":"sh/0nuxc3yl","slide":3,"name":"gate-phase-2","text":"Gate 2","textPreview":"Gate 2","textChars":6,"textLines":1,"bbox":[82,362,84,24]}
-{"kind":"textbox","id":"sh/p8nqxs72","slide":3,"name":"gate-title-2","text":"QA·검수 진입","textPreview":"QA·검수 진입","textChars":8,"textLines":1,"bbox":[170,361,230,26]}
-{"kind":"textbox","id":"sh/ed8v6psf","slide":3,"name":"gate-body-2","text":"현지화 리소스와 빌드 반영 상태를 확인한 뒤 QA와 퍼블리셔 검수에 진입합니다.","textPreview":"현지화 리소스와 빌드 반영 상태를 확인한 뒤 QA와 퍼블리셔 검수에 진입합니다.","textChars":44,"textLines":1,"bbox":[82,398,318,32]}
-{"kind":"shape","id":"sh/7y1kre1w","slide":3,"name":"gate-card-3","bbox":[54,472,390,98]}
-{"kind":"shape","id":"sh/j6tovaho","slide":3,"name":"gate-bar-3","bbox":[54,472,7,98]}
-{"kind":"textbox","id":"sh/ulwval87","slide":3,"name":"gate-phase-3","text":"Gate 3","textPreview":"Gate 3","textChars":6,"textLines":1,"bbox":[82,488,84,24]}
-{"kind":"textbox","id":"sh/1cfa9w3m","slide":3,"name":"gate-title-3","text":"릴리즈 후보","textPreview":"릴리즈 후보","textChars":6,"textLines":1,"bbox":[170,487,230,26]}
-{"kind":"textbox","id":"sh/crmhk3q5","slide":3,"name":"gate-body-3","text":"주요 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.","textPreview":"주요 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.","textChars":44,"textLines":1,"bbox":[82,524,318,32]}
-{"kind":"textbox","id":"sh/ji5snelo","slide":3,"name":"decision-title","text":"판정 체크리스트","textPreview":"판정 체크리스트","textChars":8,"textLines":1,"bbox":[492,184,240,30]}
-{"kind":"textbox","id":"sh/uxc3ylc7","slide":3,"name":"decision-note","text":"각 항목은 다음 단계 진입 가능성을 기준으로 판단합니다.","textPreview":"각 항목은 다음 단계 진입 가능성을 기준으로 판단합니다.","textChars":31,"textLines":1,"bbox":[724,190,430,22]}
-{"kind":"shape","id":"sh/1kre1w7m","slide":3,"name":"decision-header","bbox":[492,224,704,34]}
-{"kind":"textbox","id":"sh/c3ylc7u5","slide":3,"name":"decision-th-1","text":"항목","textPreview":"항목","textChars":2,"textLines":1,"bbox":[518,232,120,20]}
-{"kind":"textbox","id":"sh/jqh0fepk","slide":3,"name":"decision-th-2","text":"통과 기준","textPreview":"통과 기준","textChars":5,"textLines":1,"bbox":[728,232,180,20]}
-{"kind":"textbox","id":"sh/q5o7qpg3","slide":3,"name":"decision-th-3","text":"주관","textPreview":"주관","textChars":2,"textLines":1,"bbox":[1060,232,80,20]}
-{"kind":"shape","id":"sh/0fepkzup","slide":3,"name":"decision-row-1","bbox":[492,258,704,58]}
-{"kind":"textbox","id":"sh/p0bi9s36","slide":3,"name":"decision-item-1","text":"서비스 범위","textPreview":"서비스 범위","textChars":6,"textLines":1,"bbox":[518,275,190,24]}
-{"kind":"textbox","id":"sh/i9s36hcr","slide":3,"name":"decision-gate-1","text":"런칭 포함·제외 범위와 변경 승인 기준 확정","textPreview":"런칭 포함·제외 범위와 변경 승인 기준 확정","textChars":24,"textLines":1,"bbox":[728,270,300,34]}
-{"kind":"textbox","id":"sh/bulwval8","slide":3,"name":"decision-owner-1","text":"PM","textPreview":"PM","textChars":2,"textLines":1,"bbox":[1056,275,98,24]}
-{"kind":"shape","id":"sh/032lszqt","slide":3,"name":"decision-row-2","bbox":[492,316,704,58]}
-{"kind":"textbox","id":"sh/tovahoza","slide":3,"name":"decision-item-2","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[518,333,190,24]}
-{"kind":"textbox","id":"sh/ixczed8v","slide":3,"name":"decision-gate-2","text":"Perforce 브랜치와 후보 빌드 태그 기준 합의","textPreview":"Perforce 브랜치와 후보 빌드 태그 기준 합의","textChars":28,"textLines":1,"bbox":[728,328,300,34]}
-{"kind":"textbox","id":"sh/bi9s36hc","slide":3,"name":"decision-owner-2","text":"개발","textPreview":"개발","textChars":2,"textLines":1,"bbox":[1056,333,98,24]}
-{"kind":"shape","id":"sh/0rqd4vmt","slide":3,"name":"decision-row-3","bbox":[492,374,704,58]}
-{"kind":"textbox","id":"sh/tcj6tova","slide":3,"name":"decision-item-3","text":"QA 안정성","textPreview":"QA 안정성","textChars":6,"textLines":1,"bbox":[518,391,190,24]}
-{"kind":"textbox","id":"sh/l87ed8ba","slide":3,"name":"decision-gate-3","text":"주요 이슈 수정 계획과 잔여 리스크 공유","textPreview":"주요 이슈 수정 계획과 잔여 리스크 공유","textChars":22,"textLines":1,"bbox":[728,386,300,34]}
-{"kind":"textbox","id":"sh/sneloj2t","slide":3,"name":"decision-owner-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[1056,391,98,24]}
-{"kind":"shape","id":"sh/32lszqtc","slide":3,"name":"decision-row-4","bbox":[492,432,704,58]}
-{"kind":"textbox","id":"sh/ahoza1gv","slide":3,"name":"decision-item-4","text":"퍼블리셔 대응","textPreview":"퍼블리셔 대응","textChars":7,"textLines":1,"bbox":[518,449,190,24]}
-{"kind":"textbox","id":"sh/lkjm1cfa","slide":3,"name":"decision-gate-4","text":"검수 요청, 피드백, 재전달 일정 추적","textPreview":"검수 요청, 피드백, 재전달 일정 추적","textChars":21,"textLines":1,"bbox":[728,444,300,34]}
-{"kind":"textbox","id":"sh/szqtcj6t","slide":3,"name":"decision-owner-4","text":"PM","textPreview":"PM","textChars":2,"textLines":1,"bbox":[1056,449,98,24]}
-{"kind":"shape","id":"sh/3ex0nuxc","slide":3,"name":"decision-row-5","bbox":[492,490,704,58]}
-{"kind":"textbox","id":"sh/at47y1kr","slide":3,"name":"decision-item-5","text":"Live 릴리즈","textPreview":"Live 릴리즈","textChars":8,"textLines":1,"bbox":[518,507,190,24]}
-{"kind":"textbox","id":"sh/loj2t83i","slide":3,"name":"decision-gate-5","text":"배포·공지·장애 대응 담당자 확인","textPreview":"배포·공지·장애 대응 담당자 확인","textChars":18,"textLines":1,"bbox":[728,502,300,34]}
-{"kind":"textbox","id":"sh/w3m94fu1","slide":3,"name":"decision-owner-5","text":"운영","textPreview":"운영","textChars":2,"textLines":1,"bbox":[1056,507,98,24]}
-{"kind":"shape","id":"sh/61032lsz","slide":3,"name":"principle-panel","bbox":[54,608,1142,44]}
-{"kind":"textbox","id":"sh/vmtwra5g","slide":3,"name":"principle-label","text":"운영 원칙","textPreview":"운영 원칙","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
-{"kind":"textbox","id":"sh/o7qpg3ex","slide":3,"name":"principle-body","text":"미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.","textPreview":"미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.","textChars":51,"textLines":1,"bbox":[206,620,850,22]}
-{"kind":"notes","id":"nt/4aj5ic","slide":3,"text":""}
-{"kind":"slide","id":"sl/pn0mau","slide":4,"title":"RISK RESPONSE SYSTEM | PAGE 04","textShapes":40}
-{"kind":"shape","id":"sh/3m94fu18","slide":4,"name":"top-accent","bbox":[0,0,1280,10]}
-{"kind":"shape","id":"sh/s72x4nap","slide":4,"name":"left-accent","bbox":[0,0,16,720]}
-{"kind":"textbox","id":"sh/lszqtcj6","slide":4,"name":"eyebrow","text":"RISK RESPONSE SYSTEM | PAGE 04","textPreview":"RISK RESPONSE SYSTEM | PAGE 04","textChars":30,"textLines":1,"bbox":[54,38,620,30]}
-{"kind":"textbox","id":"sh/adsji5sn","slide":4,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
-{"kind":"textbox","id":"sh/3ylc7u54","slide":4,"name":"page-no","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
-{"kind":"textbox","id":"sh/sji5snel","slide":4,"name":"title-04","text":"런칭 리스크는 조기 분리와 이슈 대응으로 관리합니다","textPreview":"런칭 리스크는 조기 분리와 이슈 대응으로 관리합니다","textChars":28,"textLines":1,"bbox":[54,82,1110,56]}
-{"kind":"textbox","id":"sh/h4byhgn2","slide":4,"name":"subtitle-04","text":"일정·범위·빌드·버전·QA에 미치는 영향을 먼저 보이게 만들어야 의사결정이 빨라집니다.","textPreview":"일정·범위·빌드·버전·QA에 미치는 영향을 먼저 보이게 만들어야 의사결정이 빨라집니다.","textChars":48,"textLines":1,"bbox":[56,144,1080,34]}
-{"kind":"textbox","id":"sh/ap4r65wj","slide":4,"name":"risk-title","text":"주요 리스크","textPreview":"주요 리스크","textChars":6,"textLines":1,"bbox":[54,184,220,30]}
-{"kind":"shape","id":"sh/za1gvy90","slide":4,"name":"risk-header","bbox":[54,216,690,26]}
-{"kind":"textbox","id":"sh/z61032ls","slide":4,"name":"risk-th-1","text":"리스크","textPreview":"리스크","textChars":3,"textLines":1,"bbox":[78,221,110,18]}
-{"kind":"textbox","id":"sh/al87ed8b","slide":4,"name":"risk-th-2","text":"영향","textPreview":"영향","textChars":2,"textLines":1,"bbox":[226,221,120,18]}
-{"kind":"textbox","id":"sh/hcrmhk3q","slide":4,"name":"risk-th-3","text":"대응","textPreview":"대응","textChars":2,"textLines":1,"bbox":[500,221,120,18]}
-{"kind":"shape","id":"sh/orytsvu9","slide":4,"name":"risk-row-1","bbox":[54,242,690,66]}
-{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"name":"risk-name-1","text":"현지화 지연","textPreview":"현지화 지연","textChars":6,"textLines":1,"bbox":[78,262,130,24]}
-{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"name":"risk-impact-1","text":"번역·리소스 반영 지연으로 검수 일정 압박","textPreview":"번역·리소스 반영 지연으로 검수 일정 압박","textChars":23,"textLines":1,"bbox":[226,255,250,38]}
-{"kind":"textbox","id":"sh/h0fepkzu","slide":4,"name":"risk-response-1","text":"반영 범위와 우선순위 재정렬","textPreview":"반영 범위와 우선순위 재정렬","textChars":15,"textLines":1,"bbox":[500,255,190,38]}
-{"kind":"shape","id":"sh/sfil0rqd","slide":4,"name":"risk-row-2","bbox":[54,308,690,66]}
-{"kind":"textbox","id":"sh/zqtcj6to","slide":4,"name":"risk-name-2","text":"빌드 불안정","textPreview":"빌드 불안정","textChars":6,"textLines":1,"bbox":[78,328,130,24]}
-{"kind":"textbox","id":"sh/65wjudg7","slide":4,"name":"risk-impact-2","text":"후보 빌드 기준 미고정과 긴급 수정 누적","textPreview":"후보 빌드 기준 미고정과 긴급 수정 누적","textChars":22,"textLines":1,"bbox":[226,321,250,38]}
-{"kind":"textbox","id":"sh/ed8bat47","slide":4,"name":"risk-response-2","text":"브랜치·태그 기준 고정","textPreview":"브랜치·태그 기준 고정","textChars":12,"textLines":1,"bbox":[500,321,190,38]}
-{"kind":"shape","id":"sh/7u54zido","slide":4,"name":"risk-row-3","bbox":[54,374,690,66]}
-{"kind":"textbox","id":"sh/wfyxobm5","slide":4,"name":"risk-name-3","text":"QA 병목","textPreview":"QA 병목","textChars":5,"textLines":1,"bbox":[78,394,130,24]}
-{"kind":"textbox","id":"sh/l0rqd4vm","slide":4,"name":"risk-impact-3","text":"이슈 분류 지연과 수정 검증 대기 증가","textPreview":"이슈 분류 지연과 수정 검증 대기 증가","textChars":21,"textLines":1,"bbox":[226,387,250,38]}
-{"kind":"textbox","id":"sh/eloj2t83","slide":4,"name":"risk-response-3","text":"재현 정보와 수정 일정 추적","textPreview":"재현 정보와 수정 일정 추적","textChars":15,"textLines":1,"bbox":[500,387,190,38]}
-{"kind":"shape","id":"sh/36hcrmhk","slide":4,"name":"risk-row-4","bbox":[54,440,690,66]}
-{"kind":"textbox","id":"sh/wra5gbq1","slide":4,"name":"risk-name-4","text":"피드백 지연","textPreview":"피드백 지연","textChars":6,"textLines":1,"bbox":[78,460,130,24]}
-{"kind":"textbox","id":"sh/lc7u54zi","slide":4,"name":"risk-impact-4","text":"퍼블리셔 검수 의견 회신과 재전달 일정 불명확","textPreview":"퍼블리셔 검수 의견 회신과 재전달 일정 불명확","textChars":25,"textLines":1,"bbox":[226,453,250,38]}
-{"kind":"textbox","id":"sh/epkzupwb","slide":4,"name":"risk-response-4","text":"요청·회신·재전달 상태 관리","textPreview":"요청·회신·재전달 상태 관리","textChars":15,"textLines":1,"bbox":[500,453,190,38]}
-{"kind":"shape","id":"sh/7adsji5s","slide":4,"name":"risk-row-5","bbox":[54,506,690,66]}
-{"kind":"textbox","id":"sh/tgfmlkjm","slide":4,"name":"risk-name-5","text":"직전 변경","textPreview":"직전 변경","textChars":5,"textLines":1,"bbox":[78,526,130,24]}
-{"kind":"textbox","id":"sh/4vmtwra5","slide":4,"name":"risk-impact-5","text":"서비스 범위와 운영 정책 변경으로 품질 흔들림","textPreview":"서비스 범위와 운영 정책 변경으로 품질 흔들림","textChars":25,"textLines":1,"bbox":[226,519,250,38]}
-{"kind":"textbox","id":"sh/bat47y1k","slide":4,"name":"risk-response-5","text":"영향도 검토 후 반영·보류 결정","textPreview":"영향도 검토 후 반영·보류 결정","textChars":17,"textLines":1,"bbox":[500,519,190,38]}
-{"kind":"textbox","id":"sh/mp0bi9s3","slide":4,"name":"process-title","text":"대응 프로세스","textPreview":"대응 프로세스","textChars":7,"textLines":1,"bbox":[800,184,240,30]}
-{"kind":"textbox","id":"sh/tsvu9kni","slide":4,"name":"process-note","text":"먼저 분류·담당을 잡습니다.","textPreview":"먼저 분류·담당을 잡습니다.","textChars":15,"textLines":1,"bbox":[990,190,220,22]}
-{"kind":"shape","id":"sh/47y1kre1","slide":4,"name":"process-step-1","bbox":[800,236,390,74]}
-{"kind":"shape","id":"sh/bm58z25k","slide":4,"name":"process-step-bar-1","bbox":[800,236,6,74]}
-{"kind":"textbox","id":"sh/m1cfa9w3","slide":4,"name":"process-step-no-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[824,254,58,34]}
-{"kind":"textbox","id":"sh/twra5gbq","slide":4,"name":"process-step-title-1","text":"이슈 등록","textPreview":"이슈 등록","textChars":5,"textLines":1,"bbox":[902,248,220,24]}
-{"kind":"textbox","id":"sh/4byhgn29","slide":4,"name":"process-step-body-1","text":"일정·빌드·QA·퍼블리셔 항목 분류","textPreview":"일정·빌드·QA·퍼블리셔 항목 분류","textChars":19,"textLines":1,"bbox":[902,275,250,28]}
-{"kind":"shape","id":"sh/8nqxs72x","slide":4,"name":"process-step-2","bbox":[800,322,390,74]}
-{"kind":"shape","id":"sh/18jqh0fe","slide":4,"name":"process-step-bar-2","bbox":[800,322,6,74]}
-{"kind":"textbox","id":"sh/qh0fepkz","slide":4,"name":"process-step-no-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[824,340,58,34]}
-{"kind":"textbox","id":"sh/j2t83itg","slide":4,"name":"process-step-title-2","text":"영향도 판단","textPreview":"영향도 판단","textChars":6,"textLines":1,"bbox":[902,334,220,24]}
-{"kind":"textbox","id":"sh/8bat47y1","slide":4,"name":"process-step-body-2","text":"일정·범위·품질 영향도 확인","textPreview":"일정·범위·품질 영향도 확인","textChars":15,"textLines":1,"bbox":[902,361,250,28]}
-{"kind":"shape","id":"sh/1w7mp0bi","slide":4,"name":"process-step-3","bbox":[800,408,390,74]}
-{"kind":"shape","id":"sh/q5o7qpg3","slide":4,"name":"process-step-bar-3","bbox":[800,408,6,74]}
-{"kind":"textbox","id":"sh/jqh0fepk","slide":4,"name":"process-step-no-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[824,426,58,34]}
-{"kind":"textbox","id":"sh/c3ylc7u5","slide":4,"name":"process-step-title-3","text":"담당·기한 지정","textPreview":"담당·기한 지정","textChars":8,"textLines":1,"bbox":[902,420,220,24]}
-{"kind":"textbox","id":"sh/1kre1w7m","slide":4,"name":"process-step-body-3","text":"개발·QA·퍼블리셔 담당 확정","textPreview":"개발·QA·퍼블리셔 담당 확정","textChars":16,"textLines":1,"bbox":[902,447,250,28]}
-{"kind":"shape","id":"sh/re1w7mp0","slide":4,"name":"process-step-4","bbox":[800,494,390,74]}
-{"kind":"shape","id":"sh/2t83itgf","slide":4,"name":"process-step-bar-4","bbox":[800,494,6,74]}
-{"kind":"textbox","id":"sh/9knih4by","slide":4,"name":"process-step-no-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[824,512,58,34]}
-{"kind":"textbox","id":"sh/kzupwb2h","slide":4,"name":"process-step-title-4","text":"마일스톤 재판정","textPreview":"마일스톤 재판정","textChars":8,"textLines":1,"bbox":[902,506,220,24]}
-{"kind":"textbox","id":"sh/rqd4vmtw","slide":4,"name":"process-step-body-4","text":"해결·보류·제외 기준 정리","textPreview":"해결·보류·제외 기준 정리","textChars":14,"textLines":1,"bbox":[902,533,250,28]}
-{"kind":"shape","id":"sh/25kb6xkf","slide":4,"name":"risk-principle-panel","bbox":[54,608,1142,44]}
-{"kind":"textbox","id":"sh/9w3m94fu","slide":4,"name":"risk-principle-label","text":"PM 역할","textPreview":"PM 역할","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
-{"kind":"textbox","id":"sh/kb6xkf6d","slide":4,"name":"risk-principle-body","text":"리스크를 직접 해결하기보다, 일정·버전·이슈를 의사결정 가능한 상태로 정리하는 것이 핵심입니다.","textPreview":"리스크를 직접 해결하기보다, 일정·버전·이슈를 의사결정 가능한 상태로 정리하는 것이 핵심입니다.","textChars":53,"textLines":1,"bbox":[206,620,850,22]}
-{"kind":"notes","id":"nt/pn0mau","slide":4,"text":""}
-{"kind":"slide","id":"sl/d85y34","slide":5,"title":"PUBLISHER COMMUNICATION | PAGE 05","textShapes":49}
-{"kind":"shape","id":"sh/1032lszq","slide":5,"name":"top-accent","bbox":[0,0,1280,10]}
-{"kind":"shape","id":"sh/u9knih4b","slide":5,"name":"left-accent","bbox":[0,0,16,720]}
-{"kind":"textbox","id":"sh/judg7ads","slide":5,"name":"eyebrow","text":"PUBLISHER COMMUNICATION | PAGE 05","textPreview":"PUBLISHER COMMUNICATION | PAGE 05","textChars":33,"textLines":1,"bbox":[54,38,620,30]}
-{"kind":"textbox","id":"sh/c7u54zid","slide":5,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
-{"kind":"textbox","id":"sh/1orytsvu","slide":5,"name":"page-no","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
-{"kind":"textbox","id":"sh/u18jqh0f","slide":5,"name":"title-05","text":"퍼블리셔 대응은 일정·버전·이슈 기준을 하나로 맞춰 운영합니다","textPreview":"퍼블리셔 대응은 일정·버전·이슈 기준을 하나로 맞춰 운영합니다","textChars":34,"textLines":1,"bbox":[54,82,1110,56]}
-{"kind":"textbox","id":"sh/jm1cfa9w","slide":5,"name":"subtitle-05","text":"한·일 협업 구간에서는 요청과 피드백을 분리하지 않고, 마일스톤 판단에 필요한 상태값으로 정리해야 합니다.","textPreview":"한·일 협업 구간에서는 요청과 피드백을 분리하지 않고, 마일스톤 판단에 필요한 상태값으로 정리해야 합니다.","textChars":59,"textLines":1,"bbox":[56,144,1080,34]}
-{"kind":"textbox","id":"sh/cvixczed","slide":5,"name":"stakeholder-title","text":"협업 대상","textPreview":"협업 대상","textChars":5,"textLines":1,"bbox":[54,184,180,30]}
-{"kind":"textbox","id":"sh/5gbq1ory","slide":5,"name":"stakeholder-note","text":"역할별 확인 기준을 고정해 커뮤니케이션 누락을 줄입니다.","textPreview":"역할별 확인 기준을 고정해 커뮤니케이션 누락을 줄입니다.","textChars":31,"textLines":1,"bbox":[184,190,430,22]}
-{"kind":"shape","id":"sh/18jqh0fe","slide":5,"name":"stakeholder-card-1","bbox":[54,226,130,114]}
-{"kind":"shape","id":"sh/8nqxs72x","slide":5,"name":"stakeholder-bar-1","bbox":[54,226,130,6]}
-{"kind":"textbox","id":"sh/j2t83itg","slide":5,"name":"stakeholder-role-1","text":"개발 PM","textPreview":"개발 PM","textChars":5,"textLines":1,"bbox":[66,250,106,24]}
-{"kind":"textbox","id":"sh/qh0fepkz","slide":5,"name":"stakeholder-focus-1","text":"일정·범위 통제\n이슈 우선순위","textPreview":"일정·범위 통제 | 이슈 우선순위","textChars":16,"textLines":2,"bbox":[66,284,106,38]}
-{"kind":"shape","id":"sh/1w7mp0bi","slide":5,"name":"stakeholder-card-2","bbox":[204,226,130,114]}
-{"kind":"shape","id":"sh/8bat47y1","slide":5,"name":"stakeholder-bar-2","bbox":[204,226,130,6]}
-{"kind":"textbox","id":"sh/jqh0fepk","slide":5,"name":"stakeholder-role-2","text":"개발","textPreview":"개발","textChars":2,"textLines":1,"bbox":[216,250,106,24]}
-{"kind":"textbox","id":"sh/q5o7qpg3","slide":5,"name":"stakeholder-focus-2","text":"빌드 반영\n버전 기준 관리","textPreview":"빌드 반영 | 버전 기준 관리","textChars":14,"textLines":2,"bbox":[216,284,106,38]}
-{"kind":"shape","id":"sh/1kre1w7m","slide":5,"name":"stakeholder-card-3","bbox":[354,226,130,114]}
-{"kind":"shape","id":"sh/c3ylc7u5","slide":5,"name":"stakeholder-bar-3","bbox":[354,226,130,6]}
-{"kind":"textbox","id":"sh/orytsvu9","slide":5,"name":"stakeholder-role-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[366,250,106,24]}
-{"kind":"textbox","id":"sh/hcrmhk3q","slide":5,"name":"stakeholder-focus-3","text":"검수 결과\n수정 반영 추적","textPreview":"검수 결과 | 수정 반영 추적","textChars":14,"textLines":2,"bbox":[366,284,106,38]}
-{"kind":"shape","id":"sh/al87ed8b","slide":5,"name":"stakeholder-card-4","bbox":[504,226,130,114]}
-{"kind":"shape","id":"sh/z61032ls","slide":5,"name":"stakeholder-bar-4","bbox":[504,226,130,6]}
-{"kind":"textbox","id":"sh/sfil0rqd","slide":5,"name":"stakeholder-role-4","text":"운영","textPreview":"운영","textChars":2,"textLines":1,"bbox":[516,250,106,24]}
-{"kind":"textbox","id":"sh/h0fepkzu","slide":5,"name":"stakeholder-focus-4","text":"공지·이벤트\nLive 준비","textPreview":"공지·이벤트 | Live 준비","textChars":14,"textLines":2,"bbox":[516,284,106,38]}
-{"kind":"shape","id":"sh/a9w3m94f","slide":5,"name":"stakeholder-card-5","bbox":[654,226,130,114]}
-{"kind":"shape","id":"sh/zupwb2hw","slide":5,"name":"stakeholder-bar-5","bbox":[654,226,130,6]}
-{"kind":"textbox","id":"sh/obm58z25","slide":5,"name":"stakeholder-role-5","text":"일본 퍼블리셔","textPreview":"일본 퍼블리셔","textChars":7,"textLines":1,"bbox":[666,250,106,24]}
-{"kind":"textbox","id":"sh/hwfyxobm","slide":5,"name":"stakeholder-focus-5","text":"검수 피드백\n사업 요청사항","textPreview":"검수 피드백 | 사업 요청사항","textChars":14,"textLines":2,"bbox":[666,284,106,38]}
-{"kind":"textbox","id":"sh/7u54zido","slide":5,"name":"flow-title","text":"주간 커뮤니케이션 흐름","textPreview":"주간 커뮤니케이션 흐름","textChars":12,"textLines":1,"bbox":[54,382,270,30]}
-{"kind":"textbox","id":"sh/ed8bat47","slide":5,"name":"flow-note","text":"공유 목적은 보고가 아니라 다음 마일스톤 진입 가능 여부 판단입니다.","textPreview":"공유 목적은 보고가 아니라 다음 마일스톤 진입 가능 여부 판단입니다.","textChars":38,"textLines":1,"bbox":[306,388,470,22]}
-{"kind":"shape","id":"sh/l0rqd4vm","slide":5,"name":"collab-flow-step-1","bbox":[62,422,122,104]}
-{"kind":"textbox","id":"sh/wfyxobm5","slide":5,"name":"collab-flow-no-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[97,434,52,34]}
-{"kind":"textbox","id":"sh/36hcrmhk","slide":5,"name":"collab-flow-title-1","text":"점검","textPreview":"점검","textChars":2,"textLines":1,"bbox":[82,467,82,20]}
-{"kind":"textbox","id":"sh/eloj2t83","slide":5,"name":"collab-flow-body-1","text":"마일스톤 진행률\n및 지연 항목 확인","textPreview":"마일스톤 진행률 | 및 지연 항목 확인","textChars":19,"textLines":2,"bbox":[70,490,106,30]}
-{"kind":"textbox","id":"sh/lc7u54zi","slide":5,"name":"collab-flow-arrow-1","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[186,460,24,28]}
-{"kind":"shape","id":"sh/wra5gbq1","slide":5,"name":"collab-flow-step-2","bbox":[210,422,122,104]}
-{"kind":"textbox","id":"sh/7adsji5s","slide":5,"name":"collab-flow-no-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[245,434,52,34]}
-{"kind":"textbox","id":"sh/epkzupwb","slide":5,"name":"collab-flow-title-2","text":"전달","textPreview":"전달","textChars":2,"textLines":1,"bbox":[230,467,82,20]}
-{"kind":"textbox","id":"sh/ex0nuxc3","slide":5,"name":"collab-flow-body-2","text":"Perforce 기준\n빌드·버전 공유","textPreview":"Perforce 기준 | 빌드·버전 공유","textChars":20,"textLines":2,"bbox":[218,490,106,30]}
-{"kind":"textbox","id":"sh/3itgfmlk","slide":5,"name":"collab-flow-arrow-2","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[334,460,24,28]}
-{"kind":"shape","id":"sh/w3m94fu1","slide":5,"name":"collab-flow-step-3","bbox":[358,422,122,104]}
-{"kind":"textbox","id":"sh/loj2t83i","slide":5,"name":"collab-flow-no-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[393,434,52,34]}
-{"kind":"textbox","id":"sh/e9cvixcz","slide":5,"name":"collab-flow-title-3","text":"수집","textPreview":"수집","textChars":2,"textLines":1,"bbox":[378,467,82,20]}
-{"kind":"textbox","id":"sh/3q5o7qpg","slide":5,"name":"collab-flow-body-3","text":"퍼블리셔 검수\n피드백 정리","textPreview":"퍼블리셔 검수 | 피드백 정리","textChars":14,"textLines":2,"bbox":[366,490,106,30]}
-{"kind":"textbox","id":"sh/wb2hwfyx","slide":5,"name":"collab-flow-arrow-3","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[482,460,24,28]}
-{"kind":"shape","id":"sh/lwval87e","slide":5,"name":"collab-flow-step-4","bbox":[506,422,122,104]}
-{"kind":"textbox","id":"sh/ahoza1gv","slide":5,"name":"collab-flow-no-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[541,434,52,34]}
-{"kind":"textbox","id":"sh/32lszqtc","slide":5,"name":"collab-flow-title-4","text":"조정","textPreview":"조정","textChars":2,"textLines":1,"bbox":[526,467,82,20]}
-{"kind":"textbox","id":"sh/t47y1kre","slide":5,"name":"collab-flow-body-4","text":"일정·범위 영향도\n우선순위 판단","textPreview":"일정·범위 영향도 | 우선순위 판단","textChars":17,"textLines":2,"bbox":[514,490,106,30]}
-{"kind":"textbox","id":"sh/0je9cvix","slide":5,"name":"collab-flow-arrow-4","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[630,460,24,28]}
-{"kind":"shape","id":"sh/byhgn29g","slide":5,"name":"collab-flow-step-5","bbox":[654,422,122,104]}
-{"kind":"textbox","id":"sh/idonyd0z","slide":5,"name":"collab-flow-no-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[689,434,52,34]}
-{"kind":"textbox","id":"sh/tcj6tova","slide":5,"name":"collab-flow-title-5","text":"판단","textPreview":"판단","textChars":2,"textLines":1,"bbox":[674,467,82,20]}
-{"kind":"textbox","id":"sh/0rqd4vmt","slide":5,"name":"collab-flow-body-5","text":"릴리즈 후보\n진입 여부 확정","textPreview":"릴리즈 후보 | 진입 여부 확정","textChars":15,"textLines":2,"bbox":[662,490,106,30]}
-{"kind":"textbox","id":"sh/b6xkf6dc","slide":5,"name":"pm-points-title","text":"PM 관리 포인트","textPreview":"PM 관리 포인트","textChars":9,"textLines":1,"bbox":[850,184,220,30]}
-{"kind":"shape","id":"sh/il0rqd4v","slide":5,"name":"pm-point-1","bbox":[850,226,346,64]}
-{"kind":"shape","id":"sh/tovahoza","slide":5,"name":"pm-point-bar-1","bbox":[850,226,6,64]}
-{"kind":"textbox","id":"sh/032lszqt","slide":5,"name":"pm-point-label-1","text":"요청사항 단일화","textPreview":"요청사항 단일화","textChars":8,"textLines":1,"bbox":[874,237,262,22]}
-{"kind":"textbox","id":"sh/czed8v6p","slide":5,"name":"pm-point-body-1","text":"퍼블리셔 요청을 일정·범위·이슈로 재분류","textPreview":"퍼블리셔 요청을 일정·범위·이슈로 재분류","textChars":22,"textLines":1,"bbox":[874,262,278,18]}
-{"kind":"shape","id":"sh/5kb6xkf6","slide":5,"name":"pm-point-2","bbox":[850,308,346,64]}
-{"kind":"shape","id":"sh/ytsvu9kn","slide":5,"name":"pm-point-bar-2","bbox":[850,308,6,64]}
-{"kind":"textbox","id":"sh/neloj2t8","slide":5,"name":"pm-point-label-2","text":"버전 기준 고정","textPreview":"버전 기준 고정","textChars":8,"textLines":1,"bbox":[874,319,262,22]}
-{"kind":"textbox","id":"sh/cbulwval","slide":5,"name":"pm-point-body-2","text":"빌드 전달 시점과 검수 대상 버전을 명확화","textPreview":"빌드 전달 시점과 검수 대상 버전을 명확화","textChars":23,"textLines":1,"bbox":[874,344,278,18]}
-{"kind":"shape","id":"sh/5sneloj2","slide":5,"name":"pm-point-3","bbox":[850,390,346,64]}
-{"kind":"shape","id":"sh/u54zidon","slide":5,"name":"pm-point-bar-3","bbox":[850,390,6,64]}
-{"kind":"textbox","id":"sh/nqxs72x4","slide":5,"name":"pm-point-label-3","text":"의사결정 이슈 분리","textPreview":"의사결정 이슈 분리","textChars":10,"textLines":1,"bbox":[874,401,262,22]}
-{"kind":"textbox","id":"sh/gbq1oryt","slide":5,"name":"pm-point-body-3","text":"지연 가능 항목은 마일스톤 판단 안건으로 전환","textPreview":"지연 가능 항목은 마일스톤 판단 안건으로 전환","textChars":25,"textLines":1,"bbox":[874,426,278,18]}
-{"kind":"shape","id":"sh/5wjudg7a","slide":5,"name":"pm-point-4","bbox":[850,472,346,64]}
-{"kind":"shape","id":"sh/v6psfil0","slide":5,"name":"pm-point-bar-4","bbox":[850,472,6,64]}
-{"kind":"textbox","id":"sh/2lszqtcj","slide":5,"name":"pm-point-label-4","text":"Live 릴리즈 준비","textPreview":"Live 릴리즈 준비","textChars":11,"textLines":1,"bbox":[874,483,262,22]}
-{"kind":"textbox","id":"sh/d8bat47y","slide":5,"name":"pm-point-body-4","text":"배포·공지·운영 대응 항목을 같은 기준으로 확인","textPreview":"배포·공지·운영 대응 항목을 같은 기준으로 확인","textChars":26,"textLines":1,"bbox":[874,508,278,18]}
-{"kind":"shape","id":"sh/knih4byh","slide":5,"name":"collab-principle-panel","bbox":[54,608,1142,44]}
-{"kind":"textbox","id":"sh/vu9knih4","slide":5,"name":"collab-principle-label","text":"운영 원칙","textPreview":"운영 원칙","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
-{"kind":"textbox","id":"sh/29gr2p8n","slide":5,"name":"collab-principle-body","text":"퍼블리셔 대응은 별도 보고가 아니라 일정·버전·이슈를 통합 관리하는 PM 운영 흐름 안에서 처리합니다.","textPreview":"퍼블리셔 대응은 별도 보고가 아니라 일정·버전·이슈를 통합 관리하는 PM 운영 흐름 안에서 처리합니다.","textChars":57,"textLines":1,"bbox":[206,620,860,22]}
-{"kind":"notes","id":"nt/d85y34","slide":5,"text":""}
+{"kind":"deck","id":"pr/jverc5","name":"Deck"}
+{"kind":"layout","layoutId":"92e6cd73-c15e-4402-aae4-927e4d1d9a37","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"29f7e08e-2009-4c2c-b313-66f167909462","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/m2z5sa","slide":1,"title":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textShapes":26}
+{"kind":"shape","id":"sh/o321wr2t","slide":1,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/n2t0nm18","slide":1,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/mh0juhkn","slide":1,"name":"eyebrow","text":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textPreview":"HIT2 JAPAN LAUNCH ROADMAP | PAGE 01","textChars":35,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/1grilcj2","slide":1,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/0fi1s72h","slide":1,"name":"page-no","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"shape","id":"sh/ze90jm1w","slide":1,"name":"hero-panel","bbox":[42,34,1168,236]}
+{"kind":"textbox","id":"sh/ed0jqhkr","slide":1,"name":"hero-kicker","text":"개발 PM 관점의 글로벌 런칭 준비안","textPreview":"개발 PM 관점의 글로벌 런칭 준비안","textChars":20,"textLines":1,"bbox":[68,86,600,28]}
+{"kind":"textbox","id":"sh/dcrihcj6","slide":1,"name":"hero-title","text":"HIT2 일본 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 런칭 6개월 전 로드맵","textChars":20,"textLines":1,"bbox":[64,124,850,64]}
+{"kind":"textbox","id":"sh/cbi1o72l","slide":1,"name":"hero-subtitle","text":"마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.","textPreview":"마일스톤, 빌드·버전, QA, 퍼블리셔 커뮤니케이션을 하나의 출시 준비 흐름으로 정리합니다.","textChars":51,"textLines":1,"bbox":[68,200,840,34]}
+{"kind":"textbox","id":"sh/2hk3q907","slide":1,"name":"tag-1","text":"런칭 D-6M","textPreview":"런칭 D-6M","textChars":7,"textLines":1,"bbox":[930,84,170,34]}
+{"kind":"textbox","id":"sh/3id4zehs","slide":1,"name":"tag-2","text":"일본 서비스","textPreview":"일본 서비스","textChars":6,"textLines":1,"bbox":[930,132,170,34]}
+{"kind":"textbox","id":"sh/o3mlsjid","slide":1,"name":"tag-3","text":"개발 PM","textPreview":"개발 PM","textChars":5,"textLines":1,"bbox":[930,180,170,34]}
+{"kind":"textbox","id":"sh/p4vm1ozi","slide":1,"name":"scope-title","text":"작성 범위","textPreview":"작성 범위","textChars":5,"textLines":1,"bbox":[64,306,220,34]}
+{"kind":"textbox","id":"sh/edk3m90v","slide":1,"name":"scope-note","text":"실제 경력 서술을 바탕으로 한 임의 로드맵 초안","textPreview":"실제 경력 서술을 바탕으로 한 임의 로드맵 초안","textChars":26,"textLines":1,"bbox":[260,313,440,24]}
+{"kind":"shape","id":"sh/fet4vehg","slide":1,"name":"scope-row-1","bbox":[64,374,674,54]}
+{"kind":"textbox","id":"sh/gf2loji1","slide":1,"name":"scope-label-1","text":"목표","textPreview":"목표","textChars":2,"textLines":1,"bbox":[88,390,132,24]}
+{"kind":"textbox","id":"sh/1gbmxozm","slide":1,"name":"scope-value-1","text":"일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시","textPreview":"일본 런칭 전 6개월간의 준비 과업과 의사결정 흐름 제시","textChars":31,"textLines":1,"bbox":[236,389,460,26]}
+{"kind":"shape","id":"sh/6903ip0z","slide":1,"name":"scope-row-2","bbox":[64,428,674,54]}
+{"kind":"textbox","id":"sh/ra9kruhk","slide":1,"name":"scope-label-2","text":"핵심 축","textPreview":"핵심 축","textChars":4,"textLines":1,"bbox":[88,444,132,24]}
+{"kind":"textbox","id":"sh/vep0zqxc","slide":1,"name":"scope-value-2","text":"마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응","textPreview":"마일스톤 관리, 빌드·버전 통제, QA 안정화, 퍼블리셔 대응","textChars":34,"textLines":1,"bbox":[236,443,460,26]}
+{"kind":"shape","id":"sh/udgjqlgr","slide":1,"name":"scope-row-3","bbox":[64,482,674,54]}
+{"kind":"textbox","id":"sh/hg7i10fi","slide":1,"name":"scope-label-3","text":"산출물","textPreview":"산출물","textChars":3,"textLines":1,"bbox":[88,498,132,24]}
+{"kind":"textbox","id":"sh/wfy1svyx","slide":1,"name":"scope-value-3","text":"월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안","textPreview":"월별 로드맵, 게이트 기준, 리스크·커뮤니케이션 관리안","textChars":30,"textLines":1,"bbox":[236,497,460,26]}
+{"kind":"shape","id":"sh/jip03ax8","slide":1,"name":"scope-row-4","bbox":[64,536,674,54]}
+{"kind":"textbox","id":"sh/ihgju5gn","slide":1,"name":"scope-label-4","text":"전제","textPreview":"전제","textChars":2,"textLines":1,"bbox":[88,552,132,24]}
+{"kind":"textbox","id":"sh/5kri5kfe","slide":1,"name":"scope-value-4","text":"상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성","textPreview":"상세 일정과 지표는 과제 목적에 맞춘 가정값으로 구성","textChars":29,"textLines":1,"bbox":[236,551,460,26]}
+{"kind":"textbox","id":"sh/4ji1wfyt","slide":1,"name":"evidence-title","text":"경력 근거","textPreview":"경력 근거","textChars":5,"textLines":1,"bbox":[820,306,220,34]}
+{"kind":"shape","id":"sh/zm50r6x4","slide":1,"name":"evidence-card-1","bbox":[820,344,374,64]}
+{"kind":"shape","id":"sh/ylwzi1gj","slide":1,"name":"evidence-bar-1","bbox":[820,344,6,64]}
+{"kind":"textbox","id":"sh/ofapcna5","slide":1,"name":"evidence-title-1","text":"HIT2 일본 서비스 개발 PM","textPreview":"HIT2 일본 서비스 개발 PM","textChars":17,"textLines":1,"bbox":[844,354,300,24]}
+{"kind":"textbox","id":"sh/pgj65srq","slide":1,"name":"evidence-body-1","text":"런칭 운영을 담당 PM 관점에서 통합 관리","textPreview":"런칭 운영을 담당 PM 관점에서 통합 관리","textChars":23,"textLines":1,"bbox":[844,380,310,20]}
+{"kind":"shape","id":"sh/2d87adsz","slide":1,"name":"evidence-card-2","bbox":[820,428,374,64]}
+{"kind":"shape","id":"sh/3eho3i9k","slide":1,"name":"evidence-bar-2","bbox":[820,428,6,64]}
+{"kind":"textbox","id":"sh/grqp83a9","slide":1,"name":"evidence-title-2","text":"마일스톤 및 배포 일정 총괄","textPreview":"마일스톤 및 배포 일정 총괄","textChars":15,"textLines":1,"bbox":[844,438,300,24]}
+{"kind":"textbox","id":"sh/hcz618re","slide":1,"name":"evidence-body-2","text":"일정·범위·릴리즈 기준을 연결해 관리","textPreview":"일정·범위·릴리즈 기준을 연결해 관리","textChars":20,"textLines":1,"bbox":[844,464,310,20]}
+{"kind":"shape","id":"sh/up876ts3","slide":1,"name":"evidence-card-3","bbox":[820,512,374,64]}
+{"kind":"shape","id":"sh/fqhozy9o","slide":1,"name":"evidence-bar-3","bbox":[820,512,6,64]}
+{"kind":"textbox","id":"sh/0nupk7ad","slide":1,"name":"evidence-title-3","text":"Perforce 기반 빌드·버전 관리","textPreview":"Perforce 기반 빌드·버전 관리","textChars":20,"textLines":1,"bbox":[844,522,300,24]}
+{"kind":"textbox","id":"sh/l83qdcry","slide":1,"name":"evidence-body-3","text":"업데이트 안정성을 확보하는 릴리즈 체계 경험","textPreview":"업데이트 안정성을 확보하는 릴리즈 체계 경험","textChars":24,"textLines":1,"bbox":[844,548,310,20]}
+{"kind":"notes","id":"nt/m2z5sa","slide":1,"text":""}
+{"kind":"slide","id":"sl/68t7mg","slide":2,"title":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textShapes":63}
+{"kind":"shape","id":"sh/zuporahs","slide":2,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/0vypkfid","slide":2,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/1w76tkzy","slide":2,"name":"eyebrow","text":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textPreview":"SIX-MONTH LAUNCH ROADMAP | PAGE 02","textChars":34,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/mhg7mp0j","slide":2,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/ni9ovuh4","slide":2,"name":"page-no","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/ojipozyp","slide":2,"name":"title-02","text":"6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다","textPreview":"6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다","textChars":32,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/9kr6xkzu","slide":2,"name":"subtitle-02","text":"PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.","textPreview":"PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.","textChars":59,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"shape","id":"sh/2lwnal0f","slide":2,"name":"timeline-line","bbox":[82,357,1046,3]}
+{"kind":"shape","id":"sh/3m5ojqhk","slide":2,"name":"timeline-card-1","bbox":[54,232,166,250]}
+{"kind":"shape","id":"sh/bu9kf2h8","slide":2,"name":"timeline-bar-1","bbox":[54,232,166,7]}
+{"kind":"textbox","id":"sh/qt0j6xgn","slide":2,"name":"timeline-month-1","text":"D-6M","textPreview":"D-6M","textChars":4,"textLines":1,"bbox":[70,256,70,24]}
+{"kind":"textbox","id":"sh/dwr2hczy","slide":2,"name":"timeline-title-1","text":"범위·일정 확정","textPreview":"범위·일정 확정","textChars":8,"textLines":1,"bbox":[70,290,132,48]}
+{"kind":"textbox","id":"sh/cvi187yt","slide":2,"name":"timeline-dot-1-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,354,12,22]}
+{"kind":"textbox","id":"sh/3qpkb2hw","slide":2,"name":"timeline-item-1-1","text":"일본 서비스 범위","textPreview":"일본 서비스 범위","textChars":9,"textLines":1,"bbox":[84,357,118,30]}
+{"kind":"textbox","id":"sh/2pgj2xgb","slide":2,"name":"timeline-dot-1-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,388,12,22]}
+{"kind":"textbox","id":"sh/psr2dcz2","slide":2,"name":"timeline-item-1-2","text":"마일스톤 기준","textPreview":"마일스톤 기준","textChars":7,"textLines":1,"bbox":[84,391,118,30]}
+{"kind":"textbox","id":"sh/ory147yh","slide":2,"name":"timeline-dot-1-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[70,422,12,22]}
+{"kind":"textbox","id":"sh/f2p07ih0","slide":2,"name":"timeline-item-1-3","text":"브랜치 운영 원칙","textPreview":"브랜치 운영 원칙","textChars":9,"textLines":1,"bbox":[84,425,118,30]}
+{"kind":"shape","id":"sh/e1gjydgf","slide":2,"name":"timeline-card-2","bbox":[244,232,166,250]}
+{"kind":"shape","id":"sh/ixw3adk7","slide":2,"name":"timeline-bar-2","bbox":[244,232,166,7]}
+{"kind":"textbox","id":"sh/jy5kji1s","slide":2,"name":"timeline-month-2","text":"D-5M","textPreview":"D-5M","textChars":4,"textLines":1,"bbox":[260,256,70,24]}
+{"kind":"textbox","id":"sh/4zelcn2d","slide":2,"name":"timeline-title-2","text":"개발·현지화 반영","textPreview":"개발·현지화 반영","textChars":9,"textLines":1,"bbox":[260,290,132,48]}
+{"kind":"textbox","id":"sh/50n2lsjy","slide":2,"name":"timeline-dot-2-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,354,12,22]}
+{"kind":"textbox","id":"sh/6lg3exkj","slide":2,"name":"timeline-item-2-1","text":"번역 리소스 반영","textPreview":"번역 리소스 반영","textChars":9,"textLines":1,"bbox":[274,357,118,30]}
+{"kind":"textbox","id":"sh/rmpkn214","slide":2,"name":"timeline-dot-2-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,388,12,22]}
+{"kind":"textbox","id":"sh/snylg729","slide":2,"name":"timeline-item-2-2","text":"퍼블리셔 요청 정리","textPreview":"퍼블리셔 요청 정리","textChars":10,"textLines":1,"bbox":[274,391,118,30]}
+{"kind":"textbox","id":"sh/to72psju","slide":2,"name":"timeline-dot-2-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[260,422,12,22]}
+{"kind":"textbox","id":"sh/epg3ixkf","slide":2,"name":"timeline-item-2-3","text":"개발 마감 기준","textPreview":"개발 마감 기준","textChars":8,"textLines":1,"bbox":[274,425,118,30]}
+{"kind":"shape","id":"sh/fqpkr210","slide":2,"name":"timeline-card-3","bbox":[434,232,166,250]}
+{"kind":"shape","id":"sh/pkb6hw32","slide":2,"name":"timeline-bar-3","bbox":[434,232,166,7]}
+{"kind":"textbox","id":"sh/oji5ormh","slide":2,"name":"timeline-month-3","text":"D-4M","textPreview":"D-4M","textChars":4,"textLines":1,"bbox":[450,256,70,24]}
+{"kind":"textbox","id":"sh/3i94f6lc","slide":2,"name":"timeline-title-3","text":"QA 진입","textPreview":"QA 진입","textChars":5,"textLines":1,"bbox":[450,290,132,48]}
+{"kind":"textbox","id":"sh/2h0nm14r","slide":2,"name":"timeline-dot-3-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,354,12,22]}
+{"kind":"textbox","id":"sh/xob6lg3e","slide":2,"name":"timeline-item-3-1","text":"일본향 빌드 점검","textPreview":"일본향 빌드 점검","textChars":9,"textLines":1,"bbox":[464,357,118,30]}
+{"kind":"textbox","id":"sh/cn25sbmt","slide":2,"name":"timeline-dot-3-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,388,12,22]}
+{"kind":"textbox","id":"sh/bmtoj6l8","slide":2,"name":"timeline-item-3-2","text":"이슈 등급 분류","textPreview":"이슈 등급 분류","textChars":8,"textLines":1,"bbox":[464,391,118,30]}
+{"kind":"textbox","id":"sh/qlknq14n","slide":2,"name":"timeline-dot-3-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[450,422,12,22]}
+{"kind":"textbox","id":"sh/lcv6pg3a","slide":2,"name":"timeline-item-3-3","text":"수정 우선순위","textPreview":"수정 우선순위","textChars":7,"textLines":1,"bbox":[464,425,118,30]}
+{"kind":"shape","id":"sh/kb25wb2p","slide":2,"name":"timeline-card-4","bbox":[624,232,166,250]}
+{"kind":"shape","id":"sh/gjqh4ja9","slide":2,"name":"timeline-bar-4","bbox":[624,232,166,7]}
+{"kind":"textbox","id":"sh/hkzidoru","slide":2,"name":"timeline-month-4","text":"D-3M","textPreview":"D-3M","textChars":4,"textLines":1,"bbox":[640,256,70,24]}
+{"kind":"textbox","id":"sh/uh8z29s3","slide":2,"name":"timeline-title-4","text":"검수·CBT 준비","textPreview":"검수·CBT 준비","textChars":9,"textLines":1,"bbox":[640,290,132,48]}
+{"kind":"textbox","id":"sh/vih0be9o","slide":2,"name":"timeline-dot-4-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,354,12,22]}
+{"kind":"textbox","id":"sh/8v6h0zad","slide":2,"name":"timeline-item-4-1","text":"퍼블리셔 검수 대응","textPreview":"퍼블리셔 검수 대응","textChars":10,"textLines":1,"bbox":[654,357,118,30]}
+{"kind":"textbox","id":"sh/tgfy94ri","slide":2,"name":"timeline-dot-4-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,388,12,22]}
+{"kind":"textbox","id":"sh/6tozy9s7","slide":2,"name":"timeline-item-4-2","text":"CBT 빌드 기준","textPreview":"CBT 빌드 기준","textChars":9,"textLines":1,"bbox":[654,391,118,30]}
+{"kind":"textbox","id":"sh/7uxg7u9s","slide":2,"name":"timeline-dot-4-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[640,422,12,22]}
+{"kind":"textbox","id":"sh/srahc3qh","slide":2,"name":"timeline-item-4-3","text":"운영 시나리오","textPreview":"운영 시나리오","textChars":7,"textLines":1,"bbox":[654,425,118,30]}
+{"kind":"shape","id":"sh/dcjil8r2","slide":2,"name":"timeline-card-5","bbox":[814,232,166,250]}
+{"kind":"shape","id":"sh/n6lkb2t4","slide":2,"name":"timeline-bar-5","bbox":[814,232,166,7]}
+{"kind":"textbox","id":"sh/25cj2xsj","slide":2,"name":"timeline-month-5","text":"D-2M","textPreview":"D-2M","textChars":4,"textLines":1,"bbox":[830,256,70,24]}
+{"kind":"textbox","id":"sh/p8n2dcba","slide":2,"name":"timeline-title-5","text":"후보 빌드 안정화","textPreview":"후보 빌드 안정화","textChars":9,"textLines":1,"bbox":[830,290,132,48]}
+{"kind":"textbox","id":"sh/o7el47ap","slide":2,"name":"timeline-dot-5-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,354,12,22]}
+{"kind":"textbox","id":"sh/ba5kf2tg","slide":2,"name":"timeline-item-5-1","text":"릴리즈 후보 관리","textPreview":"릴리즈 후보 관리","textChars":9,"textLines":1,"bbox":[844,357,118,30]}
+{"kind":"textbox","id":"sh/a9w36hsv","slide":2,"name":"timeline-dot-5-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,388,12,22]}
+{"kind":"textbox","id":"sh/xcn2hcb6","slide":2,"name":"timeline-item-5-2","text":"잔여 이슈 추적","textPreview":"잔여 이슈 추적","textChars":8,"textLines":1,"bbox":[844,391,118,30]}
+{"kind":"textbox","id":"sh/cbel87al","slide":2,"name":"timeline-dot-5-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[830,422,12,22]}
+{"kind":"textbox","id":"sh/re1k3itw","slide":2,"name":"timeline-item-5-3","text":"심의·스토어 체크","textPreview":"심의·스토어 체크","textChars":9,"textLines":1,"bbox":[844,425,118,30]}
+{"kind":"shape","id":"sh/qdsjudcb","slide":2,"name":"timeline-card-6","bbox":[1004,232,166,250]}
+{"kind":"shape","id":"sh/u90n2lcz","slide":2,"name":"timeline-bar-6","bbox":[1004,232,166,7]}
+{"kind":"textbox","id":"sh/va9obqdk","slide":2,"name":"timeline-month-6","text":"D-1M","textPreview":"D-1M","textChars":4,"textLines":1,"bbox":[1020,256,70,24]}
+{"kind":"textbox","id":"sh/gvi54vu5","slide":2,"name":"timeline-title-6","text":"Live 릴리즈 준비","textPreview":"Live 릴리즈 준비","textChars":11,"textLines":1,"bbox":[1020,290,132,48]}
+{"kind":"textbox","id":"sh/hwr6d0vq","slide":2,"name":"timeline-dot-6-1","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,354,12,22]}
+{"kind":"textbox","id":"sh/65gny1c3","slide":2,"name":"timeline-item-6-1","text":"배포 리허설","textPreview":"배포 리허설","textChars":6,"textLines":1,"bbox":[1034,357,118,30]}
+{"kind":"textbox","id":"sh/76p476do","slide":2,"name":"timeline-dot-6-2","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,388,12,22]}
+{"kind":"textbox","id":"sh/87i50but","slide":2,"name":"timeline-item-6-2","text":"장애 대응 플랜","textPreview":"장애 대응 플랜","textChars":8,"textLines":1,"bbox":[1034,391,118,30]}
+{"kind":"textbox","id":"sh/t8rm9gve","slide":2,"name":"timeline-dot-6-3","text":"·","textPreview":"·","textChars":1,"textLines":1,"bbox":[1020,422,12,22]}
+{"kind":"textbox","id":"sh/y1gnu1cr","slide":2,"name":"timeline-item-6-3","text":"런칭 당일 체계","textPreview":"런칭 당일 체계","textChars":8,"textLines":1,"bbox":[1034,425,118,30]}
+{"kind":"textbox","id":"sh/j2p436dc","slide":2,"name":"management-title","text":"PM 관리 포인트","textPreview":"PM 관리 포인트","textChars":9,"textLines":1,"bbox":[54,506,240,28]}
+{"kind":"textbox","id":"sh/1wvq94fu","slide":2,"name":"management-note","text":"마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.","textPreview":"마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.","textChars":44,"textLines":1,"bbox":[242,511,760,22]}
+{"kind":"shape","id":"sh/0vmp0ze9","slide":2,"name":"mgmt-card-1","bbox":[54,546,260,82]}
+{"kind":"shape","id":"sh/fud87uxo","slide":2,"name":"mgmt-bar-1","bbox":[54,546,260,5]}
+{"kind":"textbox","id":"sh/et47epwj","slide":2,"name":"mgmt-label-1","text":"마일스톤","textPreview":"마일스톤","textChars":4,"textLines":1,"bbox":[74,566,210,24]}
+{"kind":"textbox","id":"sh/dsvq54fy","slide":2,"name":"mgmt-body-1","text":"일정·범위 통제 기준 관리","textPreview":"일정·범위 통제 기준 관리","textChars":14,"textLines":1,"bbox":[74,594,214,24]}
+{"kind":"shape","id":"sh/srmpczed","slide":2,"name":"mgmt-card-2","bbox":[340,546,260,82]}
+{"kind":"shape","id":"sh/rqd83uxs","slide":2,"name":"mgmt-bar-2","bbox":[340,546,260,5]}
+{"kind":"textbox","id":"sh/qpk7apw7","slide":2,"name":"mgmt-label-2","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[360,566,210,24]}
+{"kind":"textbox","id":"sh/54bq1kfm","slide":2,"name":"mgmt-body-2","text":"Perforce 기반 릴리즈 관리","textPreview":"Perforce 기반 릴리즈 관리","textChars":18,"textLines":1,"bbox":[360,594,214,24]}
+{"kind":"shape","id":"sh/432p8fe1","slide":2,"name":"mgmt-card-3","bbox":[626,546,260,82]}
+{"kind":"shape","id":"sh/g3edkvq9","slide":2,"name":"mgmt-bar-3","bbox":[626,546,260,5]}
+{"kind":"textbox","id":"sh/h4nut0ru","slide":2,"name":"mgmt-label-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[646,566,210,24]}
+{"kind":"textbox","id":"sh/u1wvil8j","slide":2,"name":"mgmt-body-3","text":"이슈 대응과 수정 반영 추적","textPreview":"이슈 대응과 수정 반영 추적","textChars":15,"textLines":1,"bbox":[646,594,214,24]}
+{"kind":"shape","id":"sh/v25crq94","slide":2,"name":"mgmt-card-4","bbox":[912,546,260,82]}
+{"kind":"shape","id":"sh/47edovql","slide":2,"name":"mgmt-bar-4","bbox":[912,546,260,5]}
+{"kind":"textbox","id":"sh/p87ex0r6","slide":2,"name":"mgmt-label-4","text":"퍼블리셔 대응","textPreview":"퍼블리셔 대응","textChars":7,"textLines":1,"bbox":[932,566,210,24]}
+{"kind":"textbox","id":"sh/i5wvm58f","slide":2,"name":"mgmt-body-4","text":"협업 이슈와 의사결정 정리","textPreview":"협업 이슈와 의사결정 정리","textChars":14,"textLines":1,"bbox":[932,594,214,24]}
+{"kind":"notes","id":"nt/68t7mg","slide":2,"text":""}
+{"kind":"slide","id":"sl/3iqdxi","slide":3,"title":"LAUNCH GATE CRITERIA | PAGE 03","textShapes":37}
+{"kind":"shape","id":"sh/gfahwzet","slide":3,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/vu1g3uxo","slide":3,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/utszupw3","slide":3,"name":"eyebrow","text":"LAUNCH GATE CRITERIA | PAGE 03","textPreview":"LAUNCH GATE CRITERIA | PAGE 03","textChars":30,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/tsjy1kfi","slide":3,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/8rahsfex","slide":3,"name":"page-no","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/7qhgzaxc","slide":3,"name":"title-03","text":"마일스톤은 일정이 아니라 통과 기준으로 관리합니다","textPreview":"마일스톤은 일정이 아니라 통과 기준으로 관리합니다","textChars":27,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/6p8zqpwr","slide":3,"name":"subtitle-03","text":"월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·버전·QA·퍼블리셔 기준을 함께 판정합니다.","textPreview":"월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·버전·QA·퍼블리셔 기준을 함께 판정합니다.","textChars":57,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"textbox","id":"sh/lozyxkf6","slide":3,"name":"gate-section-title","text":"핵심 게이트","textPreview":"핵심 게이트","textChars":6,"textLines":1,"bbox":[54,184,220,30]}
+{"kind":"shape","id":"sh/knqhofyl","slide":3,"name":"gate-card-1","bbox":[54,220,390,98]}
+{"kind":"shape","id":"sh/ih8zutk7","slide":3,"name":"gate-bar-1","bbox":[54,220,7,98]}
+{"kind":"textbox","id":"sh/3ihgny1s","slide":3,"name":"gate-phase-1","text":"Gate 1","textPreview":"Gate 1","textChars":6,"textLines":1,"bbox":[82,236,84,24]}
+{"kind":"textbox","id":"sh/4jahw32d","slide":3,"name":"gate-title-1","text":"범위 고정","textPreview":"범위 고정","textChars":5,"textLines":1,"bbox":[170,235,230,26]}
+{"kind":"textbox","id":"sh/5kjyp8ji","slide":3,"name":"gate-body-1","text":"일본 서비스 범위와 마일스톤 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.","textPreview":"일본 서비스 범위와 마일스톤 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.","textChars":48,"textLines":1,"bbox":[82,272,318,32]}
+{"kind":"shape","id":"sh/ud8fqtkv","slide":3,"name":"gate-card-2","bbox":[54,346,390,98]}
+{"kind":"shape","id":"sh/vehgjy1g","slide":3,"name":"gate-bar-2","bbox":[54,346,7,98]}
+{"kind":"textbox","id":"sh/gfqhs321","slide":3,"name":"gate-phase-2","text":"Gate 2","textPreview":"Gate 2","textChars":6,"textLines":1,"bbox":[82,362,84,24]}
+{"kind":"textbox","id":"sh/hgzylojm","slide":3,"name":"gate-title-2","text":"QA·검수 진입","textPreview":"QA·검수 진입","textChars":8,"textLines":1,"bbox":[170,361,230,26]}
+{"kind":"textbox","id":"sh/6pofm9kz","slide":3,"name":"gate-body-2","text":"현지화 리소스와 빌드 반영 상태를 확인한 뒤 QA와 퍼블리셔 검수에 진입합니다.","textPreview":"현지화 리소스와 빌드 반영 상태를 확인한 뒤 QA와 퍼블리셔 검수에 진입합니다.","textChars":44,"textLines":1,"bbox":[82,398,318,32]}
+{"kind":"shape","id":"sh/7axgfe1k","slide":3,"name":"gate-card-3","bbox":[54,472,390,98]}
+{"kind":"shape","id":"sh/bit47qd0","slide":3,"name":"gate-bar-3","bbox":[54,472,7,98]}
+{"kind":"textbox","id":"sh/ahknylwf","slide":3,"name":"gate-phase-3","text":"Gate 3","textPreview":"Gate 3","textChars":6,"textLines":1,"bbox":[82,488,84,24]}
+{"kind":"textbox","id":"sh/xkbm9gv6","slide":3,"name":"gate-title-3","text":"릴리즈 후보","textPreview":"릴리즈 후보","textChars":6,"textLines":1,"bbox":[170,487,230,26]}
+{"kind":"textbox","id":"sh/cj250vel","slide":3,"name":"gate-body-3","text":"주요 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.","textPreview":"주요 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.","textChars":44,"textLines":1,"bbox":[82,524,318,32]}
+{"kind":"textbox","id":"sh/z6t4bqdc","slide":3,"name":"decision-title","text":"판정 체크리스트","textPreview":"판정 체크리스트","textChars":8,"textLines":1,"bbox":[492,184,240,30]}
+{"kind":"textbox","id":"sh/y5kn2lwr","slide":3,"name":"decision-note","text":"각 항목은 다음 단계 진입 가능성을 기준으로 판단합니다.","textPreview":"각 항목은 다음 단계 진입 가능성을 기준으로 판단합니다.","textChars":31,"textLines":1,"bbox":[724,190,430,22]}
+{"kind":"shape","id":"sh/l8vmd0v2","slide":3,"name":"decision-header","bbox":[492,224,704,34]}
+{"kind":"textbox","id":"sh/k7m54veh","slide":3,"name":"decision-th-1","text":"항목","textPreview":"항목","textChars":2,"textLines":1,"bbox":[518,232,120,20]}
+{"kind":"textbox","id":"sh/fa94z6xs","slide":3,"name":"decision-th-2","text":"통과 기준","textPreview":"통과 기준","textChars":5,"textLines":1,"bbox":[728,232,180,20]}
+{"kind":"textbox","id":"sh/e903q1w7","slide":3,"name":"decision-th-3","text":"주관","textPreview":"주관","textChars":2,"textLines":1,"bbox":[1060,232,80,20]}
+{"kind":"shape","id":"sh/4fe107u5","slide":3,"name":"decision-row-1","bbox":[492,258,704,58]}
+{"kind":"textbox","id":"sh/5g729cbq","slide":3,"name":"decision-item-1","text":"서비스 범위","textPreview":"서비스 범위","textChars":6,"textLines":1,"bbox":[518,275,190,24]}
+{"kind":"textbox","id":"sh/itwjyxcz","slide":3,"name":"decision-gate-1","text":"런칭 포함·제외 범위와 변경 승인 기준 확정","textPreview":"런칭 포함·제외 범위와 변경 승인 기준 확정","textChars":24,"textLines":1,"bbox":[728,270,300,34]}
+{"kind":"textbox","id":"sh/ju5k72tk","slide":3,"name":"decision-owner-1","text":"PM","textPreview":"PM","textChars":2,"textLines":1,"bbox":[1056,275,98,24]}
+{"kind":"shape","id":"sh/wre1wnu9","slide":3,"name":"decision-row-2","bbox":[492,316,704,58]}
+{"kind":"textbox","id":"sh/hsn25sve","slide":3,"name":"decision-item-2","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[518,333,190,24]}
+{"kind":"textbox","id":"sh/upwjudc3","slide":3,"name":"decision-gate-2","text":"Perforce 브랜치와 후보 빌드 태그 기준 합의","textPreview":"Perforce 브랜치와 후보 빌드 태그 기준 합의","textChars":28,"textLines":1,"bbox":[728,328,300,34]}
+{"kind":"textbox","id":"sh/vq503ido","slide":3,"name":"decision-owner-2","text":"개발","textPreview":"개발","textChars":2,"textLines":1,"bbox":[1056,333,98,24]}
+{"kind":"shape","id":"sh/0ni18rud","slide":3,"name":"decision-row-3","bbox":[492,374,704,58]}
+{"kind":"textbox","id":"sh/1or2hwby","slide":3,"name":"decision-item-3","text":"QA 안정성","textPreview":"QA 안정성","textChars":6,"textLines":1,"bbox":[518,391,190,24]}
+{"kind":"textbox","id":"sh/xsjytoba","slide":3,"name":"decision-gate-3","text":"주요 이슈 수정 계획과 잔여 리스크 공유","textPreview":"주요 이슈 수정 계획과 잔여 리스크 공유","textChars":22,"textLines":1,"bbox":[728,386,300,34]}
+{"kind":"textbox","id":"sh/crah0jap","slide":3,"name":"decision-owner-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[1056,391,98,24]}
+{"kind":"shape","id":"sh/bq1gret4","slide":3,"name":"decision-row-4","bbox":[492,432,704,58]}
+{"kind":"textbox","id":"sh/a5szy9sj","slide":3,"name":"decision-item-4","text":"퍼블리셔 대응","textPreview":"퍼블리셔 대응","textChars":7,"textLines":1,"bbox":[518,449,190,24]}
+{"kind":"textbox","id":"sh/lwjyxor6","slide":3,"name":"decision-gate-4","text":"검수 요청, 피드백, 재전달 일정 추적","textPreview":"검수 요청, 피드백, 재전달 일정 추적","textChars":21,"textLines":1,"bbox":[728,444,300,34]}
+{"kind":"textbox","id":"sh/kvah4ja1","slide":3,"name":"decision-owner-4","text":"PM","textPreview":"PM","textChars":2,"textLines":1,"bbox":[1056,449,98,24]}
+{"kind":"shape","id":"sh/zu1gve9g","slide":3,"name":"decision-row-5","bbox":[492,490,704,58]}
+{"kind":"textbox","id":"sh/ytsz29sv","slide":3,"name":"decision-item-5","text":"Live 릴리즈","textPreview":"Live 릴리즈","textChars":8,"textLines":1,"bbox":[518,507,190,24]}
+{"kind":"textbox","id":"sh/903y18ri","slide":3,"name":"decision-gate-5","text":"배포·공지·장애 대응 담당자 확인","textPreview":"배포·공지·장애 대응 담당자 확인","textChars":18,"textLines":1,"bbox":[728,502,300,34]}
+{"kind":"textbox","id":"sh/8zuh83ax","slide":3,"name":"decision-owner-5","text":"운영","textPreview":"운영","textChars":2,"textLines":1,"bbox":[1056,507,98,24]}
+{"kind":"shape","id":"sh/q54v258f","slide":3,"name":"principle-panel","bbox":[54,608,1142,44]}
+{"kind":"textbox","id":"sh/r6xwvq90","slide":3,"name":"principle-label","text":"운영 원칙","textPreview":"운영 원칙","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
+{"kind":"textbox","id":"sh/s76d4vql","slide":3,"name":"principle-body","text":"미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.","textPreview":"미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.","textChars":51,"textLines":1,"bbox":[206,620,850,22]}
+{"kind":"notes","id":"nt/3iqdxi","slide":3,"text":""}
+{"kind":"slide","id":"sl/9rqc3y","slide":4,"title":"RISK RESPONSE SYSTEM | PAGE 04","textShapes":40}
+{"kind":"shape","id":"sh/but4b29k","slide":4,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/wv2lk7q5","slide":4,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/xwbmdcrq","slide":4,"name":"eyebrow","text":"RISK RESPONSE SYSTEM | PAGE 04","textPreview":"RISK RESPONSE SYSTEM | PAGE 04","textChars":30,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/ix43mh8b","slide":4,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/jyd4fm9w","slide":4,"name":"page-no","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/kzmlorqh","slide":4,"name":"title-04","text":"런칭 리스크는 조기 분리와 이슈 대응으로 관리합니다","textPreview":"런칭 리스크는 조기 분리와 이슈 대응으로 관리합니다","textChars":28,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/50vmhcr2","slide":4,"name":"subtitle-04","text":"일정·범위·빌드·버전·QA에 미치는 영향을 먼저 보이게 만들어야 의사결정이 빨라집니다.","textPreview":"일정·범위·빌드·버전·QA에 미치는 영향을 먼저 보이게 만들어야 의사결정이 빨라집니다.","textChars":48,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"textbox","id":"sh/614nqh87","slide":4,"name":"risk-title","text":"주요 리스크","textPreview":"주요 리스크","textChars":6,"textLines":1,"bbox":[54,184,220,30]}
+{"kind":"shape","id":"sh/72d4jm9s","slide":4,"name":"risk-header","bbox":[54,216,690,26]}
+{"kind":"textbox","id":"sh/bq50nyh0","slide":4,"name":"risk-th-1","text":"리스크","textPreview":"리스크","textChars":3,"textLines":1,"bbox":[78,221,110,18]}
+{"kind":"textbox","id":"sh/apwzetgf","slide":4,"name":"risk-th-2","text":"영향","textPreview":"영향","textChars":2,"textLines":1,"bbox":[226,221,120,18]}
+{"kind":"textbox","id":"sh/xs7ipozq","slide":4,"name":"risk-th-3","text":"대응","textPreview":"대응","textChars":2,"textLines":1,"bbox":[500,221,120,18]}
+{"kind":"shape","id":"sh/cryhg3y5","slide":4,"name":"risk-row-1","bbox":[54,242,690,66]}
+{"kind":"textbox","id":"sh/nm50jeho","slide":4,"name":"risk-name-1","text":"현지화 지연","textPreview":"현지화 지연","textChars":6,"textLines":1,"bbox":[78,262,130,24]}
+{"kind":"textbox","id":"sh/2lwza9g3","slide":4,"name":"risk-impact-1","text":"번역·리소스 반영 지연으로 검수 일정 압박","textPreview":"번역·리소스 반영 지연으로 검수 일정 압박","textChars":23,"textLines":1,"bbox":[226,255,250,38]}
+{"kind":"textbox","id":"sh/ponilozu","slide":4,"name":"risk-response-1","text":"반영 범위와 우선순위 재정렬","textPreview":"반영 범위와 우선순위 재정렬","textChars":15,"textLines":1,"bbox":[500,255,190,38]}
+{"kind":"shape","id":"sh/onehcjy9","slide":4,"name":"risk-row-2","bbox":[54,308,690,66]}
+{"kind":"textbox","id":"sh/7i90vixs","slide":4,"name":"risk-name-2","text":"빌드 불안정","textPreview":"빌드 불안정","textChars":6,"textLines":1,"bbox":[78,328,130,24]}
+{"kind":"textbox","id":"sh/mhgzmdgn","slide":4,"name":"risk-impact-2","text":"후보 빌드 기준 미고정과 긴급 수정 누적","textPreview":"후보 빌드 기준 미고정과 긴급 수정 누적","textChars":22,"textLines":1,"bbox":[226,321,250,38]}
+{"kind":"textbox","id":"sh/idk3eh0v","slide":4,"name":"risk-response-2","text":"브랜치·태그 기준 고정","textPreview":"브랜치·태그 기준 고정","textChars":12,"textLines":1,"bbox":[500,321,190,38]}
+{"kind":"shape","id":"sh/jetknmh0","slide":4,"name":"risk-row-3","bbox":[54,374,690,66]}
+{"kind":"textbox","id":"sh/4f2lg7il","slide":4,"name":"risk-name-3","text":"QA 병목","textPreview":"QA 병목","textChars":5,"textLines":1,"bbox":[78,394,130,24]}
+{"kind":"textbox","id":"sh/5gb2pcz6","slide":4,"name":"risk-impact-3","text":"이슈 분류 지연과 수정 검증 대기 증가","textPreview":"이슈 분류 지연과 수정 검증 대기 증가","textChars":21,"textLines":1,"bbox":[226,387,250,38]}
+{"kind":"textbox","id":"sh/6hk3ih0r","slide":4,"name":"risk-response-3","text":"재현 정보와 수정 일정 추적","textPreview":"재현 정보와 수정 일정 추적","textChars":15,"textLines":1,"bbox":[500,387,190,38]}
+{"kind":"shape","id":"sh/ridkrmhc","slide":4,"name":"risk-row-4","bbox":[54,440,690,66]}
+{"kind":"textbox","id":"sh/sjmlkrix","slide":4,"name":"risk-name-4","text":"피드백 지연","textPreview":"피드백 지연","textChars":6,"textLines":1,"bbox":[78,460,130,24]}
+{"kind":"textbox","id":"sh/t4v2twzi","slide":4,"name":"risk-impact-4","text":"퍼블리셔 검수 의견 회신과 재전달 일정 불명확","textPreview":"퍼블리셔 검수 의견 회신과 재전달 일정 불명확","textChars":25,"textLines":1,"bbox":[226,453,250,38]}
+{"kind":"textbox","id":"sh/ml0j6x0n","slide":4,"name":"risk-response-4","text":"요청·회신·재전달 상태 관리","textPreview":"요청·회신·재전달 상태 관리","textChars":15,"textLines":1,"bbox":[500,453,190,38]}
+{"kind":"shape","id":"sh/7m9kf218","slide":4,"name":"risk-row-5","bbox":[54,506,690,66]}
+{"kind":"textbox","id":"sh/p0f6l0jq","slide":4,"name":"risk-name-5","text":"직전 변경","textPreview":"직전 변경","textChars":5,"textLines":1,"bbox":[78,526,130,24]}
+{"kind":"textbox","id":"sh/oz65sv25","slide":4,"name":"risk-impact-5","text":"서비스 범위와 운영 정책 변경으로 품질 흔들림","textPreview":"서비스 범위와 운영 정책 변경으로 품질 흔들림","textChars":25,"textLines":1,"bbox":[226,519,250,38]}
+{"kind":"textbox","id":"sh/nyxojq1k","slide":4,"name":"risk-response-5","text":"영향도 검토 후 반영·보류 결정","textPreview":"영향도 검토 후 반영·보류 결정","textChars":17,"textLines":1,"bbox":[500,519,190,38]}
+{"kind":"textbox","id":"sh/2donqlkz","slide":4,"name":"process-title","text":"대응 프로세스","textPreview":"대응 프로세스","textChars":7,"textLines":1,"bbox":[800,184,240,30]}
+{"kind":"textbox","id":"sh/x4z6p0jm","slide":4,"name":"process-note","text":"먼저 분류·담당을 잡습니다.","textPreview":"먼저 분류·담당을 잡습니다.","textChars":15,"textLines":1,"bbox":[990,190,220,22]}
+{"kind":"shape","id":"sh/c3q5wv21","slide":4,"name":"process-step-1","bbox":[800,236,390,74]}
+{"kind":"shape","id":"sh/b2hona1g","slide":4,"name":"process-step-bar-1","bbox":[800,236,6,74]}
+{"kind":"textbox","id":"sh/a18nu5kv","slide":4,"name":"process-step-no-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[824,254,58,34]}
+{"kind":"textbox","id":"sh/t8vmdg3i","slide":4,"name":"process-step-title-1","text":"이슈 등록","textPreview":"이슈 등록","textChars":5,"textLines":1,"bbox":[902,248,220,24]}
+{"kind":"textbox","id":"sh/s7m5kb2x","slide":4,"name":"process-step-body-1","text":"일정·빌드·QA·퍼블리셔 항목 분류","textPreview":"일정·빌드·QA·퍼블리셔 항목 분류","textChars":19,"textLines":1,"bbox":[902,275,250,28]}
+{"kind":"shape","id":"sh/gzeh83qh","slide":4,"name":"process-step-2","bbox":[800,322,390,74]}
+{"kind":"shape","id":"sh/h0nih872","slide":4,"name":"process-step-bar-2","bbox":[800,322,6,74]}
+{"kind":"textbox","id":"sh/udwz6d8r","slide":4,"name":"process-step-no-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[824,340,58,34]}
+{"kind":"textbox","id":"sh/ve50fypc","slide":4,"name":"process-step-title-2","text":"영향도 판단","textPreview":"영향도 판단","textChars":6,"textLines":1,"bbox":[902,334,220,24]}
+{"kind":"textbox","id":"sh/8buh43ql","slide":4,"name":"process-step-body-2","text":"일정·범위·품질 영향도 확인","textPreview":"일정·범위·품질 영향도 확인","textChars":15,"textLines":1,"bbox":[902,361,250,28]}
+{"kind":"shape","id":"sh/tc3id876","slide":4,"name":"process-step-3","bbox":[800,408,390,74]}
+{"kind":"shape","id":"sh/69cz2t8f","slide":4,"name":"process-step-bar-3","bbox":[800,408,6,74]}
+{"kind":"textbox","id":"sh/7algbyp0","slide":4,"name":"process-step-no-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[824,426,58,34]}
+{"kind":"textbox","id":"sh/k7uh0jqp","slide":4,"name":"process-step-title-3","text":"담당·기한 지정","textPreview":"담당·기한 지정","textChars":8,"textLines":1,"bbox":[902,420,220,24]}
+{"kind":"textbox","id":"sh/l83y9o7u","slide":4,"name":"process-step-body-3","text":"개발·QA·퍼블리셔 담당 확정","textPreview":"개발·QA·퍼블리셔 담당 확정","textChars":16,"textLines":1,"bbox":[902,447,250,28]}
+{"kind":"shape","id":"sh/n210jetw","slide":4,"name":"process-step-4","bbox":[800,494,390,74]}
+{"kind":"shape","id":"sh/m1sza9sb","slide":4,"name":"process-step-bar-4","bbox":[800,494,6,74]}
+{"kind":"textbox","id":"sh/94jilob2","slide":4,"name":"process-step-no-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[824,512,58,34]}
+{"kind":"textbox","id":"sh/o3a1cjah","slide":4,"name":"process-step-title-4","text":"마일스톤 재판정","textPreview":"마일스톤 재판정","textChars":8,"textLines":1,"bbox":[902,506,220,24]}
+{"kind":"textbox","id":"sh/b6l0nyts","slide":4,"name":"process-step-body-4","text":"해결·보류·제외 기준 정리","textPreview":"해결·보류·제외 기준 정리","textChars":14,"textLines":1,"bbox":[902,533,250,28]}
+{"kind":"shape","id":"sh/a5sjets7","slide":4,"name":"risk-principle-panel","bbox":[54,608,1142,44]}
+{"kind":"textbox","id":"sh/x83ip8by","slide":4,"name":"risk-principle-label","text":"PM 역할","textPreview":"PM 역할","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
+{"kind":"textbox","id":"sh/w7u1g3ad","slide":4,"name":"risk-principle-body","text":"리스크를 직접 해결하기보다, 일정·버전·이슈를 의사결정 가능한 상태로 정리하는 것이 핵심입니다.","textPreview":"리스크를 직접 해결하기보다, 일정·버전·이슈를 의사결정 가능한 상태로 정리하는 것이 핵심입니다.","textChars":53,"textLines":1,"bbox":[206,620,850,22]}
+{"kind":"notes","id":"nt/9rqc3y","slide":4,"text":""}
+{"kind":"slide","id":"sl/ilpq90","slide":5,"title":"PUBLISHER COMMUNICATION | PAGE 05","textShapes":49}
+{"kind":"shape","id":"sh/bqh4fmhs","slide":5,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/crq58rid","slide":5,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/xsjmhczy","slide":5,"name":"eyebrow","text":"PUBLISHER COMMUNICATION | PAGE 05","textPreview":"PUBLISHER COMMUNICATION | PAGE 05","textChars":33,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/2l832x0b","slide":5,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/nmh4b2hw","slide":5,"name":"page-no","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/onql47ih","slide":5,"name":"title-05","text":"퍼블리셔 대응은 일정·버전·이슈 기준을 하나로 맞춰 운영합니다","textPreview":"퍼블리셔 대응은 일정·버전·이슈 기준을 하나로 맞춰 운영합니다","textChars":34,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/pozmdcz2","slide":5,"name":"subtitle-05","text":"한·일 협업 구간에서는 요청과 피드백을 분리하지 않고, 마일스톤 판단에 필요한 상태값으로 정리해야 합니다.","textPreview":"한·일 협업 구간에서는 요청과 피드백을 분리하지 않고, 마일스톤 판단에 필요한 상태값으로 정리해야 합니다.","textChars":59,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"textbox","id":"sh/exo3yx0f","slide":5,"name":"stakeholder-title","text":"협업 대상","textPreview":"협업 대상","textChars":5,"textLines":1,"bbox":[54,184,180,30]}
+{"kind":"textbox","id":"sh/fyx472h0","slide":5,"name":"stakeholder-note","text":"역할별 확인 기준을 고정해 커뮤니케이션 누락을 줄입니다.","textPreview":"역할별 확인 기준을 고정해 커뮤니케이션 누락을 줄입니다.","textChars":31,"textLines":1,"bbox":[184,190,430,22]}
+{"kind":"shape","id":"sh/3y5w3e1w","slide":5,"name":"stakeholder-card-1","bbox":[54,226,130,114]}
+{"kind":"shape","id":"sh/2xwvut0r","slide":5,"name":"stakeholder-bar-1","bbox":[54,226,130,6]}
+{"kind":"textbox","id":"sh/p07e5oj2","slide":5,"name":"stakeholder-role-1","text":"개발 PM","textPreview":"개발 PM","textChars":5,"textLines":1,"bbox":[66,250,106,24]}
+{"kind":"textbox","id":"sh/ozedwjih","slide":5,"name":"stakeholder-focus-1","text":"일정·범위 통제\n이슈 우선순위","textPreview":"일정·범위 통제 | 이슈 우선순위","textChars":16,"textLines":2,"bbox":[66,284,106,38]}
+{"kind":"shape","id":"sh/b2pw7y18","slide":5,"name":"stakeholder-card-2","bbox":[204,226,130,114]}
+{"kind":"shape","id":"sh/q1gvyt0n","slide":5,"name":"stakeholder-bar-2","bbox":[204,226,130,6]}
+{"kind":"textbox","id":"sh/d47e98je","slide":5,"name":"stakeholder-role-2","text":"개발","textPreview":"개발","textChars":2,"textLines":1,"bbox":[216,250,106,24]}
+{"kind":"textbox","id":"sh/c3yx03it","slide":5,"name":"stakeholder-focus-2","text":"빌드 반영\n버전 기준 관리","textPreview":"빌드 반영 | 버전 기준 관리","textChars":14,"textLines":2,"bbox":[216,284,106,38]}
+{"kind":"shape","id":"sh/r6lwvu14","slide":5,"name":"stakeholder-card-3","bbox":[354,226,130,114]}
+{"kind":"shape","id":"sh/65cvmp0j","slide":5,"name":"stakeholder-bar-3","bbox":[354,226,130,6]}
+{"kind":"textbox","id":"sh/alkzuxkr","slide":5,"name":"stakeholder-role-3","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[366,250,106,24]}
+{"kind":"textbox","id":"sh/vmtg32lc","slide":5,"name":"stakeholder-focus-3","text":"검수 결과\n수정 반영 추적","textPreview":"검수 결과 | 수정 반영 추적","textChars":14,"textLines":2,"bbox":[366,284,106,38]}
+{"kind":"shape","id":"sh/wn2hw72x","slide":5,"name":"stakeholder-card-4","bbox":[504,226,130,114]}
+{"kind":"shape","id":"sh/xoby5c3i","slide":5,"name":"stakeholder-bar-4","bbox":[504,226,130,6]}
+{"kind":"textbox","id":"sh/mx0zqxkv","slide":5,"name":"stakeholder-role-4","text":"운영","textPreview":"운영","textChars":2,"textLines":1,"bbox":[516,250,106,24]}
+{"kind":"textbox","id":"sh/ny9gz2lg","slide":5,"name":"stakeholder-focus-4","text":"공지·이벤트\nLive 준비","textPreview":"공지·이벤트 | Live 준비","textChars":14,"textLines":2,"bbox":[516,284,106,38]}
+{"kind":"shape","id":"sh/8z2hs721","slide":5,"name":"stakeholder-card-5","bbox":[654,226,130,114]}
+{"kind":"shape","id":"sh/90by1c3m","slide":5,"name":"stakeholder-bar-5","bbox":[654,226,130,6]}
+{"kind":"textbox","id":"sh/yt0zmdkz","slide":5,"name":"stakeholder-role-5","text":"일본 퍼블리셔","textPreview":"일본 퍼블리셔","textChars":7,"textLines":1,"bbox":[666,250,106,24]}
+{"kind":"textbox","id":"sh/zu9gvil4","slide":5,"name":"stakeholder-focus-5","text":"검수 피드백\n사업 요청사항","textPreview":"검수 피드백 | 사업 요청사항","textChars":14,"textLines":2,"bbox":[666,284,106,38]}
+{"kind":"textbox","id":"sh/10zahkry","slide":5,"name":"flow-title","text":"주간 커뮤니케이션 흐름","textPreview":"주간 커뮤니케이션 흐름","textChars":12,"textLines":1,"bbox":[54,382,270,30]}
+{"kind":"textbox","id":"sh/0zqtofqd","slide":5,"name":"flow-note","text":"공유 목적은 보고가 아니라 다음 마일스톤 진입 가능 여부 판단입니다.","textPreview":"공유 목적은 보고가 아니라 다음 마일스톤 진입 가능 여부 판단입니다.","textChars":38,"textLines":1,"bbox":[306,388,470,22]}
+{"kind":"shape","id":"sh/fyhsfa98","slide":5,"name":"collab-flow-step-1","bbox":[62,422,122,104]}
+{"kind":"textbox","id":"sh/ex8bm58n","slide":5,"name":"collab-flow-no-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[97,434,52,34]}
+{"kind":"textbox","id":"sh/dwzadkr2","slide":5,"name":"collab-flow-title-1","text":"점검","textPreview":"점검","textChars":2,"textLines":1,"bbox":[82,467,82,20]}
+{"kind":"textbox","id":"sh/sv6tkfqh","slide":5,"name":"collab-flow-body-1","text":"마일스톤 진행률\n및 지연 항목 확인","textPreview":"마일스톤 진행률 | 및 지연 항목 확인","textChars":19,"textLines":2,"bbox":[70,490,106,30]}
+{"kind":"textbox","id":"sh/ruxsba9w","slide":5,"name":"collab-flow-arrow-1","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[186,460,24,28]}
+{"kind":"shape","id":"sh/qtobi58b","slide":5,"name":"collab-flow-step-2","bbox":[210,422,122,104]}
+{"kind":"textbox","id":"sh/5sfa90rq","slide":5,"name":"collab-flow-no-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[245,434,52,34]}
+{"kind":"textbox","id":"sh/4r6tgvql","slide":5,"name":"collab-flow-title-2","text":"전달","textPreview":"전달","textChars":2,"textLines":1,"bbox":[230,467,82,20]}
+{"kind":"textbox","id":"sh/kjet0fm5","slide":5,"name":"collab-flow-body-2","text":"Perforce 기준\n빌드·버전 공유","textPreview":"Perforce 기준 | 빌드·버전 공유","textChars":20,"textLines":2,"bbox":[218,490,106,30]}
+{"kind":"textbox","id":"sh/lknatknq","slide":5,"name":"collab-flow-arrow-2","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[334,460,24,28]}
+{"kind":"shape","id":"sh/yxwry54z","slide":5,"name":"collab-flow-step-3","bbox":[358,422,122,104]}
+{"kind":"textbox","id":"sh/jy5sra5k","slide":5,"name":"collab-flow-no-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[393,434,52,34]}
+{"kind":"textbox","id":"sh/snyt4fmh","slide":5,"name":"collab-flow-title-3","text":"수집","textPreview":"수집","textChars":2,"textLines":1,"bbox":[378,467,82,20]}
+{"kind":"textbox","id":"sh/to7axknm","slide":5,"name":"collab-flow-body-3","text":"퍼블리셔 검수\n피드백 정리","textPreview":"퍼블리셔 검수 | 피드백 정리","textChars":14,"textLines":2,"bbox":[366,490,106,30]}
+{"kind":"textbox","id":"sh/6lwb254b","slide":5,"name":"collab-flow-arrow-3","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[482,460,24,28]}
+{"kind":"shape","id":"sh/7mpsva5w","slide":5,"name":"collab-flow-step-4","bbox":[506,422,122,104]}
+{"kind":"textbox","id":"sh/oru9svmx","slide":5,"name":"collab-flow-no-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[541,434,52,34]}
+{"kind":"textbox","id":"sh/9s3al0ni","slide":5,"name":"collab-flow-title-4","text":"조정","textPreview":"조정","textChars":2,"textLines":1,"bbox":[526,467,82,20]}
+{"kind":"textbox","id":"sh/rmtw7yp0","slide":5,"name":"collab-flow-body-4","text":"일정·범위 영향도\n우선순위 판단","textPreview":"일정·범위 영향도 | 우선순위 판단","textChars":17,"textLines":2,"bbox":[514,490,106,30]}
+{"kind":"textbox","id":"sh/qlkvytof","slide":5,"name":"collab-flow-arrow-4","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[630,460,24,28]}
+{"kind":"shape","id":"sh/dobe9o76","slide":5,"name":"collab-flow-step-5","bbox":[654,422,122,104]}
+{"kind":"textbox","id":"sh/cn2d036l","slide":5,"name":"collab-flow-no-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[689,434,52,34]}
+{"kind":"textbox","id":"sh/3i9c3ep4","slide":5,"name":"collab-flow-title-5","text":"판단","textPreview":"판단","textChars":2,"textLines":1,"bbox":[674,467,82,20]}
+{"kind":"textbox","id":"sh/2h0vu9oj","slide":5,"name":"collab-flow-body-5","text":"릴리즈 후보\n진입 여부 확정","textPreview":"릴리즈 후보 | 진입 여부 확정","textChars":15,"textLines":2,"bbox":[662,490,106,30]}
+{"kind":"textbox","id":"sh/pkru5o7u","slide":5,"name":"pm-points-title","text":"PM 관리 포인트","textPreview":"PM 관리 포인트","textChars":9,"textLines":1,"bbox":[850,184,220,30]}
+{"kind":"shape","id":"sh/4jidwj6p","slide":5,"name":"pm-point-1","bbox":[850,226,346,64]}
+{"kind":"shape","id":"sh/fe9czeps","slide":5,"name":"pm-point-bar-1","bbox":[850,226,6,64]}
+{"kind":"textbox","id":"sh/ud0vq9o7","slide":5,"name":"pm-point-label-1","text":"요청사항 단일화","textPreview":"요청사항 단일화","textChars":8,"textLines":1,"bbox":[874,237,262,22]}
+{"kind":"textbox","id":"sh/ipgv298f","slide":5,"name":"pm-point-body-1","text":"퍼블리셔 요청을 일정·범위·이슈로 재분류","textPreview":"퍼블리셔 요청을 일정·범위·이슈로 재분류","textChars":22,"textLines":1,"bbox":[874,262,278,18]}
+{"kind":"shape","id":"sh/jqpwbe9k","slide":5,"name":"pm-point-2","bbox":[850,308,346,64]}
+{"kind":"shape","id":"sh/kbyd4zq5","slide":5,"name":"pm-point-bar-2","bbox":[850,308,6,64]}
+{"kind":"textbox","id":"sh/5c7ed4rq","slide":5,"name":"pm-point-label-2","text":"버전 기준 고정","textPreview":"버전 기준 고정","textChars":8,"textLines":1,"bbox":[874,319,262,22]}
+{"kind":"textbox","id":"sh/6dgf698b","slide":5,"name":"pm-point-body-2","text":"빌드 전달 시점과 검수 대상 버전을 명확화","textPreview":"빌드 전달 시점과 검수 대상 버전을 명확화","textChars":23,"textLines":1,"bbox":[874,344,278,18]}
+{"kind":"shape","id":"sh/7e9wfe9w","slide":5,"name":"pm-point-3","bbox":[850,390,346,64]}
+{"kind":"shape","id":"sh/sfix8jqh","slide":5,"name":"pm-point-bar-3","bbox":[850,390,6,64]}
+{"kind":"textbox","id":"sh/tgrehor2","slide":5,"name":"pm-point-label-3","text":"의사결정 이슈 분리","textPreview":"의사결정 이슈 분리","textChars":10,"textLines":1,"bbox":[874,401,262,22]}
+{"kind":"textbox","id":"sh/uh0fat87","slide":5,"name":"pm-point-body-3","text":"지연 가능 항목은 마일스톤 판단 안건으로 전환","textPreview":"지연 가능 항목은 마일스톤 판단 안건으로 전환","textChars":25,"textLines":1,"bbox":[874,426,278,18]}
+{"kind":"shape","id":"sh/fi9wjy9s","slide":5,"name":"pm-point-4","bbox":[850,472,346,64]}
+{"kind":"shape","id":"sh/povqpcf6","slide":5,"name":"pm-point-bar-4","bbox":[850,472,6,64]}
+{"kind":"textbox","id":"sh/onmpw7e1","slide":5,"name":"pm-point-label-4","text":"Live 릴리즈 준비","textPreview":"Live 릴리즈 준비","textChars":11,"textLines":1,"bbox":[874,483,262,22]}
+{"kind":"textbox","id":"sh/3md8nmxg","slide":5,"name":"pm-point-body-4","text":"배포·공지·운영 대응 항목을 같은 기준으로 확인","textPreview":"배포·공지·운영 대응 항목을 같은 기준으로 확인","textChars":26,"textLines":1,"bbox":[874,508,278,18]}
+{"kind":"shape","id":"sh/2l47uhwv","slide":5,"name":"collab-principle-panel","bbox":[54,608,1142,44]}
+{"kind":"textbox","id":"sh/dcfqtwfi","slide":5,"name":"collab-principle-label","text":"운영 원칙","textPreview":"운영 원칙","textChars":5,"textLines":1,"bbox":[82,620,120,22]}
+{"kind":"textbox","id":"sh/cr6p0rex","slide":5,"name":"collab-principle-body","text":"퍼블리셔 대응은 별도 보고가 아니라 일정·버전·이슈를 통합 관리하는 PM 운영 흐름 안에서 처리합니다.","textPreview":"퍼블리셔 대응은 별도 보고가 아니라 일정·버전·이슈를 통합 관리하는 PM 운영 흐름 안에서 처리합니다.","textChars":57,"textLines":1,"bbox":[206,620,860,22]}
+{"kind":"notes","id":"nt/ilpq90","slide":5,"text":""}
+{"kind":"slide","id":"sl/c2quzr","slide":6,"title":"BUILD QA RELEASE FLOW | PAGE 06","textShapes":48}
+{"kind":"shape","id":"sh/jidw7qxw","slide":6,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/kjmxgveh","slide":6,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/lkvy90f2","slide":6,"name":"eyebrow","text":"BUILD QA RELEASE FLOW | PAGE 06","textPreview":"BUILD QA RELEASE FLOW | PAGE 06","textChars":31,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/6lofi5wn","slide":6,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/7mxgbqxs","slide":6,"name":"page-no","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/8n6xkved","slide":6,"name":"title-06","text":"릴리즈 운영은 빌드·QA·검수 상태를 같은 기준으로 묶어 판단합니다","textPreview":"릴리즈 운영은 빌드·QA·검수 상태를 같은 기준으로 묶어 판단합니다","textChars":37,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/tofyd0fy","slide":6,"name":"subtitle-06","text":"Perforce 기반 버전 관리와 QA 결과, 퍼블리셔 검수 피드백을 연결해 릴리즈 후보 판단 기준을 고정합니다.","textPreview":"Perforce 기반 버전 관리와 QA 결과, 퍼블리셔 검수 피드백을 연결해 릴리즈 후보 판단 기준을 고정합니다.","textChars":63,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"textbox","id":"sh/upofm5wj","slide":6,"name":"release-flow-title","text":"릴리즈 운영 흐름","textPreview":"릴리즈 운영 흐름","textChars":9,"textLines":1,"bbox":[54,202,220,30]}
+{"kind":"textbox","id":"sh/fqxgfad4","slide":6,"name":"release-flow-note","text":"각 단계는 완료 여부보다 다음 단계로 넘길 수 있는 기준을 확인합니다.","textPreview":"각 단계는 완료 여부보다 다음 단계로 넘길 수 있는 기준을 확인합니다.","textChars":39,"textLines":1,"bbox":[250,208,520,22]}
+{"kind":"shape","id":"sh/vih4fa50","slide":6,"name":"release-flow-step-1","bbox":[54,258,126,126]}
+{"kind":"shape","id":"sh/uh8n6p4f","slide":6,"name":"release-flow-bar-1","bbox":[54,258,126,6]}
+{"kind":"textbox","id":"sh/hkzmhk36","slide":6,"name":"release-flow-no-1","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[90,280,54,34]}
+{"kind":"textbox","id":"sh/wjq58fml","slide":6,"name":"release-flow-title-1","text":"버전 고정","textPreview":"버전 고정","textChars":5,"textLines":1,"bbox":[68,320,98,24]}
+{"kind":"textbox","id":"sh/7ex4ba54","slide":6,"name":"release-flow-body-1","text":"Perforce 브랜치\n태그 기준 확정","textPreview":"Perforce 브랜치 | 태그 기준 확정","textChars":21,"textLines":2,"bbox":[64,349,106,24]}
+{"kind":"textbox","id":"sh/mton254j","slide":6,"name":"release-flow-arrow-1","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[182,306,22,32]}
+{"kind":"shape","id":"sh/9gzmdknu","slide":6,"name":"release-flow-step-2","bbox":[204,258,126,126]}
+{"kind":"shape","id":"sh/8f654fmp","slide":6,"name":"release-flow-bar-2","bbox":[204,258,126,6]}
+{"kind":"textbox","id":"sh/ra1onul8","slide":6,"name":"release-flow-no-2","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[240,280,54,34]}
+{"kind":"textbox","id":"sh/qpsne94n","slide":6,"name":"release-flow-title-2","text":"빌드 전달","textPreview":"빌드 전달","textChars":5,"textLines":1,"bbox":[218,320,98,24]}
+{"kind":"textbox","id":"sh/25c76tov","slide":6,"name":"release-flow-body-2","text":"QA·검수 대상\n빌드 공유","textPreview":"QA·검수 대상 | 빌드 공유","textChars":14,"textLines":2,"bbox":[214,349,106,24]}
+{"kind":"textbox","id":"sh/n6l8fy5g","slide":6,"name":"release-flow-arrow-2","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[332,306,22,32]}
+{"kind":"shape","id":"sh/o7ep8361","slide":6,"name":"release-flow-step-3","bbox":[354,258,126,126]}
+{"kind":"shape","id":"sh/p8nqh8nm","slide":6,"name":"release-flow-bar-3","bbox":[354,258,126,6]}
+{"kind":"textbox","id":"sh/a9w7ado7","slide":6,"name":"release-flow-no-3","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[390,280,54,34]}
+{"kind":"textbox","id":"sh/ba58ji5c","slide":6,"name":"release-flow-title-3","text":"QA 확인","textPreview":"QA 확인","textChars":5,"textLines":1,"bbox":[368,320,98,24]}
+{"kind":"textbox","id":"sh/cbe9cn6x","slide":6,"name":"release-flow-body-3","text":"주요 이슈와\n수정 반영 추적","textPreview":"주요 이슈와 | 수정 반영 추적","textChars":15,"textLines":2,"bbox":[364,349,106,24]}
+{"kind":"textbox","id":"sh/xcnqlsni","slide":6,"name":"release-flow-arrow-3","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[482,306,22,32]}
+{"kind":"shape","id":"sh/qds7y9on","slide":6,"name":"release-flow-step-4","bbox":[504,258,126,126]}
+{"kind":"shape","id":"sh/re187ep8","slide":6,"name":"release-flow-bar-4","bbox":[504,258,126,6]}
+{"kind":"textbox","id":"sh/98radw7q","slide":6,"name":"release-flow-no-4","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[540,280,54,34]}
+{"kind":"textbox","id":"sh/87it4rq5","slide":6,"name":"release-flow-title-4","text":"검수 반영","textPreview":"검수 반영","textChars":5,"textLines":1,"bbox":[518,320,98,24]}
+{"kind":"textbox","id":"sh/769sbmpk","slide":6,"name":"release-flow-body-4","text":"퍼블리셔 피드백\n영향도 분리","textPreview":"퍼블리셔 피드백 | 영향도 분리","textChars":15,"textLines":2,"bbox":[514,349,106,24]}
+{"kind":"textbox","id":"sh/m5gb2h8f","slide":6,"name":"release-flow-arrow-4","text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[632,306,22,32]}
+{"kind":"shape","id":"sh/hwrahw72","slide":6,"name":"release-flow-step-5","bbox":[654,258,126,126]}
+{"kind":"shape","id":"sh/wvit8rqh","slide":6,"name":"release-flow-bar-5","bbox":[654,258,126,6]}
+{"kind":"textbox","id":"sh/vu9sfmpw","slide":6,"name":"release-flow-no-5","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[690,280,54,34]}
+{"kind":"textbox","id":"sh/ut0b6h8b","slide":6,"name":"release-flow-title-5","text":"RC 판단","textPreview":"RC 판단","textChars":5,"textLines":1,"bbox":[668,320,98,24]}
+{"kind":"textbox","id":"sh/x07a5cri","slide":6,"name":"release-flow-body-5","text":"릴리즈 후보\n진입 기준 확정","textPreview":"릴리즈 후보 | 진입 기준 확정","textChars":15,"textLines":2,"bbox":[664,349,106,24]}
+{"kind":"textbox","id":"sh/czytw7qx","slide":6,"name":"ops-table-title","text":"단계별 확인 기준","textPreview":"단계별 확인 기준","textChars":9,"textLines":1,"bbox":[54,406,220,24]}
+{"kind":"shape","id":"sh/0vmdkfal","slide":6,"name":"ops-table-header","bbox":[54,446,742,24]}
+{"kind":"textbox","id":"sh/1wved0r6","slide":6,"name":"ops-th-1","text":"구분","textPreview":"구분","textChars":2,"textLines":1,"bbox":[76,448,80,16]}
+{"kind":"textbox","id":"sh/et4vi5sf","slide":6,"name":"ops-th-2","text":"확인 기준","textPreview":"확인 기준","textChars":5,"textLines":1,"bbox":[242,448,120,16]}
+{"kind":"textbox","id":"sh/fudwba90","slide":6,"name":"ops-th-3","text":"주관","textPreview":"주관","textChars":2,"textLines":1,"bbox":[652,448,70,16]}
+{"kind":"shape","id":"sh/srmdgvap","slide":6,"name":"ops-row-1","bbox":[54,470,742,42]}
+{"kind":"textbox","id":"sh/dsve90ra","slide":6,"name":"ops-label-1","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[76,481,150,20]}
+{"kind":"textbox","id":"sh/6p4velsj","slide":6,"name":"ops-check-1","text":"검수 대상 빌드와 브랜치 기준이 일치하는지 확인","textPreview":"검수 대상 빌드와 브랜치 기준이 일치하는지 확인","textChars":26,"textLines":1,"bbox":[242,480,360,22]}
+{"kind":"textbox","id":"sh/rqdw7q94","slide":6,"name":"ops-owner-1","text":"개발 PM","textPreview":"개발 PM","textChars":5,"textLines":1,"bbox":[646,480,86,22]}
+{"kind":"shape","id":"sh/4n2dcvad","slide":6,"name":"ops-row-2","bbox":[54,512,742,42]}
+{"kind":"textbox","id":"sh/5obe5gry","slide":6,"name":"ops-label-2","text":"QA 안정성","textPreview":"QA 안정성","textChars":6,"textLines":1,"bbox":[76,523,150,20]}
+{"kind":"textbox","id":"sh/7ytwfqd0","slide":6,"name":"ops-check-2","text":"주요 이슈의 수정 계획과 잔여 리스크를 분리","textPreview":"주요 이슈의 수정 계획과 잔여 리스크를 분리","textChars":24,"textLines":1,"bbox":[242,522,360,22]}
+{"kind":"textbox","id":"sh/mx0fmlcf","slide":6,"name":"ops-owner-2","text":"QA","textPreview":"QA","textChars":2,"textLines":1,"bbox":[646,522,86,22]}
+{"kind":"shape","id":"sh/90behgvq","slide":6,"name":"ops-row-3","bbox":[54,554,742,42]}
+{"kind":"textbox","id":"sh/8z2xobul","slide":6,"name":"ops-label-3","text":"퍼블리셔 검수","textPreview":"퍼블리셔 검수","textChars":7,"textLines":1,"bbox":[76,565,150,20]}
+{"kind":"textbox","id":"sh/vmtwjqdw","slide":6,"name":"ops-check-3","text":"피드백 반영·보류·차기 대응 항목을 구분","textPreview":"피드백 반영·보류·차기 대응 항목을 구분","textChars":22,"textLines":1,"bbox":[242,564,360,22]}
+{"kind":"textbox","id":"sh/ulkfqlcb","slide":6,"name":"ops-owner-3","text":"PM","textPreview":"PM","textChars":2,"textLines":1,"bbox":[646,564,86,22]}
+{"kind":"textbox","id":"sh/hobel0v2","slide":6,"name":"build-control-title","text":"PM 통제 항목","textPreview":"PM 통제 항목","textChars":8,"textLines":1,"bbox":[850,202,220,30]}
+{"kind":"shape","id":"sh/wn2xsvuh","slide":6,"name":"build-control-card-1","bbox":[850,250,346,78]}
+{"kind":"shape","id":"sh/jqdwnad8","slide":6,"name":"build-control-bar-1","bbox":[850,250,6,78]}
+{"kind":"textbox","id":"sh/ip4fu5cn","slide":6,"name":"build-control-title-1","text":"버전 기준 관리","textPreview":"버전 기준 관리","textChars":8,"textLines":1,"bbox":[876,260,250,22]}
+{"kind":"textbox","id":"sh/ex8r2t0r","slide":6,"name":"build-control-body-1","text":"빌드 전달 시점, 브랜치, 태그 정보를 하나의 기준으로 관리","textPreview":"빌드 전달 시점, 브랜치, 태그 정보를 하나의 기준으로 관리","textChars":33,"textLines":1,"bbox":[876,284,274,34]}
+{"kind":"shape","id":"sh/zyh8by1c","slide":6,"name":"build-control-card-2","bbox":[850,354,346,78]}
+{"kind":"shape","id":"sh/0zq943ix","slide":6,"name":"build-control-bar-2","bbox":[850,354,6,78]}
+{"kind":"textbox","id":"sh/10zqd8ji","slide":6,"name":"build-control-title-2","text":"이슈 영향도 분리","textPreview":"이슈 영향도 분리","textChars":9,"textLines":1,"bbox":[876,364,250,22]}
+{"kind":"textbox","id":"sh/qtoryt0v","slide":6,"name":"build-control-body-2","text":"런칭 영향 이슈와 차기 대응 이슈를 구분해 의사결정","textPreview":"런칭 영향 이슈와 차기 대응 이슈를 구분해 의사결정","textChars":28,"textLines":1,"bbox":[876,388,274,34]}
+{"kind":"shape","id":"sh/ruh87e1g","slide":6,"name":"build-control-card-3","bbox":[850,458,346,78]}
+{"kind":"shape","id":"sh/cvq90ji1","slide":6,"name":"build-control-bar-3","bbox":[850,458,6,78]}
+{"kind":"textbox","id":"sh/dwzq9ojm","slide":6,"name":"build-control-title-3","text":"배포 준비 연결","textPreview":"배포 준비 연결","textChars":8,"textLines":1,"bbox":[876,468,250,22]}
+{"kind":"textbox","id":"sh/apsrad0z","slide":6,"name":"build-control-body-3","text":"QA·검수 결과를 Live 릴리즈 준비 항목으로 전환","textPreview":"QA·검수 결과를 Live 릴리즈 준비 항목으로 전환","textChars":29,"textLines":1,"bbox":[876,492,274,34]}
+{"kind":"shape","id":"sh/bq18ji1k","slide":6,"name":"release-principle-panel","bbox":[54,620,1142,44]}
+{"kind":"textbox","id":"sh/lk3u9c3m","slide":6,"name":"release-principle-label","text":"운영 원칙","textPreview":"운영 원칙","textChars":5,"textLines":1,"bbox":[82,632,120,22]}
+{"kind":"textbox","id":"sh/kjut072h","slide":6,"name":"release-principle-body","text":"빌드가 준비됐는지가 아니라, QA·검수·운영 대응까지 같은 버전 기준으로 설명 가능한지가 핵심입니다.","textPreview":"빌드가 준비됐는지가 아니라, QA·검수·운영 대응까지 같은 버전 기준으로 설명 가능한지가 핵심입니다.","textChars":56,"textLines":1,"bbox":[206,632,860,22]}
+{"kind":"notes","id":"nt/c2quzr","slide":6,"text":""}
+{"kind":"slide","id":"sl/khoug1","slide":7,"title":"FINAL LAUNCH READINESS | PAGE 07","textShapes":35}
+{"kind":"shape","id":"sh/vupcru90","slide":7,"name":"top-accent","bbox":[0,0,1280,10]}
+{"kind":"shape","id":"sh/wvyt0zql","slide":7,"name":"left-accent","bbox":[0,0,16,720]}
+{"kind":"textbox","id":"sh/hw7ut4r6","slide":7,"name":"eyebrow","text":"FINAL LAUNCH READINESS | PAGE 07","textPreview":"FINAL LAUNCH READINESS | PAGE 07","textChars":32,"textLines":1,"bbox":[54,38,620,30]}
+{"kind":"textbox","id":"sh/ixgb298r","slide":7,"name":"footer","text":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textPreview":"HIT2 일본 서비스 런칭 6개월 전 로드맵","textChars":24,"textLines":1,"bbox":[54,678,520,28]}
+{"kind":"textbox","id":"sh/jypcve9c","slide":7,"name":"page-no","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1150,678,44,28]}
+{"kind":"textbox","id":"sh/4zyt4jqx","slide":7,"name":"title-07","text":"최종 런칭 판단은 일정·버전·이슈가 설명 가능한 상태에서 진행합니다","textPreview":"최종 런칭 판단은 일정·버전·이슈가 설명 가능한 상태에서 진행합니다","textChars":37,"textLines":1,"bbox":[54,82,1110,56]}
+{"kind":"textbox","id":"sh/507ux4r2","slide":7,"name":"subtitle-07","text":"6개월 로드맵의 목적은 모든 이슈 제거가 아니라, Live 릴리즈 가능한 기준과 잔여 리스크를 명확히 남기는 것입니다.","textPreview":"6개월 로드맵의 목적은 모든 이슈 제거가 아니라, Live 릴리즈 가능한 기준과 잔여 리스크를 명확히 남기는 것입니다.","textChars":66,"textLines":1,"bbox":[56,144,1080,34]}
+{"kind":"textbox","id":"sh/y1cbq587","slide":7,"name":"final-check-title","text":"런칭 전 최종 점검 기준","textPreview":"런칭 전 최종 점검 기준","textChars":13,"textLines":1,"bbox":[54,190,270,30]}
+{"kind":"shape","id":"sh/z2lsja9s","slide":7,"name":"final-check-header","bbox":[54,232,714,24]}
+{"kind":"textbox","id":"sh/7mtgfq94","slide":7,"name":"final-th-1","text":"항목","textPreview":"항목","textChars":2,"textLines":1,"bbox":[78,231,80,16]}
+{"kind":"textbox","id":"sh/6lkzmlsj","slide":7,"name":"final-th-2","text":"판단 기준","textPreview":"판단 기준","textChars":5,"textLines":1,"bbox":[240,231,120,16]}
+{"kind":"textbox","id":"sh/t8byh0ra","slide":7,"name":"final-th-3","text":"PM 확인","textPreview":"PM 확인","textChars":5,"textLines":1,"bbox":[522,231,100,16]}
+{"kind":"shape","id":"sh/sn2hovap","slide":7,"name":"final-check-row-1","bbox":[54,256,714,56]}
+{"kind":"textbox","id":"sh/jitgbq98","slide":7,"name":"final-check-item-1","text":"마일스톤","textPreview":"마일스톤","textChars":4,"textLines":1,"bbox":[78,272,142,24]}
+{"kind":"textbox","id":"sh/ih0filsn","slide":7,"name":"final-check-standard-1","text":"런칭 전 필수 범위와 보류 범위가 구분됨","textPreview":"런칭 전 필수 범위와 보류 범위가 구분됨","textChars":22,"textLines":1,"bbox":[240,267,260,32]}
+{"kind":"textbox","id":"sh/5kbydgry","slide":7,"name":"final-check-action-1","text":"진행률보다 통과 기준 확인","textPreview":"진행률보다 통과 기준 확인","textChars":14,"textLines":1,"bbox":[522,267,190,32]}
+{"kind":"shape","id":"sh/kj2hkbat","slide":7,"name":"final-check-row-2","bbox":[54,312,714,56]}
+{"kind":"textbox","id":"sh/ve9g769w","slide":7,"name":"final-check-item-2","text":"빌드·버전","textPreview":"빌드·버전","textChars":5,"textLines":1,"bbox":[78,328,142,24]}
+{"kind":"textbox","id":"sh/ad0fe1sb","slide":7,"name":"final-check-standard-2","text":"Live 후보 빌드 기준과 변경 이력이 정리됨","textPreview":"Live 후보 빌드 기준과 변경 이력이 정리됨","textChars":25,"textLines":1,"bbox":[240,323,260,32]}
+{"kind":"textbox","id":"sh/ypgzq1cj","slide":7,"name":"final-check-action-2","text":"Perforce 기준 상태 공유","textPreview":"Perforce 기준 상태 공유","textChars":17,"textLines":1,"bbox":[522,323,190,32]}
+{"kind":"shape","id":"sh/zap0j6do","slide":7,"name":"final-check-row-3","bbox":[54,368,714,56]}
+{"kind":"textbox","id":"sh/0bihsbu9","slide":7,"name":"final-check-item-3","text":"QA·검수","textPreview":"QA·검수","textChars":5,"textLines":1,"bbox":[78,384,142,24]}
+{"kind":"textbox","id":"sh/lcrilgbu","slide":7,"name":"final-check-standard-3","text":"주요 이슈의 조치 계획과 잔여 리스크가 분리됨","textPreview":"주요 이슈의 조치 계획과 잔여 리스크가 분리됨","textChars":25,"textLines":1,"bbox":[240,379,260,32]}
+{"kind":"textbox","id":"sh/md0zulcf","slide":7,"name":"final-check-action-3","text":"런칭 영향도 중심 점검","textPreview":"런칭 영향도 중심 점검","textChars":12,"textLines":1,"bbox":[522,379,190,32]}
+{"kind":"shape","id":"sh/ne90n6t0","slide":7,"name":"final-check-row-4","bbox":[54,424,714,56]}
+{"kind":"textbox","id":"sh/8fihwbul","slide":7,"name":"final-check-item-4","text":"퍼블리셔 대응","textPreview":"퍼블리셔 대응","textChars":7,"textLines":1,"bbox":[78,440,142,24]}
+{"kind":"textbox","id":"sh/9gripgb6","slide":7,"name":"final-check-standard-4","text":"요청사항의 반영·보류·차기 대응 기준이 남음","textPreview":"요청사항의 반영·보류·차기 대응 기준이 남음","textChars":24,"textLines":1,"bbox":[240,435,260,32]}
+{"kind":"textbox","id":"sh/ah0zylcb","slide":7,"name":"final-check-action-4","text":"의사결정 이력 정리","textPreview":"의사결정 이력 정리","textChars":10,"textLines":1,"bbox":[522,435,190,32]}
+{"kind":"shape","id":"sh/vit0rqtw","slide":7,"name":"final-check-row-5","bbox":[54,480,714,56]}
+{"kind":"textbox","id":"sh/5ofadoja","slide":7,"name":"final-check-item-5","text":"운영 준비","textPreview":"운영 준비","textChars":5,"textLines":1,"bbox":[78,496,142,24]}
+{"kind":"textbox","id":"sh/4n6t4ji5","slide":7,"name":"final-check-standard-5","text":"배포·공지·운영 대응 항목의 담당이 확정됨","textPreview":"배포·공지·운영 대응 항목의 담당이 확정됨","textChars":23,"textLines":1,"bbox":[240,491,260,32]}
+{"kind":"textbox","id":"sh/jmdsbe1k","slide":7,"name":"final-check-action-5","text":"Live 릴리즈 체크","textPreview":"Live 릴리즈 체크","textChars":11,"textLines":1,"bbox":[522,491,190,32]}
+{"kind":"textbox","id":"sh/il4b290z","slide":7,"name":"effect-title","text":"PM 관점 기대 효과","textPreview":"PM 관점 기대 효과","textChars":11,"textLines":1,"bbox":[830,202,260,30]}
+{"kind":"shape","id":"sh/tcfuhozm","slide":7,"name":"effect-card-1","bbox":[830,244,366,70]}
+{"kind":"shape","id":"sh/sb6t8ji1","slide":7,"name":"effect-card-bar-1","bbox":[830,244,6,70]}
+{"kind":"textbox","id":"sh/rqxcfehg","slide":7,"name":"effect-label-1","text":"일정·범위 통제 강화","textPreview":"일정·범위 통제 강화","textChars":11,"textLines":1,"bbox":[856,251,260,22]}
+{"kind":"textbox","id":"sh/6pob6t0v","slide":7,"name":"effect-body-1","text":"변경 요청을 영향도 기준으로 분리해 일정 흔들림을 줄입니다.","textPreview":"변경 요청을 영향도 기준으로 분리해 일정 흔들림을 줄입니다.","textChars":33,"textLines":1,"bbox":[856,276,286,30]}
+{"kind":"shape","id":"sh/1gzul8zi","slide":7,"name":"effect-card-2","bbox":[830,332,366,70]}
+{"kind":"shape","id":"sh/gfqtc3ix","slide":7,"name":"effect-card-bar-2","bbox":[830,332,6,70]}
+{"kind":"textbox","id":"sh/cbadk725","slide":7,"name":"effect-label-2","text":"버전·이슈 추적성 확보","textPreview":"버전·이슈 추적성 확보","textChars":12,"textLines":1,"bbox":[856,339,260,22]}
+{"kind":"textbox","id":"sh/dcjedcjq","slide":7,"name":"effect-body-2","text":"빌드 기준과 이슈 상태를 연결해 의사결정 근거를 남깁니다.","textPreview":"빌드 기준과 이슈 상태를 연결해 의사결정 근거를 남깁니다.","textChars":32,"textLines":1,"bbox":[856,364,286,30]}
+{"kind":"shape","id":"sh/q9svixkf","slide":7,"name":"effect-card-3","bbox":[830,420,366,70]}
+{"kind":"shape","id":"sh/ba1wb210","slide":7,"name":"effect-card-bar-3","bbox":[830,420,6,70]}
+{"kind":"textbox","id":"sh/o7adgn29","slide":7,"name":"effect-label-3","text":"퍼블리셔 대응 명확화","textPreview":"퍼블리셔 대응 명확화","textChars":11,"textLines":1,"bbox":[856,427,260,22]}
+{"kind":"textbox","id":"sh/p8je9sju","slide":7,"name":"effect-body-3","text":"검수 피드백을 운영 가능한 액션으로 정리합니다.","textPreview":"검수 피드백을 운영 가능한 액션으로 정리합니다.","textChars":26,"textLines":1,"bbox":[856,452,286,30]}
+{"kind":"shape","id":"sh/258vedk3","slide":7,"name":"effect-card-4","bbox":[830,508,366,70]}
+{"kind":"shape","id":"sh/36hw7ilo","slide":7,"name":"effect-card-bar-4","bbox":[830,508,6,70]}
+{"kind":"textbox","id":"sh/83uxsr2d","slide":7,"name":"effect-label-4","text":"Live 릴리즈 준비 완성","textPreview":"Live 릴리즈 준비 완성","textChars":14,"textLines":1,"bbox":[856,515,260,22]}
+{"kind":"textbox","id":"sh/943elwjy","slide":7,"name":"effect-body-4","text":"배포 직전까지 필요한 담당·일정·리스크를 확인합니다.","textPreview":"배포 직전까지 필요한 담당·일정·리스크를 확인합니다.","textChars":29,"textLines":1,"bbox":[856,540,286,30]}
+{"kind":"shape","id":"sh/jypgbql0","slide":7,"name":"final-message-panel","bbox":[54,608,1142,44]}
+{"kind":"textbox","id":"sh/ixgzil4v","slide":7,"name":"final-message-label","text":"정리","textPreview":"정리","textChars":2,"textLines":1,"bbox":[82,620,120,22]}
+{"kind":"textbox","id":"sh/507idg36","slide":7,"name":"final-message-body","text":"HIT2 일본 런칭 준비는 마일스톤, 빌드·버전, QA, 퍼블리셔 대응을 하나의 릴리즈 판단 흐름으로 묶어 관리합니다.","textPreview":"HIT2 일본 런칭 준비는 마일스톤, 빌드·버전, QA, 퍼블리셔 대응을 하나의 릴리즈 판단 흐름으로 묶어 관리합니다.","textChars":66,"textLines":1,"bbox":[206,620,900,22]}
+{"kind":"notes","id":"nt/khoug1","slide":7,"text":""}

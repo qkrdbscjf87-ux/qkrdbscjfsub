@@ -667,6 +667,261 @@ function buildSlide05(presentation) {
   return slide;
 }
 
+function addReleaseFlowStep(slide, index, step, title, body, accent) {
+  const left = 54 + index * 150;
+  const top = 258;
+  addRound(slide, `release-flow-step-${index + 1}`, { left, top, width: 126, height: 126 }, colors.panel2, colors.line);
+  addRect(slide, `release-flow-bar-${index + 1}`, { left, top, width: 126, height: 6 }, accent, accent, 0);
+  addPill(slide, `release-flow-no-${index + 1}`, step, left + 36, top + 22, 54, accent, accent === colors.cyan ? colors.darkText : colors.white);
+  addText(slide, `release-flow-title-${index + 1}`, title, { left: left + 14, top: top + 62, width: 98, height: 24 }, {
+    fontSize: 14,
+    bold: true,
+    color: colors.white,
+    alignment: "center",
+  });
+  addText(slide, `release-flow-body-${index + 1}`, body, { left: left + 10, top: top + 91, width: 106, height: 24 }, {
+    fontSize: 10,
+    color: colors.text,
+    alignment: "center",
+  });
+  if (index < 4) {
+    addText(slide, `release-flow-arrow-${index + 1}`, ">", { left: left + 128, top: top + 48, width: 22, height: 32 }, {
+      fontSize: 20,
+      bold: true,
+      color: colors.muted,
+      alignment: "center",
+    });
+  }
+}
+
+function addOpsRow(slide, index, label, check, owner, accent) {
+  const top = 470 + index * 42;
+  addRect(slide, `ops-row-${index + 1}`, { left: 54, top, width: 742, height: 42 }, index % 2 === 0 ? colors.rowA : colors.panel2, colors.line, 1);
+  addText(slide, `ops-label-${index + 1}`, label, { left: 76, top: top + 11, width: 150, height: 20 }, {
+    fontSize: 13.5,
+    bold: true,
+    color: accent,
+  });
+  addText(slide, `ops-check-${index + 1}`, check, { left: 242, top: top + 10, width: 360, height: 22 }, {
+    fontSize: 12.5,
+    color: colors.white,
+  });
+  addText(slide, `ops-owner-${index + 1}`, owner, { left: 646, top: top + 10, width: 86, height: 22 }, {
+    fontSize: 12.5,
+    bold: true,
+    color: colors.text,
+    alignment: "center",
+  });
+}
+
+function addBuildControlCard(slide, index, title, body, accent) {
+  const top = 250 + index * 104;
+  addRound(slide, `build-control-card-${index + 1}`, { left: 850, top, width: 346, height: 78 }, colors.panel2, colors.line);
+  addRect(slide, `build-control-bar-${index + 1}`, { left: 850, top, width: 6, height: 78 }, accent, accent, 0);
+  addText(slide, `build-control-title-${index + 1}`, title, { left: 876, top: top + 10, width: 250, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, `build-control-body-${index + 1}`, body, { left: 876, top: top + 34, width: 274, height: 34 }, {
+    fontSize: 12,
+    color: colors.text,
+  });
+}
+
+function buildSlide06(presentation) {
+  const slide = presentation.slides.add();
+  addChrome(slide, "06", "BUILD QA RELEASE FLOW | PAGE 06");
+  addTitle(
+    slide,
+    "06",
+    "릴리즈 운영은 빌드·QA·검수 상태를 같은 기준으로 묶어 판단합니다",
+    "Perforce 기반 버전 관리와 QA 결과, 퍼블리셔 검수 피드백을 연결해 릴리즈 후보 판단 기준을 고정합니다.",
+  );
+
+  addText(slide, "release-flow-title", "릴리즈 운영 흐름", { left: 54, top: 202, width: 220, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, "release-flow-note", "각 단계는 완료 여부보다 다음 단계로 넘길 수 있는 기준을 확인합니다.", {
+    left: 250,
+    top: 208,
+    width: 520,
+    height: 22,
+  }, {
+    fontSize: 13,
+    color: colors.muted,
+  });
+
+  const releaseFlow = [
+    ["01", "버전 고정", "Perforce 브랜치\n태그 기준 확정", colors.cyan],
+    ["02", "빌드 전달", "QA·검수 대상\n빌드 공유", colors.orange],
+    ["03", "QA 확인", "주요 이슈와\n수정 반영 추적", colors.purple],
+    ["04", "검수 반영", "퍼블리셔 피드백\n영향도 분리", colors.cyanSoft],
+    ["05", "RC 판단", "릴리즈 후보\n진입 기준 확정", colors.orange],
+  ];
+  releaseFlow.forEach((item, index) => addReleaseFlowStep(slide, index, item[0], item[1], item[2], item[3]));
+
+  addText(slide, "ops-table-title", "단계별 확인 기준", { left: 54, top: 406, width: 220, height: 24 }, {
+    fontSize: 21,
+    bold: true,
+    color: colors.white,
+  });
+  addRect(slide, "ops-table-header", { left: 54, top: 446, width: 742, height: 24 }, colors.cyan, colors.cyan, 0);
+  addText(slide, "ops-th-1", "구분", { left: 76, top: 448, width: 80, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "ops-th-2", "확인 기준", { left: 242, top: 448, width: 120, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "ops-th-3", "주관", { left: 652, top: 448, width: 70, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+    alignment: "center",
+  });
+
+  const opsRows = [
+    ["빌드·버전", "검수 대상 빌드와 브랜치 기준이 일치하는지 확인", "개발 PM", colors.cyan],
+    ["QA 안정성", "주요 이슈의 수정 계획과 잔여 리스크를 분리", "QA", colors.purple],
+    ["퍼블리셔 검수", "피드백 반영·보류·차기 대응 항목을 구분", "PM", colors.orange],
+  ];
+  opsRows.forEach((item, index) => addOpsRow(slide, index, item[0], item[1], item[2], item[3]));
+
+  addText(slide, "build-control-title", "PM 통제 항목", { left: 850, top: 202, width: 220, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addBuildControlCard(slide, 0, "버전 기준 관리", "빌드 전달 시점, 브랜치, 태그 정보를 하나의 기준으로 관리", colors.cyan);
+  addBuildControlCard(slide, 1, "이슈 영향도 분리", "런칭 영향 이슈와 차기 대응 이슈를 구분해 의사결정", colors.orange);
+  addBuildControlCard(slide, 2, "배포 준비 연결", "QA·검수 결과를 Live 릴리즈 준비 항목으로 전환", colors.purple);
+
+  addRound(slide, "release-principle-panel", { left: 54, top: 620, width: 1142, height: 44 }, colors.panel, "#22304E");
+  addText(slide, "release-principle-label", "운영 원칙", { left: 82, top: 632, width: 120, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.cyanSoft,
+  });
+  addText(slide, "release-principle-body", "빌드가 준비됐는지가 아니라, QA·검수·운영 대응까지 같은 버전 기준으로 설명 가능한지가 핵심입니다.", {
+    left: 206,
+    top: 632,
+    width: 860,
+    height: 22,
+  }, {
+    fontSize: 15,
+    color: colors.white,
+  });
+  return slide;
+}
+
+function addFinalChecklistRow(slide, index, item, standard, action, accent) {
+  const top = 256 + index * 56;
+  addRect(slide, `final-check-row-${index + 1}`, { left: 54, top, width: 714, height: 56 }, index % 2 === 0 ? colors.rowA : colors.panel2, colors.line, 1);
+  addText(slide, `final-check-item-${index + 1}`, item, { left: 78, top: top + 16, width: 142, height: 24 }, {
+    fontSize: 14,
+    bold: true,
+    color: accent,
+  });
+  addText(slide, `final-check-standard-${index + 1}`, standard, { left: 240, top: top + 11, width: 260, height: 32 }, {
+    fontSize: 12.5,
+    color: colors.white,
+  });
+  addText(slide, `final-check-action-${index + 1}`, action, { left: 522, top: top + 11, width: 190, height: 32 }, {
+    fontSize: 12.5,
+    color: colors.text,
+  });
+}
+
+function addEffectCard(slide, index, label, body, accent) {
+  const top = 244 + index * 88;
+  addRound(slide, `effect-card-${index + 1}`, { left: 830, top, width: 366, height: 70 }, colors.panel2, colors.line);
+  addRect(slide, `effect-card-bar-${index + 1}`, { left: 830, top, width: 6, height: 70 }, accent, accent, 0);
+  addText(slide, `effect-label-${index + 1}`, label, { left: 856, top: top + 7, width: 260, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, `effect-body-${index + 1}`, body, { left: 856, top: top + 32, width: 286, height: 30 }, {
+    fontSize: 12,
+    color: colors.text,
+  });
+}
+
+function buildSlide07(presentation) {
+  const slide = presentation.slides.add();
+  addChrome(slide, "07", "FINAL LAUNCH READINESS | PAGE 07");
+  addTitle(
+    slide,
+    "07",
+    "최종 런칭 판단은 일정·버전·이슈가 설명 가능한 상태에서 진행합니다",
+    "6개월 로드맵의 목적은 모든 이슈 제거가 아니라, Live 릴리즈 가능한 기준과 잔여 리스크를 명확히 남기는 것입니다.",
+  );
+
+  addText(slide, "final-check-title", "런칭 전 최종 점검 기준", { left: 54, top: 190, width: 270, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addRect(slide, "final-check-header", { left: 54, top: 232, width: 714, height: 24 }, colors.cyan, colors.cyan, 0);
+  addText(slide, "final-th-1", "항목", { left: 78, top: 231, width: 80, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "final-th-2", "판단 기준", { left: 240, top: 231, width: 120, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "final-th-3", "PM 확인", { left: 522, top: 231, width: 100, height: 16 }, {
+    fontSize: 12,
+    bold: true,
+    color: colors.darkText,
+  });
+
+  const finalRows = [
+    ["마일스톤", "런칭 전 필수 범위와 보류 범위가 구분됨", "진행률보다 통과 기준 확인", colors.cyan],
+    ["빌드·버전", "Live 후보 빌드 기준과 변경 이력이 정리됨", "Perforce 기준 상태 공유", colors.orange],
+    ["QA·검수", "주요 이슈의 조치 계획과 잔여 리스크가 분리됨", "런칭 영향도 중심 점검", colors.purple],
+    ["퍼블리셔 대응", "요청사항의 반영·보류·차기 대응 기준이 남음", "의사결정 이력 정리", colors.cyanSoft],
+    ["운영 준비", "배포·공지·운영 대응 항목의 담당이 확정됨", "Live 릴리즈 체크", colors.orange],
+  ];
+  finalRows.forEach((item, index) => addFinalChecklistRow(slide, index, item[0], item[1], item[2], item[3]));
+
+  addText(slide, "effect-title", "PM 관점 기대 효과", { left: 830, top: 202, width: 260, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addEffectCard(slide, 0, "일정·범위 통제 강화", "변경 요청을 영향도 기준으로 분리해 일정 흔들림을 줄입니다.", colors.cyan);
+  addEffectCard(slide, 1, "버전·이슈 추적성 확보", "빌드 기준과 이슈 상태를 연결해 의사결정 근거를 남깁니다.", colors.orange);
+  addEffectCard(slide, 2, "퍼블리셔 대응 명확화", "검수 피드백을 운영 가능한 액션으로 정리합니다.", colors.purple);
+  addEffectCard(slide, 3, "Live 릴리즈 준비 완성", "배포 직전까지 필요한 담당·일정·리스크를 확인합니다.", colors.cyanSoft);
+
+  addRound(slide, "final-message-panel", { left: 54, top: 608, width: 1142, height: 44 }, colors.panel, "#22304E");
+  addText(slide, "final-message-label", "정리", { left: 82, top: 620, width: 120, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.cyanSoft,
+  });
+  addText(slide, "final-message-body", "HIT2 일본 런칭 준비는 마일스톤, 빌드·버전, QA, 퍼블리셔 대응을 하나의 릴리즈 판단 흐름으로 묶어 관리합니다.", {
+    left: 206,
+    top: 620,
+    width: 900,
+    height: 22,
+  }, {
+    fontSize: 15,
+    color: colors.white,
+  });
+  return slide;
+}
+
 async function main() {
   await fs.mkdir(path.dirname(FINAL_PPTX), { recursive: true });
   await fs.mkdir(PREVIEW_DIR, { recursive: true });
@@ -678,6 +933,8 @@ async function main() {
   buildSlide03(presentation);
   buildSlide04(presentation);
   buildSlide05(presentation);
+  buildSlide06(presentation);
+  buildSlide07(presentation);
 
   for (const [index, slide] of presentation.slides.items.entries()) {
     const stem = `slide-${String(index + 1).padStart(2, "0")}`;
