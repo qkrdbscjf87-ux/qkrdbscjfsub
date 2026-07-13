@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/9ah2i1",
-    "id": "9ah2i1",
+    "aid": "sl/936doo",
+    "id": "936doo",
     "slide": 2,
-    "layoutId": "b6c14471-9086-4914-9c99-85628b0e2452",
+    "layoutId": "6dd9d068-0f70-40f5-a4ea-b0aa6c4e1793",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+    "masterLayoutId": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
     "masterLayoutName": "Master",
     "backgroundColor": "#0B1020",
     "frame": {
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "b6c14471-9086-4914-9c99-85628b0e2452",
+      "id": "6dd9d068-0f70-40f5-a4ea-b0aa6c4e1793",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+      "parentLayoutId": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+      "id": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/crmhk3q5",
+      "aid": "sh/mp0bi9s3",
       "id": "1",
       "name": "top-accent",
       "bbox": [
@@ -82,7 +82,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/j6tovaho",
+      "aid": "sh/tgfmlkjm",
       "id": "2",
       "name": "left-accent",
       "bbox": [
@@ -100,7 +100,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ulwval87",
+      "aid": "sh/4vmtwra5",
       "id": "3",
       "name": "eyebrow",
       "bbox": [
@@ -162,7 +162,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1kre1w7m",
+      "aid": "sh/bm58z25k",
       "id": "4",
       "name": "footer",
       "bbox": [
@@ -221,7 +221,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/c3ylc7u5",
+      "aid": "sh/m1cfa9w3",
       "id": "5",
       "name": "page-no",
       "bbox": [
@@ -285,7 +285,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ji5snelo",
+      "aid": "sh/tsvu9kni",
       "id": "6",
       "name": "title-02",
       "bbox": [
@@ -295,8 +295,8 @@
         56
       ],
       "geometry": "rect",
-      "text": "6개월 런칭 준비는 네 축이 병렬로 움직입니다",
-      "textPreview": "6개월 런칭 준비는 네 축이 병렬로 움직입니다",
+      "text": "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다",
+      "textPreview": "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다",
       "resolvedFontSize": 34,
       "resolvedTextStyle": {
         "fontSize": 34,
@@ -316,14 +316,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "6개월 런칭 준비는 네 축이 병렬로 움직입니다"
+            "text": "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "6개월 런칭 준비는 네 축이 병렬로 움직입니다",
+          "text": "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다",
           "resolvedTextStyle": {
             "fontSize": 34,
             "color": "#FFFFFF",
@@ -332,7 +332,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "6개월 런칭 준비는 네 축이 병렬로 움직입니다",
+              "text": "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다",
               "fontSize": 34,
               "color": "#FFFFFF",
               "bold": true
@@ -347,7 +347,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/uxc3ylc7",
+      "aid": "sh/47y1kre1",
       "id": "7",
       "name": "subtitle-02",
       "bbox": [
@@ -357,8 +357,8 @@
         34
       ],
       "geometry": "rect",
-      "text": "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다.",
-      "textPreview": "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다.",
+      "text": "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.",
+      "textPreview": "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.",
       "resolvedFontSize": 17,
       "resolvedTextStyle": {
         "fontSize": 17,
@@ -377,14 +377,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다."
+            "text": "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다.",
+          "text": "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.",
           "resolvedTextStyle": {
             "fontSize": 17,
             "color": "#CBD5E1"
@@ -392,7 +392,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다.",
+              "text": "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.",
               "fontSize": 17,
               "color": "#CBD5E1"
             }
@@ -406,7 +406,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1w7mp0bi",
+      "aid": "sh/bq1oryts",
       "id": "8",
       "name": "timeline-line",
       "bbox": [
@@ -424,7 +424,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8bat47y1",
+      "aid": "sh/m58z25kb",
       "id": "9",
       "name": "timeline-card-1",
       "bbox": [
@@ -442,7 +442,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ytsvu9kn",
+      "aid": "sh/o7qpg3ex",
       "id": "10",
       "name": "timeline-bar-1",
       "bbox": [
@@ -460,7 +460,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/neloj2t8",
+      "aid": "sh/dsji5sne",
       "id": "11",
       "name": "timeline-month-1",
       "bbox": [
@@ -522,7 +522,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/czed8v6p",
+      "aid": "sh/61032lsz",
       "id": "12",
       "name": "timeline-title-1",
       "bbox": [
@@ -532,8 +532,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "런칭 범위 확정",
-      "textPreview": "런칭 범위 확정",
+      "text": "범위·일정 확정",
+      "textPreview": "범위·일정 확정",
       "resolvedFontSize": 18,
       "resolvedTextStyle": {
         "fontSize": 18,
@@ -553,7 +553,7 @@
         "lines": [
           {
             "index": 1,
-            "text": "런칭 범위"
+            "text": "범위·일정"
           },
           {
             "index": 2,
@@ -564,7 +564,7 @@
       "paragraphs": [
         {
           "index": 1,
-          "text": "런칭 범위 확정",
+          "text": "범위·일정 확정",
           "resolvedTextStyle": {
             "fontSize": 18,
             "color": "#FFFFFF",
@@ -573,7 +573,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "런칭 범위 확정",
+              "text": "범위·일정 확정",
               "fontSize": 18,
               "color": "#FFFFFF",
               "bold": true
@@ -588,7 +588,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5kb6xkf6",
+      "aid": "sh/vmtwra5g",
       "id": "13",
       "name": "timeline-dot-1-1",
       "bbox": [
@@ -650,7 +650,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u54zidon",
+      "aid": "sh/oj2t83it",
       "id": "14",
       "name": "timeline-item-1-1",
       "bbox": [
@@ -709,7 +709,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nqxs72x4",
+      "aid": "sh/d4vmtwra",
       "id": "15",
       "name": "timeline-dot-1-2",
       "bbox": [
@@ -771,7 +771,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cbulwval",
+      "aid": "sh/6dcbulwv",
       "id": "16",
       "name": "timeline-item-1-2",
       "bbox": [
@@ -781,8 +781,8 @@
         30
       ],
       "geometry": "rect",
-      "text": "주요 콘텐츠 기준",
-      "textPreview": "주요 콘텐츠 기준",
+      "text": "마일스톤 기준",
+      "textPreview": "마일스톤 기준",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -801,14 +801,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "주요 콘텐츠 기준"
+            "text": "마일스톤 기준"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "주요 콘텐츠 기준",
+          "text": "마일스톤 기준",
           "resolvedTextStyle": {
             "fontSize": 12.51,
             "color": "#CBD5E1"
@@ -816,7 +816,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "주요 콘텐츠 기준",
+              "text": "마일스톤 기준",
               "fontSize": 12.51,
               "color": "#CBD5E1"
             }
@@ -830,7 +830,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5sneloj2",
+      "aid": "sh/vy90je9c",
       "id": "17",
       "name": "timeline-dot-1-3",
       "bbox": [
@@ -892,7 +892,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/y90je9cv",
+      "aid": "sh/onyd0z61",
       "id": "18",
       "name": "timeline-item-1-3",
       "bbox": [
@@ -951,7 +951,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nuxc3ylc",
+      "aid": "sh/d8v6psfi",
       "id": "19",
       "name": "timeline-card-2",
       "bbox": [
@@ -969,7 +969,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fmlkjm1c",
+      "aid": "sh/1cfa9w3m",
       "id": "20",
       "name": "timeline-bar-2",
       "bbox": [
@@ -987,7 +987,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/q1orytsv",
+      "aid": "sh/crmhk3q5",
       "id": "21",
       "name": "timeline-month-2",
       "bbox": [
@@ -1049,7 +1049,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xs72x4na",
+      "aid": "sh/j6tovaho",
       "id": "22",
       "name": "timeline-title-2",
       "bbox": [
@@ -1059,8 +1059,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "개발·현지화 동기화",
-      "textPreview": "개발·현지화 동기화",
+      "text": "개발·현지화 반영",
+      "textPreview": "개발·현지화 반영",
       "resolvedFontSize": 18,
       "resolvedTextStyle": {
         "fontSize": 18,
@@ -1084,14 +1084,14 @@
           },
           {
             "index": 2,
-            "text": "동기화"
+            "text": "반영"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "개발·현지화 동기화",
+          "text": "개발·현지화 반영",
           "resolvedTextStyle": {
             "fontSize": 18,
             "color": "#FFFFFF",
@@ -1100,7 +1100,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "개발·현지화 동기화",
+              "text": "개발·현지화 반영",
               "fontSize": 18,
               "color": "#FFFFFF",
               "bold": true
@@ -1115,7 +1115,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/87ed8bat",
+      "aid": "sh/ulwval87",
       "id": "23",
       "name": "timeline-dot-2-1",
       "bbox": [
@@ -1177,7 +1177,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/je9cvixc",
+      "aid": "sh/1kre1w7m",
       "id": "24",
       "name": "timeline-item-2-1",
       "bbox": [
@@ -1187,8 +1187,8 @@
         30
       ],
       "geometry": "rect",
-      "text": "번역·리소스 반영",
-      "textPreview": "번역·리소스 반영",
+      "text": "번역 리소스 반영",
+      "textPreview": "번역 리소스 반영",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -1207,14 +1207,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "번역·리소스 반영"
+            "text": "번역 리소스 반영"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "번역·리소스 반영",
+          "text": "번역 리소스 반영",
           "resolvedTextStyle": {
             "fontSize": 12.51,
             "color": "#CBD5E1"
@@ -1222,7 +1222,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "번역·리소스 반영",
+              "text": "번역 리소스 반영",
               "fontSize": 12.51,
               "color": "#CBD5E1"
             }
@@ -1236,7 +1236,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qtcj6tov",
+      "aid": "sh/c3ylc7u5",
       "id": "25",
       "name": "timeline-dot-2-2",
       "bbox": [
@@ -1298,7 +1298,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1gvy90je",
+      "aid": "sh/ji5snelo",
       "id": "26",
       "name": "timeline-item-2-2",
       "bbox": [
@@ -1361,7 +1361,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8z25kb6x",
+      "aid": "sh/uxc3ylc7",
       "id": "27",
       "name": "timeline-dot-2-3",
       "bbox": [
@@ -1423,7 +1423,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fa9w3m94",
+      "aid": "sh/1w7mp0bi",
       "id": "28",
       "name": "timeline-item-2-3",
       "bbox": [
@@ -1433,8 +1433,8 @@
         30
       ],
       "geometry": "rect",
-      "text": "기능 마감 기준",
-      "textPreview": "기능 마감 기준",
+      "text": "개발 마감 기준",
+      "textPreview": "개발 마감 기준",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -1453,14 +1453,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "기능 마감 기준"
+            "text": "개발 마감 기준"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "기능 마감 기준",
+          "text": "개발 마감 기준",
           "resolvedTextStyle": {
             "fontSize": 12.51,
             "color": "#CBD5E1"
@@ -1468,7 +1468,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "기능 마감 기준",
+              "text": "개발 마감 기준",
               "fontSize": 12.51,
               "color": "#CBD5E1"
             }
@@ -1482,7 +1482,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qpg3ex0n",
+      "aid": "sh/8bat47y1",
       "id": "29",
       "name": "timeline-card-3",
       "bbox": [
@@ -1500,7 +1500,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kzupwb2h",
+      "aid": "sh/m58z25kb",
       "id": "30",
       "name": "timeline-bar-3",
       "bbox": [
@@ -1518,7 +1518,7 @@
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9knih4by",
+      "aid": "sh/bq1oryts",
       "id": "31",
       "name": "timeline-month-3",
       "bbox": [
@@ -1580,7 +1580,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2t83itgf",
+      "aid": "sh/4byhgn29",
       "id": "32",
       "name": "timeline-title-3",
       "bbox": [
@@ -1590,8 +1590,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "내부 QA 진입",
-      "textPreview": "내부 QA 진입",
+      "text": "QA 진입",
+      "textPreview": "QA 진입",
       "resolvedFontSize": 18,
       "resolvedTextStyle": {
         "fontSize": 18,
@@ -1611,14 +1611,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "내부 QA 진입"
+            "text": "QA 진입"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "내부 QA 진입",
+          "text": "QA 진입",
           "resolvedTextStyle": {
             "fontSize": 18,
             "color": "#FFFFFF",
@@ -1627,7 +1627,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "내부 QA 진입",
+              "text": "QA 진입",
               "fontSize": 18,
               "color": "#FFFFFF",
               "bold": true
@@ -1642,7 +1642,7 @@
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/re1w7mp0",
+      "aid": "sh/twra5gbq",
       "id": "33",
       "name": "timeline-dot-3-1",
       "bbox": [
@@ -1704,7 +1704,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kb6xkf6d",
+      "aid": "sh/mhk3q5o7",
       "id": "34",
       "name": "timeline-item-3-1",
       "bbox": [
@@ -1763,7 +1763,7 @@
       "order": 35,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9w3m94fu",
+      "aid": "sh/b2hwfyxo",
       "id": "35",
       "name": "timeline-dot-3-2",
       "bbox": [
@@ -1825,7 +1825,7 @@
       "order": 36,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/25kb6xkf",
+      "aid": "sh/4nap4r65",
       "id": "36",
       "name": "timeline-item-3-2",
       "bbox": [
@@ -1835,8 +1835,8 @@
         30
       ],
       "geometry": "rect",
-      "text": "결함 등급 분류",
-      "textPreview": "결함 등급 분류",
+      "text": "이슈 등급 분류",
+      "textPreview": "이슈 등급 분류",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -1855,14 +1855,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "결함 등급 분류"
+            "text": "이슈 등급 분류"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "결함 등급 분류",
+          "text": "이슈 등급 분류",
           "resolvedTextStyle": {
             "fontSize": 12.51,
             "color": "#CBD5E1"
@@ -1870,7 +1870,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "결함 등급 분류",
+              "text": "이슈 등급 분류",
               "fontSize": 12.51,
               "color": "#CBD5E1"
             }
@@ -1884,7 +1884,7 @@
       "order": 37,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/rqd4vmtw",
+      "aid": "sh/t83itgfm",
       "id": "37",
       "name": "timeline-dot-3-3",
       "bbox": [
@@ -1946,7 +1946,7 @@
       "order": 38,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kjm1cfa9",
+      "aid": "sh/mp0bi9s3",
       "id": "38",
       "name": "timeline-item-3-3",
       "bbox": [
@@ -2005,7 +2005,7 @@
       "order": 39,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/94fu18jq",
+      "aid": "sh/bat47y1k",
       "id": "39",
       "name": "timeline-card-4",
       "bbox": [
@@ -2023,7 +2023,7 @@
       "order": 40,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/psfil0rq",
+      "aid": "sh/f6dcbulw",
       "id": "40",
       "name": "timeline-bar-4",
       "bbox": [
@@ -2041,7 +2041,7 @@
       "order": 41,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/w7mp0bi9",
+      "aid": "sh/mlkjm1cf",
       "id": "41",
       "name": "timeline-month-4",
       "bbox": [
@@ -2103,7 +2103,7 @@
       "order": 42,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7mp0bi9s",
+      "aid": "sh/xc3ylc7u",
       "id": "42",
       "name": "timeline-title-4",
       "bbox": [
@@ -2165,7 +2165,7 @@
       "order": 43,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/e1w7mp0b",
+      "aid": "sh/4r65wjud",
       "id": "43",
       "name": "timeline-dot-4-1",
       "bbox": [
@@ -2227,7 +2227,7 @@
       "order": 44,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pg3ex0nu",
+      "aid": "sh/fepkzupw",
       "id": "44",
       "name": "timeline-item-4-1",
       "bbox": [
@@ -2290,7 +2290,7 @@
       "order": 45,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wval87ed",
+      "aid": "sh/mtwra5gb",
       "id": "45",
       "name": "timeline-dot-4-2",
       "bbox": [
@@ -2352,7 +2352,7 @@
       "order": 46,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7adsji5s",
+      "aid": "sh/xkf6dcbu",
       "id": "46",
       "name": "timeline-item-4-2",
       "bbox": [
@@ -2411,7 +2411,7 @@
       "order": 47,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/epkzupwb",
+      "aid": "sh/4zidonyd",
       "id": "47",
       "name": "timeline-dot-4-3",
       "bbox": [
@@ -2473,7 +2473,7 @@
       "order": 48,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lc7u54zi",
+      "aid": "sh/fil0rqd4",
       "id": "48",
       "name": "timeline-item-4-3",
       "bbox": [
@@ -2532,7 +2532,7 @@
       "order": 49,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wra5gbq1",
+      "aid": "sh/qxs72x4n",
       "id": "49",
       "name": "timeline-card-5",
       "bbox": [
@@ -2550,7 +2550,7 @@
       "order": 50,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/al87ed8b",
+      "aid": "sh/0z61032l",
       "id": "50",
       "name": "timeline-bar-5",
       "bbox": [
@@ -2568,7 +2568,7 @@
       "order": 51,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/z61032ls",
+      "aid": "sh/pkzupwb2",
       "id": "51",
       "name": "timeline-month-5",
       "bbox": [
@@ -2630,7 +2630,7 @@
       "order": 52,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/orytsvu9",
+      "aid": "sh/itgfmlkj",
       "id": "52",
       "name": "timeline-title-5",
       "bbox": [
@@ -2696,7 +2696,7 @@
       "order": 53,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hcrmhk3q",
+      "aid": "sh/7ed8bat4",
       "id": "53",
       "name": "timeline-dot-5-1",
       "bbox": [
@@ -2758,7 +2758,7 @@
       "order": 54,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a9w3m94f",
+      "aid": "sh/0nuxc3yl",
       "id": "54",
       "name": "timeline-item-5-1",
       "bbox": [
@@ -2817,7 +2817,7 @@
       "order": 55,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zupwb2hw",
+      "aid": "sh/p8nqxs72",
       "id": "55",
       "name": "timeline-dot-5-2",
       "bbox": [
@@ -2879,7 +2879,7 @@
       "order": 56,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sfil0rqd",
+      "aid": "sh/ih4byhgn",
       "id": "56",
       "name": "timeline-item-5-2",
       "bbox": [
@@ -2938,7 +2938,7 @@
       "order": 57,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h0fepkzu",
+      "aid": "sh/72x4nap4",
       "id": "57",
       "name": "timeline-dot-5-3",
       "bbox": [
@@ -3000,7 +3000,7 @@
       "order": 58,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/65wjudg7",
+      "aid": "sh/wjudg7ad",
       "id": "58",
       "name": "timeline-item-5-3",
       "bbox": [
@@ -3010,8 +3010,8 @@
         30
       ],
       "geometry": "rect",
-      "text": "스토어·심의 체크",
-      "textPreview": "스토어·심의 체크",
+      "text": "심의·스토어 체크",
+      "textPreview": "심의·스토어 체크",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -3030,14 +3030,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "스토어·심의 체크"
+            "text": "심의·스토어 체크"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "스토어·심의 체크",
+          "text": "심의·스토어 체크",
           "resolvedTextStyle": {
             "fontSize": 12.51,
             "color": "#CBD5E1"
@@ -3045,7 +3045,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "스토어·심의 체크",
+              "text": "심의·스토어 체크",
               "fontSize": 12.51,
               "color": "#CBD5E1"
             }
@@ -3059,7 +3059,7 @@
       "order": 59,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zqtcj6to",
+      "aid": "sh/p4r65wju",
       "id": "59",
       "name": "timeline-card-6",
       "bbox": [
@@ -3077,7 +3077,7 @@
       "order": 60,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/byhgn29g",
+      "aid": "sh/9gr2p8nq",
       "id": "60",
       "name": "timeline-bar-6",
       "bbox": [
@@ -3095,7 +3095,7 @@
       "order": 61,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/idonyd0z",
+      "aid": "sh/gvy90je9",
       "id": "61",
       "name": "timeline-month-6",
       "bbox": [
@@ -3157,7 +3157,7 @@
       "order": 62,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/t47y1kre",
+      "aid": "sh/ra5gbq1o",
       "id": "62",
       "name": "timeline-title-6",
       "bbox": [
@@ -3167,8 +3167,8 @@
         48
       ],
       "geometry": "rect",
-      "text": "리허설·배포",
-      "textPreview": "리허설·배포",
+      "text": "Live 릴리즈 준비",
+      "textPreview": "Live 릴리즈 준비",
       "resolvedFontSize": 18,
       "resolvedTextStyle": {
         "fontSize": 18,
@@ -3184,18 +3184,22 @@
         }
       },
       "textLayout": {
-        "lineCount": 1,
+        "lineCount": 2,
         "lines": [
           {
             "index": 1,
-            "text": "리허설·배포"
+            "text": "Live 릴리즈"
+          },
+          {
+            "index": 2,
+            "text": "준비"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "리허설·배포",
+          "text": "Live 릴리즈 준비",
           "resolvedTextStyle": {
             "fontSize": 18,
             "color": "#FFFFFF",
@@ -3204,7 +3208,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "리허설·배포",
+              "text": "Live 릴리즈 준비",
               "fontSize": 18,
               "color": "#FFFFFF",
               "bold": true
@@ -3219,7 +3223,7 @@
       "order": 63,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0je9cvix",
+      "aid": "sh/2p8nqxs7",
       "id": "63",
       "name": "timeline-dot-6-1",
       "bbox": [
@@ -3281,7 +3285,7 @@
       "order": 64,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/b6xkf6dc",
+      "aid": "sh/94fu18jq",
       "id": "64",
       "name": "timeline-item-6-1",
       "bbox": [
@@ -3340,7 +3344,7 @@
       "order": 65,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/il0rqd4v",
+      "aid": "sh/kjm1cfa9",
       "id": "65",
       "name": "timeline-dot-6-2",
       "bbox": [
@@ -3402,7 +3406,7 @@
       "order": 66,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tcj6tova",
+      "aid": "sh/r2p8nqxs",
       "id": "66",
       "name": "timeline-item-6-2",
       "bbox": [
@@ -3461,7 +3465,7 @@
       "order": 67,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0rqd4vmt",
+      "aid": "sh/2hwfyxob",
       "id": "67",
       "name": "timeline-dot-6-3",
       "bbox": [
@@ -3523,7 +3527,7 @@
       "order": 68,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bi9s36hc",
+      "aid": "sh/9w3m94fu",
       "id": "68",
       "name": "timeline-item-6-3",
       "bbox": [
@@ -3582,7 +3586,7 @@
       "order": 69,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ixczed8v",
+      "aid": "sh/kb6xkf6d",
       "id": "69",
       "name": "management-title",
       "bbox": [
@@ -3644,7 +3648,7 @@
       "order": 70,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/s36hcrmh",
+      "aid": "sh/u9knih4b",
       "id": "70",
       "name": "management-note",
       "bbox": [
@@ -3654,8 +3658,8 @@
         22
       ],
       "geometry": "rect",
-      "text": "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다.",
-      "textPreview": "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다.",
+      "text": "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.",
+      "textPreview": "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.",
       "resolvedFontSize": 14,
       "resolvedTextStyle": {
         "fontSize": 14,
@@ -3674,14 +3678,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다."
+            "text": "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다.",
+          "text": "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.",
           "resolvedTextStyle": {
             "fontSize": 14,
             "color": "#94A3B8"
@@ -3689,7 +3693,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다.",
+              "text": "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.",
               "fontSize": 14,
               "color": "#94A3B8"
             }
@@ -3703,7 +3707,7 @@
       "order": 71,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hoza1gvy",
+      "aid": "sh/judg7ads",
       "id": "71",
       "name": "mgmt-card-1",
       "bbox": [
@@ -3721,7 +3725,7 @@
       "order": 72,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a1gvy90j",
+      "aid": "sh/cfa9w3m9",
       "id": "72",
       "name": "mgmt-bar-1",
       "bbox": [
@@ -3739,7 +3743,7 @@
       "order": 73,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zidonyd0",
+      "aid": "sh/1032lszq",
       "id": "73",
       "name": "mgmt-label-1",
       "bbox": [
@@ -3801,7 +3805,7 @@
       "order": 74,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/svu9knih",
+      "aid": "sh/u18jqh0f",
       "id": "74",
       "name": "mgmt-body-1",
       "bbox": [
@@ -3811,8 +3815,8 @@
         24
       ],
       "geometry": "rect",
-      "text": "단계별 게이트 기준 관리",
-      "textPreview": "단계별 게이트 기준 관리",
+      "text": "일정·범위 통제 기준 관리",
+      "textPreview": "일정·범위 통제 기준 관리",
       "resolvedFontSize": 13,
       "resolvedTextStyle": {
         "fontSize": 13,
@@ -3831,14 +3835,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "단계별 게이트 기준 관리"
+            "text": "일정·범위 통제 기준 관리"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "단계별 게이트 기준 관리",
+          "text": "일정·범위 통제 기준 관리",
           "resolvedTextStyle": {
             "fontSize": 13,
             "color": "#CBD5E1"
@@ -3846,7 +3850,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "단계별 게이트 기준 관리",
+              "text": "일정·범위 통제 기준 관리",
               "fontSize": 13,
               "color": "#CBD5E1"
             }
@@ -3860,7 +3864,7 @@
       "order": 75,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hgn29gr2",
+      "aid": "sh/jm1cfa9w",
       "id": "75",
       "name": "mgmt-card-2",
       "bbox": [
@@ -3878,7 +3882,7 @@
       "order": 76,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ap4r65wj",
+      "aid": "sh/c7u54zid",
       "id": "76",
       "name": "mgmt-bar-2",
       "bbox": [
@@ -3896,7 +3900,7 @@
       "order": 77,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/za1gvy90",
+      "aid": "sh/1orytsvu",
       "id": "77",
       "name": "mgmt-label-2",
       "bbox": [
@@ -3958,7 +3962,7 @@
       "order": 78,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sji5snel",
+      "aid": "sh/upwb2hwf",
       "id": "78",
       "name": "mgmt-body-2",
       "bbox": [
@@ -3968,8 +3972,8 @@
         24
       ],
       "geometry": "rect",
-      "text": "Perforce 기반 후보 빌드 통제",
-      "textPreview": "Perforce 기반 후보 빌드 통제",
+      "text": "Perforce 기반 릴리즈 관리",
+      "textPreview": "Perforce 기반 릴리즈 관리",
       "resolvedFontSize": 13,
       "resolvedTextStyle": {
         "fontSize": 13,
@@ -3988,14 +3992,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "Perforce 기반 후보 빌드 통제"
+            "text": "Perforce 기반 릴리즈 관리"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Perforce 기반 후보 빌드 통제",
+          "text": "Perforce 기반 릴리즈 관리",
           "resolvedTextStyle": {
             "fontSize": 13,
             "color": "#CBD5E1"
@@ -4003,7 +4007,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "Perforce 기반 후보 빌드 통제",
+              "text": "Perforce 기반 릴리즈 관리",
               "fontSize": 13,
               "color": "#CBD5E1"
             }
@@ -4017,7 +4021,7 @@
       "order": 79,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h4byhgn2",
+      "aid": "sh/nap4r65w",
       "id": "79",
       "name": "mgmt-card-3",
       "bbox": [
@@ -4035,7 +4039,7 @@
       "order": 80,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1gvy90je",
+      "aid": "sh/ji5snelo",
       "id": "80",
       "name": "mgmt-bar-3",
       "bbox": [
@@ -4053,7 +4057,7 @@
       "order": 81,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8z25kb6x",
+      "aid": "sh/uxc3ylc7",
       "id": "81",
       "name": "mgmt-label-3",
       "bbox": [
@@ -4115,7 +4119,7 @@
       "order": 82,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/je9cvixc",
+      "aid": "sh/1kre1w7m",
       "id": "82",
       "name": "mgmt-body-3",
       "bbox": [
@@ -4125,8 +4129,8 @@
         24
       ],
       "geometry": "rect",
-      "text": "결함 우선순위와 수정 반영 추적",
-      "textPreview": "결함 우선순위와 수정 반영 추적",
+      "text": "이슈 대응과 수정 반영 추적",
+      "textPreview": "이슈 대응과 수정 반영 추적",
       "resolvedFontSize": 13,
       "resolvedTextStyle": {
         "fontSize": 13,
@@ -4145,14 +4149,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "결함 우선순위와 수정 반영 추적"
+            "text": "이슈 대응과 수정 반영 추적"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "결함 우선순위와 수정 반영 추적",
+          "text": "이슈 대응과 수정 반영 추적",
           "resolvedTextStyle": {
             "fontSize": 13,
             "color": "#CBD5E1"
@@ -4160,7 +4164,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "결함 우선순위와 수정 반영 추적",
+              "text": "이슈 대응과 수정 반영 추적",
               "fontSize": 13,
               "color": "#CBD5E1"
             }
@@ -4174,7 +4178,7 @@
       "order": 83,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qtcj6tov",
+      "aid": "sh/c3ylc7u5",
       "id": "83",
       "name": "mgmt-card-4",
       "bbox": [
@@ -4192,7 +4196,7 @@
       "order": 84,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xs72x4na",
+      "aid": "sh/j6tovaho",
       "id": "84",
       "name": "mgmt-bar-4",
       "bbox": [
@@ -4210,7 +4214,7 @@
       "order": 85,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/87ed8bat",
+      "aid": "sh/ulwval87",
       "id": "85",
       "name": "mgmt-label-4",
       "bbox": [
@@ -4220,8 +4224,8 @@
         24
       ],
       "geometry": "rect",
-      "text": "커뮤니케이션",
-      "textPreview": "커뮤니케이션",
+      "text": "퍼블리셔 대응",
+      "textPreview": "퍼블리셔 대응",
       "resolvedFontSize": 17,
       "resolvedTextStyle": {
         "fontSize": 17,
@@ -4241,14 +4245,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "커뮤니케이션"
+            "text": "퍼블리셔 대응"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "커뮤니케이션",
+          "text": "퍼블리셔 대응",
           "resolvedTextStyle": {
             "fontSize": 17,
             "color": "#FFFFFF",
@@ -4257,7 +4261,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "커뮤니케이션",
+              "text": "퍼블리셔 대응",
               "fontSize": 17,
               "color": "#FFFFFF",
               "bold": true
@@ -4272,7 +4276,7 @@
       "order": 86,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fmlkjm1c",
+      "aid": "sh/1cfa9w3m",
       "id": "86",
       "name": "mgmt-body-4",
       "bbox": [
@@ -4282,8 +4286,8 @@
         24
       ],
       "geometry": "rect",
-      "text": "개발·QA·퍼블리셔 의사결정 정리",
-      "textPreview": "개발·QA·퍼블리셔 의사결정 정리",
+      "text": "협업 이슈와 의사결정 정리",
+      "textPreview": "협업 이슈와 의사결정 정리",
       "resolvedFontSize": 13,
       "resolvedTextStyle": {
         "fontSize": 13,
@@ -4302,14 +4306,14 @@
         "lines": [
           {
             "index": 1,
-            "text": "개발·QA·퍼블리셔 의사결정 정리"
+            "text": "협업 이슈와 의사결정 정리"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "개발·QA·퍼블리셔 의사결정 정리",
+          "text": "협업 이슈와 의사결정 정리",
           "resolvedTextStyle": {
             "fontSize": 13,
             "color": "#CBD5E1"
@@ -4317,7 +4321,7 @@
           "runs": [
             {
               "index": 1,
-              "text": "개발·QA·퍼블리셔 의사결정 정리",
+              "text": "협업 이슈와 의사결정 정리",
               "fontSize": 13,
               "color": "#CBD5E1"
             }

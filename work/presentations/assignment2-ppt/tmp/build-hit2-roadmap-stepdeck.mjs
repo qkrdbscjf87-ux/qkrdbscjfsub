@@ -256,18 +256,18 @@ function buildSlide02(presentation) {
   addTitle(
     slide,
     "02",
-    "6개월 런칭 준비는 네 축이 병렬로 움직입니다",
-    "월별 단계는 순차 진행처럼 보이지만, PM 관점에서는 범위·버전·검수 기준을 동시에 맞춰야 합니다.",
+    "6개월 런칭 준비는 마일스톤과 릴리즈 기준을 함께 맞춥니다",
+    "PM 관점에서는 일정·범위 통제, 빌드·버전 관리, QA, 퍼블리셔 대응을 같은 흐름으로 관리해야 합니다.",
   );
 
   addRect(slide, "timeline-line", { left: 82, top: 357, width: 1046, height: 3 }, colors.line, colors.line, 0);
   const timeline = [
-    ["D-6M", "런칭 범위 확정", ["일본 서비스 범위", "주요 콘텐츠 기준", "브랜치 운영 원칙"], colors.cyan],
-    ["D-5M", "개발·현지화 동기화", ["번역·리소스 반영", "퍼블리셔 요청 정리", "기능 마감 기준"], colors.orange],
-    ["D-4M", "내부 QA 진입", ["일본향 빌드 점검", "결함 등급 분류", "수정 우선순위"], colors.purple],
+    ["D-6M", "범위·일정 확정", ["일본 서비스 범위", "마일스톤 기준", "브랜치 운영 원칙"], colors.cyan],
+    ["D-5M", "개발·현지화 반영", ["번역 리소스 반영", "퍼블리셔 요청 정리", "개발 마감 기준"], colors.orange],
+    ["D-4M", "QA 진입", ["일본향 빌드 점검", "이슈 등급 분류", "수정 우선순위"], colors.purple],
     ["D-3M", "검수·CBT 준비", ["퍼블리셔 검수 대응", "CBT 빌드 기준", "운영 시나리오"], colors.cyanSoft],
-    ["D-2M", "후보 빌드 안정화", ["릴리즈 후보 관리", "잔여 이슈 추적", "스토어·심의 체크"], colors.orange],
-    ["D-1M", "리허설·배포", ["배포 리허설", "장애 대응 플랜", "런칭 당일 체계"], colors.purple],
+    ["D-2M", "후보 빌드 안정화", ["릴리즈 후보 관리", "잔여 이슈 추적", "심의·스토어 체크"], colors.orange],
+    ["D-1M", "Live 릴리즈 준비", ["배포 리허설", "장애 대응 플랜", "런칭 당일 체계"], colors.purple],
   ];
   timeline.forEach((item, index) => addTimelineCard(slide, index, item[0], item[1], item[2], item[3]));
 
@@ -276,7 +276,7 @@ function buildSlide02(presentation) {
     bold: true,
     color: colors.white,
   });
-  addText(slide, "management-note", "각 단계의 완료 기준을 명확히 두고, 빌드·QA·퍼블리셔 대응을 같은 리듬으로 관리합니다.", {
+  addText(slide, "management-note", "마일스톤별 완료 기준을 두고, 빌드·버전·QA·퍼블리셔 대응을 함께 추적합니다.", {
     left: 242,
     top: 511,
     width: 760,
@@ -285,10 +285,10 @@ function buildSlide02(presentation) {
     fontSize: 14,
     color: colors.muted,
   });
-  addManagementCard(slide, 0, "마일스톤", "단계별 게이트 기준 관리", colors.cyan);
-  addManagementCard(slide, 1, "빌드·버전", "Perforce 기반 후보 빌드 통제", colors.orange);
-  addManagementCard(slide, 2, "QA", "결함 우선순위와 수정 반영 추적", colors.purple);
-  addManagementCard(slide, 3, "커뮤니케이션", "개발·QA·퍼블리셔 의사결정 정리", colors.cyanSoft);
+  addManagementCard(slide, 0, "마일스톤", "일정·범위 통제 기준 관리", colors.cyan);
+  addManagementCard(slide, 1, "빌드·버전", "Perforce 기반 릴리즈 관리", colors.orange);
+  addManagementCard(slide, 2, "QA", "이슈 대응과 수정 반영 추적", colors.purple);
+  addManagementCard(slide, 3, "퍼블리셔 대응", "협업 이슈와 의사결정 정리", colors.cyanSoft);
   return slide;
 }
 
@@ -320,8 +320,8 @@ function addDecisionRow(slide, index, item, gate, owner, accent) {
     bold: true,
     color: accent,
   });
-  addText(slide, `decision-gate-${index + 1}`, gate, { left: 728, top: top + 13, width: 300, height: 30 }, {
-    fontSize: 14,
+  addText(slide, `decision-gate-${index + 1}`, gate, { left: 728, top: top + 12, width: 300, height: 34 }, {
+    fontSize: 13.5,
     color: colors.white,
   });
   addText(slide, `decision-owner-${index + 1}`, owner, { left: 1056, top: top + 17, width: 98, height: 24 }, {
@@ -338,8 +338,8 @@ function buildSlide03(presentation) {
   addTitle(
     slide,
     "03",
-    "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
-    "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+    "마일스톤은 일정이 아니라 통과 기준으로 관리합니다",
+    "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·버전·QA·퍼블리셔 기준을 함께 판정합니다.",
   );
 
   addText(slide, "gate-section-title", "핵심 게이트", { left: 54, top: 184, width: 220, height: 30 }, {
@@ -347,16 +347,16 @@ function buildSlide03(presentation) {
     bold: true,
     color: colors.white,
   });
-  addGateCard(slide, 0, "Gate 1", "범위 고정", "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.", colors.cyan);
-  addGateCard(slide, 1, "Gate 2", "검수 진입", "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.", colors.orange);
-  addGateCard(slide, 2, "Gate 3", "런칭 후보", "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.", colors.purple);
+  addGateCard(slide, 0, "Gate 1", "범위 고정", "일본 서비스 범위와 마일스톤 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.", colors.cyan);
+  addGateCard(slide, 1, "Gate 2", "QA·검수 진입", "현지화 리소스와 빌드 반영 상태를 확인한 뒤 QA와 퍼블리셔 검수에 진입합니다.", colors.orange);
+  addGateCard(slide, 2, "Gate 3", "릴리즈 후보", "주요 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.", colors.purple);
 
   addText(slide, "decision-title", "판정 체크리스트", { left: 492, top: 184, width: 240, height: 30 }, {
     fontSize: 22,
     bold: true,
     color: colors.white,
   });
-  addText(slide, "decision-note", "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.", {
+  addText(slide, "decision-note", "각 항목은 다음 단계 진입 가능성을 기준으로 판단합니다.", {
     left: 724,
     top: 190,
     width: 430,
@@ -384,11 +384,11 @@ function buildSlide03(presentation) {
   });
 
   const rows = [
-    ["서비스 범위", "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정", "PM", colors.cyan],
-    ["빌드 기준", "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의", "개발", colors.orange],
-    ["QA 안정성", "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유", "QA", colors.purple],
-    ["퍼블리셔 검수", "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태", "PM", colors.cyanSoft],
-    ["배포 준비", "스토어·공지·장애 대응 플랜의 최종 담당자 확인", "운영", colors.orange],
+    ["서비스 범위", "런칭 포함·제외 범위와 변경 승인 기준 확정", "PM", colors.cyan],
+    ["빌드·버전", "Perforce 브랜치와 후보 빌드 태그 기준 합의", "개발", colors.orange],
+    ["QA 안정성", "주요 이슈 수정 계획과 잔여 리스크 공유", "QA", colors.purple],
+    ["퍼블리셔 대응", "검수 요청, 피드백, 재전달 일정 추적", "PM", colors.cyanSoft],
+    ["Live 릴리즈", "배포·공지·장애 대응 담당자 확인", "운영", colors.orange],
   ];
   rows.forEach((row, index) => addDecisionRow(slide, index, row[0], row[1], row[2], row[3]));
 
@@ -398,7 +398,119 @@ function buildSlide03(presentation) {
     bold: true,
     color: colors.cyanSoft,
   });
-  addText(slide, "principle-body", "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.", {
+  addText(slide, "principle-body", "미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.", {
+    left: 206,
+    top: 620,
+    width: 850,
+    height: 22,
+  }, {
+    fontSize: 15,
+    color: colors.white,
+  });
+  return slide;
+}
+
+function addRiskRow(slide, index, risk, impact, response, accent) {
+  const top = 242 + index * 66;
+  addRect(slide, `risk-row-${index + 1}`, { left: 54, top, width: 690, height: 66 }, index % 2 === 0 ? colors.rowA : colors.panel2, colors.line, 1);
+  addText(slide, `risk-name-${index + 1}`, risk, { left: 78, top: top + 20, width: 130, height: 24 }, {
+    fontSize: 15,
+    bold: true,
+    color: accent,
+  });
+  addText(slide, `risk-impact-${index + 1}`, impact, { left: 226, top: top + 13, width: 250, height: 38 }, {
+    fontSize: 13,
+    color: colors.text,
+  });
+  addText(slide, `risk-response-${index + 1}`, response, { left: 500, top: top + 13, width: 190, height: 38 }, {
+    fontSize: 13,
+    color: colors.white,
+  });
+}
+
+function addProcessStep(slide, index, step, title, body, accent) {
+  const top = 236 + index * 86;
+  addRound(slide, `process-step-${index + 1}`, { left: 800, top, width: 390, height: 74 }, colors.panel2, colors.line);
+  addRect(slide, `process-step-bar-${index + 1}`, { left: 800, top, width: 6, height: 74 }, accent, accent, 0);
+  addPill(slide, `process-step-no-${index + 1}`, step, 824, top + 18, 58, accent, accent === colors.cyan ? colors.darkText : colors.white);
+  addText(slide, `process-step-title-${index + 1}`, title, { left: 902, top: top + 12, width: 220, height: 24 }, {
+    fontSize: 18,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, `process-step-body-${index + 1}`, body, { left: 902, top: top + 39, width: 250, height: 28 }, {
+    fontSize: 12.5,
+    color: colors.text,
+  });
+}
+
+function buildSlide04(presentation) {
+  const slide = presentation.slides.add();
+  addChrome(slide, "04", "RISK RESPONSE SYSTEM | PAGE 04");
+  addTitle(
+    slide,
+    "04",
+    "런칭 리스크는 조기 분리와 이슈 대응으로 관리합니다",
+    "일정·범위·빌드·버전·QA에 미치는 영향을 먼저 보이게 만들어야 의사결정이 빨라집니다.",
+  );
+
+  addText(slide, "risk-title", "주요 리스크", { left: 54, top: 184, width: 220, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addRect(slide, "risk-header", { left: 54, top: 216, width: 690, height: 26 }, colors.cyan, colors.cyan, 0);
+  addText(slide, "risk-th-1", "리스크", { left: 78, top: 221, width: 110, height: 18 }, {
+    fontSize: 13,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "risk-th-2", "영향", { left: 226, top: 221, width: 120, height: 18 }, {
+    fontSize: 13,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "risk-th-3", "대응", { left: 500, top: 221, width: 120, height: 18 }, {
+    fontSize: 13,
+    bold: true,
+    color: colors.darkText,
+  });
+
+  const risks = [
+    ["현지화 지연", "번역·리소스 반영 지연으로 검수 일정 압박", "반영 범위와 우선순위 재정렬", colors.cyan],
+    ["빌드 불안정", "후보 빌드 기준 미고정과 긴급 수정 누적", "브랜치·태그 기준 고정", colors.orange],
+    ["QA 병목", "이슈 분류 지연과 수정 검증 대기 증가", "재현 정보와 수정 일정 추적", colors.purple],
+    ["피드백 지연", "퍼블리셔 검수 의견 회신과 재전달 일정 불명확", "요청·회신·재전달 상태 관리", colors.cyanSoft],
+    ["직전 변경", "서비스 범위와 운영 정책 변경으로 품질 흔들림", "영향도 검토 후 반영·보류 결정", colors.orange],
+  ];
+  risks.forEach((row, index) => addRiskRow(slide, index, row[0], row[1], row[2], row[3]));
+
+  addText(slide, "process-title", "대응 프로세스", { left: 800, top: 184, width: 240, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, "process-note", "먼저 분류·담당을 잡습니다.", {
+    left: 990,
+    top: 190,
+    width: 220,
+    height: 22,
+  }, {
+    fontSize: 13,
+    color: colors.muted,
+  });
+  addProcessStep(slide, 0, "01", "이슈 등록", "일정·빌드·QA·퍼블리셔 항목 분류", colors.cyan);
+  addProcessStep(slide, 1, "02", "영향도 판단", "일정·범위·품질 영향도 확인", colors.orange);
+  addProcessStep(slide, 2, "03", "담당·기한 지정", "개발·QA·퍼블리셔 담당 확정", colors.purple);
+  addProcessStep(slide, 3, "04", "마일스톤 재판정", "해결·보류·제외 기준 정리", colors.cyanSoft);
+
+  addRound(slide, "risk-principle-panel", { left: 54, top: 608, width: 1142, height: 44 }, colors.panel, "#22304E");
+  addText(slide, "risk-principle-label", "PM 역할", { left: 82, top: 620, width: 120, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.cyanSoft,
+  });
+  addText(slide, "risk-principle-body", "리스크를 직접 해결하기보다, 일정·버전·이슈를 의사결정 가능한 상태로 정리하는 것이 핵심입니다.", {
     left: 206,
     top: 620,
     width: 850,
@@ -419,6 +531,7 @@ async function main() {
   buildSlide01(presentation);
   buildSlide02(presentation);
   buildSlide03(presentation);
+  buildSlide04(presentation);
 
   for (const [index, slide] of presentation.slides.items.entries()) {
     const stem = `slide-${String(index + 1).padStart(2, "0")}`;
