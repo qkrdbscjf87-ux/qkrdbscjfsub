@@ -292,6 +292,124 @@ function buildSlide02(presentation) {
   return slide;
 }
 
+function addGateCard(slide, index, phase, title, body, accent) {
+  const top = 220 + index * 126;
+  addRound(slide, `gate-card-${index + 1}`, { left: 54, top, width: 390, height: 98 }, colors.panel2, colors.line);
+  addRect(slide, `gate-bar-${index + 1}`, { left: 54, top, width: 7, height: 98 }, accent, accent, 0);
+  addText(slide, `gate-phase-${index + 1}`, phase, { left: 82, top: top + 16, width: 84, height: 24 }, {
+    fontSize: 16,
+    bold: true,
+    color: accent,
+  });
+  addText(slide, `gate-title-${index + 1}`, title, { left: 170, top: top + 15, width: 230, height: 26 }, {
+    fontSize: 19,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, `gate-body-${index + 1}`, body, { left: 82, top: top + 52, width: 318, height: 32 }, {
+    fontSize: 14,
+    color: colors.text,
+  });
+}
+
+function addDecisionRow(slide, index, item, gate, owner, accent) {
+  const top = 258 + index * 58;
+  addRect(slide, `decision-row-${index + 1}`, { left: 492, top, width: 704, height: 58 }, index % 2 === 0 ? colors.rowA : colors.panel2, colors.line, 1);
+  addText(slide, `decision-item-${index + 1}`, item, { left: 518, top: top + 17, width: 190, height: 24 }, {
+    fontSize: 15,
+    bold: true,
+    color: accent,
+  });
+  addText(slide, `decision-gate-${index + 1}`, gate, { left: 728, top: top + 13, width: 300, height: 30 }, {
+    fontSize: 14,
+    color: colors.white,
+  });
+  addText(slide, `decision-owner-${index + 1}`, owner, { left: 1056, top: top + 17, width: 98, height: 24 }, {
+    fontSize: 14,
+    bold: true,
+    color: colors.text,
+    alignment: "center",
+  });
+}
+
+function buildSlide03(presentation) {
+  const slide = presentation.slides.add();
+  addChrome(slide, "03", "LAUNCH GATE CRITERIA | PAGE 03");
+  addTitle(
+    slide,
+    "03",
+    "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
+    "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+  );
+
+  addText(slide, "gate-section-title", "핵심 게이트", { left: 54, top: 184, width: 220, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addGateCard(slide, 0, "Gate 1", "범위 고정", "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.", colors.cyan);
+  addGateCard(slide, 1, "Gate 2", "검수 진입", "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.", colors.orange);
+  addGateCard(slide, 2, "Gate 3", "런칭 후보", "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.", colors.purple);
+
+  addText(slide, "decision-title", "판정 체크리스트", { left: 492, top: 184, width: 240, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, "decision-note", "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.", {
+    left: 724,
+    top: 190,
+    width: 430,
+    height: 22,
+  }, {
+    fontSize: 14,
+    color: colors.muted,
+  });
+  addRect(slide, "decision-header", { left: 492, top: 224, width: 704, height: 34 }, colors.cyan, colors.cyan, 0);
+  addText(slide, "decision-th-1", "항목", { left: 518, top: 232, width: 120, height: 20 }, {
+    fontSize: 14,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "decision-th-2", "통과 기준", { left: 728, top: 232, width: 180, height: 20 }, {
+    fontSize: 14,
+    bold: true,
+    color: colors.darkText,
+  });
+  addText(slide, "decision-th-3", "주관", { left: 1060, top: 232, width: 80, height: 20 }, {
+    fontSize: 14,
+    bold: true,
+    color: colors.darkText,
+    alignment: "center",
+  });
+
+  const rows = [
+    ["서비스 범위", "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정", "PM", colors.cyan],
+    ["빌드 기준", "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의", "개발", colors.orange],
+    ["QA 안정성", "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유", "QA", colors.purple],
+    ["퍼블리셔 검수", "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태", "PM", colors.cyanSoft],
+    ["배포 준비", "스토어·공지·장애 대응 플랜의 최종 담당자 확인", "운영", colors.orange],
+  ];
+  rows.forEach((row, index) => addDecisionRow(slide, index, row[0], row[1], row[2], row[3]));
+
+  addRound(slide, "principle-panel", { left: 54, top: 608, width: 1142, height: 44 }, colors.panel, "#22304E");
+  addText(slide, "principle-label", "운영 원칙", { left: 82, top: 620, width: 120, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.cyanSoft,
+  });
+  addText(slide, "principle-body", "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.", {
+    left: 206,
+    top: 620,
+    width: 850,
+    height: 22,
+  }, {
+    fontSize: 15,
+    color: colors.white,
+  });
+  return slide;
+}
+
 async function main() {
   await fs.mkdir(path.dirname(FINAL_PPTX), { recursive: true });
   await fs.mkdir(PREVIEW_DIR, { recursive: true });
@@ -300,6 +418,7 @@ async function main() {
   const presentation = Presentation.create({ slideSize: { width: 1280, height: 720 } });
   buildSlide01(presentation);
   buildSlide02(presentation);
+  buildSlide03(presentation);
 
   for (const [index, slide] of presentation.slides.items.entries()) {
     const stem = `slide-${String(index + 1).padStart(2, "0")}`;

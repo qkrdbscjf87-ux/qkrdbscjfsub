@@ -1,0 +1,2639 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/asym75",
+    "id": "asym75",
+    "slide": 3,
+    "layoutId": "b6c14471-9086-4914-9c99-85628b0e2452",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#0B1020",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b6c14471-9086-4914-9c99-85628b0e2452",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "ba9570d5-2bda-4e0b-a66a-f42b75759645",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jqh0fep",
+      "id": "1",
+      "name": "top-accent",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyxobm58",
+      "id": "2",
+      "name": "left-accent",
+      "bbox": [
+        0,
+        0,
+        16,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B35",
+      "lineColor": "#FF6B35",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4vmtwr",
+      "id": "3",
+      "name": "eyebrow",
+      "bbox": [
+        54,
+        38,
+        620,
+        30
+      ],
+      "geometry": "rect",
+      "text": "LAUNCH GATE CRITERIA | PAGE 03",
+      "textPreview": "LAUNCH GATE CRITERIA | PAGE 03",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "LAUNCH GATE CRITERIA | PAGE 03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "LAUNCH GATE CRITERIA | PAGE 03",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "LAUNCH GATE CRITERIA | PAGE 03",
+              "fontSize": 15,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xczed8v6",
+      "id": "4",
+      "name": "footer",
+      "bbox": [
+        54,
+        678,
+        520,
+        28
+      ],
+      "geometry": "rect",
+      "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+      "textPreview": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#94A3B8"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HIT2 일본 서비스 런칭 6개월 전 로드맵",
+              "fontSize": 15,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8v6psfil",
+      "id": "5",
+      "name": "page-no",
+      "bbox": [
+        1150,
+        678,
+        44,
+        28
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "bold": true,
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#94A3B8",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 16,
+              "color": "#94A3B8",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "6",
+      "name": "title-03",
+      "bbox": [
+        54,
+        82,
+        1110,
+        56
+      ],
+      "geometry": "rect",
+      "text": "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
+      "textPreview": "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "fontSize": 34,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "런칭 게이트는 일정이 아니라 통과 기준으로 관리합니다",
+              "fontSize": 34,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "7",
+      "name": "subtitle-03",
+      "bbox": [
+        56,
+        144,
+        1080,
+        34
+      ],
+      "geometry": "rect",
+      "text": "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+      "textPreview": "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "월별 일정표만으로는 리스크가 숨기 쉽기 때문에, 범위·빌드·QA·검수 기준을 게이트로 묶어 판정합니다.",
+              "fontSize": 17,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gvy90je",
+      "id": "8",
+      "name": "gate-section-title",
+      "bbox": [
+        54,
+        184,
+        220,
+        30
+      ],
+      "geometry": "rect",
+      "text": "핵심 게이트",
+      "textPreview": "핵심 게이트",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "핵심 게이트"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "핵심 게이트",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "핵심 게이트",
+              "fontSize": 22,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z25kb6x",
+      "id": "9",
+      "name": "gate-card-1",
+      "bbox": [
+        54,
+        220,
+        390,
+        98
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "10",
+      "name": "gate-bar-1",
+      "bbox": [
+        54,
+        220,
+        7,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "11",
+      "name": "gate-phase-1",
+      "bbox": [
+        82,
+        236,
+        84,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Gate 1",
+      "textPreview": "Gate 1",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#00B8D9",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gate 1"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gate 1",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#00B8D9",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gate 1",
+              "fontSize": 16,
+              "color": "#00B8D9",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "12",
+      "name": "gate-title-1",
+      "bbox": [
+        170,
+        235,
+        230,
+        26
+      ],
+      "geometry": "rect",
+      "text": "범위 고정",
+      "textPreview": "범위 고정",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "범위 고정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "범위 고정",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "범위 고정",
+              "fontSize": 19,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "13",
+      "name": "gate-body-1",
+      "bbox": [
+        82,
+        272,
+        318,
+        32
+      ],
+      "geometry": "rect",
+      "text": "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.",
+      "textPreview": "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "일본 서비스 범위와 콘텐츠 기준을 확정하고,"
+          },
+          {
+            "index": 2,
+            "text": "변경 요청은 영향도 검토 후 반영합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "일본 서비스 범위와 콘텐츠 기준을 확정하고, 변경 요청은 영향도 검토 후 반영합니다.",
+              "fontSize": 14,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "14",
+      "name": "gate-card-2",
+      "bbox": [
+        54,
+        346,
+        390,
+        98
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "15",
+      "name": "gate-bar-2",
+      "bbox": [
+        54,
+        346,
+        7,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF6B35",
+      "lineColor": "#FF6B35",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "16",
+      "name": "gate-phase-2",
+      "bbox": [
+        82,
+        362,
+        84,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Gate 2",
+      "textPreview": "Gate 2",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#FF6B35",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gate 2"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gate 2",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#FF6B35",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gate 2",
+              "fontSize": 16,
+              "color": "#FF6B35",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "17",
+      "name": "gate-title-2",
+      "bbox": [
+        170,
+        361,
+        230,
+        26
+      ],
+      "geometry": "rect",
+      "text": "검수 진입",
+      "textPreview": "검수 진입",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "검수 진입"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "검수 진입",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "검수 진입",
+              "fontSize": 19,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xkf6dcb",
+      "id": "18",
+      "name": "gate-body-2",
+      "bbox": [
+        82,
+        398,
+        318,
+        32
+      ],
+      "geometry": "rect",
+      "text": "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.",
+      "textPreview": "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "현지화 리소스와 주요 기능 반영 상태를 확인한"
+          },
+          {
+            "index": 2,
+            "text": "뒤 내부 QA와 퍼블리셔 검수에 진입합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "현지화 리소스와 주요 기능 반영 상태를 확인한 뒤 내부 QA와 퍼블리셔 검수에 진입합니다.",
+              "fontSize": 14,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zed8v6ps",
+      "id": "19",
+      "name": "gate-card-3",
+      "bbox": [
+        54,
+        472,
+        390,
+        98
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nih4byhg",
+      "id": "20",
+      "name": "gate-bar-3",
+      "bbox": [
+        54,
+        472,
+        7,
+        98
+      ],
+      "geometry": "rect",
+      "fillColor": "#7C3AED",
+      "lineColor": "#7C3AED",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxobm58z",
+      "id": "21",
+      "name": "gate-phase-3",
+      "bbox": [
+        82,
+        488,
+        84,
+        24
+      ],
+      "geometry": "rect",
+      "text": "Gate 3",
+      "textPreview": "Gate 3",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#7C3AED",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Gate 3"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Gate 3",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#7C3AED",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Gate 3",
+              "fontSize": 16,
+              "color": "#7C3AED",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5o7qpg3e",
+      "id": "22",
+      "name": "gate-title-3",
+      "bbox": [
+        170,
+        487,
+        230,
+        26
+      ],
+      "geometry": "rect",
+      "text": "런칭 후보",
+      "textPreview": "런칭 후보",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "런칭 후보"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "런칭 후보",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "런칭 후보",
+              "fontSize": 19,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3ex0nux",
+      "id": "23",
+      "name": "gate-body-3",
+      "bbox": [
+        82,
+        524,
+        318,
+        32
+      ],
+      "geometry": "rect",
+      "text": "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.",
+      "textPreview": "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "치명 이슈와 잔여 리스크를 분리하고, 배포"
+          },
+          {
+            "index": 2,
+            "text": "가능한 후보 빌드 기준을 고정합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "치명 이슈와 잔여 리스크를 분리하고, 배포 가능한 후보 빌드 기준을 고정합니다.",
+              "fontSize": 14,
+              "color": "#CBD5E1"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r65wjudg",
+      "id": "24",
+      "name": "decision-title",
+      "bbox": [
+        492,
+        184,
+        240,
+        30
+      ],
+      "geometry": "rect",
+      "text": "판정 체크리스트",
+      "textPreview": "판정 체크리스트",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "fontSize": 22,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "판정 체크리스트"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "판정 체크리스트",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "color": "#FFFFFF",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "판정 체크리스트",
+              "fontSize": 22,
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylc7u54z",
+      "id": "25",
+      "name": "decision-note",
+      "bbox": [
+        724,
+        190,
+        430,
+        22
+      ],
+      "geometry": "rect",
+      "text": "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.",
+      "textPreview": "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#94A3B8",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로"
+          },
+          {
+            "index": 2,
+            "text": "판단합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#94A3B8"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "각 항목은 완료 여부보다 다음 단계 진입 가능성을 기준으로 판단합니다.",
+              "fontSize": 14,
+              "color": "#94A3B8"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvixcze",
+      "id": "26",
+      "name": "decision-header",
+      "bbox": [
+        492,
+        224,
+        704,
+        34
+      ],
+      "geometry": "rect",
+      "fillColor": "#00B8D9",
+      "lineColor": "#00B8D9",
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gr2p8nqx",
+      "id": "27",
+      "name": "decision-th-1",
+      "bbox": [
+        518,
+        232,
+        120,
+        20
+      ],
+      "geometry": "rect",
+      "text": "항목",
+      "textPreview": "항목",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#06111F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "항목"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "항목",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#06111F",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "항목",
+              "fontSize": 14,
+              "color": "#06111F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rytsvu9k",
+      "id": "28",
+      "name": "decision-th-2",
+      "bbox": [
+        728,
+        232,
+        180,
+        20
+      ],
+      "geometry": "rect",
+      "text": "통과 기준",
+      "textPreview": "통과 기준",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#06111F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "통과 기준"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "통과 기준",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#06111F",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "통과 기준",
+              "fontSize": 14,
+              "color": "#06111F",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yd0z6103",
+      "id": "29",
+      "name": "decision-th-3",
+      "bbox": [
+        1060,
+        232,
+        80,
+        20
+      ],
+      "geometry": "rect",
+      "text": "주관",
+      "textPreview": "주관",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#06111F",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "주관"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "주관",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#06111F",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "주관",
+              "fontSize": 14,
+              "color": "#06111F",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/svu9knih",
+      "id": "30",
+      "name": "decision-row-1",
+      "bbox": [
+        492,
+        258,
+        704,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#151F34",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hgn29gr2",
+      "id": "31",
+      "name": "decision-item-1",
+      "bbox": [
+        518,
+        275,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "서비스 범위",
+      "textPreview": "서비스 범위",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#00B8D9",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "서비스 범위"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "서비스 범위",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#00B8D9",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "서비스 범위",
+              "fontSize": 15,
+              "color": "#00B8D9",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ap4r65wj",
+      "id": "32",
+      "name": "decision-gate-1",
+      "bbox": [
+        728,
+        271,
+        300,
+        30
+      ],
+      "geometry": "rect",
+      "text": "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정",
+      "textPreview": "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "런칭 포함·제외 콘텐츠와 변경 승인 기준 확정",
+              "fontSize": 14,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za1gvy90",
+      "id": "33",
+      "name": "decision-owner-1",
+      "bbox": [
+        1056,
+        275,
+        98,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PM",
+      "textPreview": "PM",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PM",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PM",
+              "fontSize": 14,
+              "color": "#CBD5E1",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s36hcrmh",
+      "id": "34",
+      "name": "decision-row-2",
+      "bbox": [
+        492,
+        316,
+        704,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hoza1gvy",
+      "id": "35",
+      "name": "decision-item-2",
+      "bbox": [
+        518,
+        333,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "빌드 기준",
+      "textPreview": "빌드 기준",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FF6B35",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "빌드 기준"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "빌드 기준",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FF6B35",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "빌드 기준",
+              "fontSize": 15,
+              "color": "#FF6B35",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1gvy90j",
+      "id": "36",
+      "name": "decision-gate-2",
+      "bbox": [
+        728,
+        329,
+        300,
+        30
+      ],
+      "geometry": "rect",
+      "text": "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의",
+      "textPreview": "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Perforce 브랜치와 후보 빌드 태그 운영 기준"
+          },
+          {
+            "index": 2,
+            "text": "합의"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Perforce 브랜치와 후보 빌드 태그 운영 기준 합의",
+              "fontSize": 14,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zidonyd0",
+      "id": "37",
+      "name": "decision-owner-2",
+      "bbox": [
+        1056,
+        333,
+        98,
+        24
+      ],
+      "geometry": "rect",
+      "text": "개발",
+      "textPreview": "개발",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "개발"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "개발",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "개발",
+              "fontSize": 14,
+              "color": "#CBD5E1",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/s72x4nap",
+      "id": "38",
+      "name": "decision-row-3",
+      "bbox": [
+        492,
+        374,
+        704,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#151F34",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lszqtcj6",
+      "id": "39",
+      "name": "decision-item-3",
+      "bbox": [
+        518,
+        391,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "QA 안정성",
+      "textPreview": "QA 안정성",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#7C3AED",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QA 안정성"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QA 안정성",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#7C3AED",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QA 안정성",
+              "fontSize": 15,
+              "color": "#7C3AED",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xkf6dcbu",
+      "id": "40",
+      "name": "decision-gate-3",
+      "bbox": [
+        728,
+        387,
+        300,
+        30
+      ],
+      "geometry": "rect",
+      "text": "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유",
+      "textPreview": "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "치명 이슈 0건, 주요 이슈 수정 계획과 잔여"
+          },
+          {
+            "index": 2,
+            "text": "리스크 공유"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "치명 이슈 0건, 주요 이슈 수정 계획과 잔여 리스크 공유",
+              "fontSize": 14,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zidonyd",
+      "id": "41",
+      "name": "decision-owner-3",
+      "bbox": [
+        1056,
+        391,
+        98,
+        24
+      ],
+      "geometry": "rect",
+      "text": "QA",
+      "textPreview": "QA",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "QA"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "QA",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "QA",
+              "fontSize": 14,
+              "color": "#CBD5E1",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fepkzupw",
+      "id": "42",
+      "name": "decision-row-4",
+      "bbox": [
+        492,
+        432,
+        704,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#111827",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtwra5gb",
+      "id": "43",
+      "name": "decision-item-4",
+      "bbox": [
+        518,
+        449,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "퍼블리셔 검수",
+      "textPreview": "퍼블리셔 검수",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "퍼블리셔 검수"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "퍼블리셔 검수",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "퍼블리셔 검수",
+              "fontSize": 15,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylc7u",
+      "id": "44",
+      "name": "decision-gate-4",
+      "bbox": [
+        728,
+        445,
+        300,
+        30
+      ],
+      "geometry": "rect",
+      "text": "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태",
+      "textPreview": "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "검수 요청, 피드백, 재전달 일정이 추적 가능한"
+          },
+          {
+            "index": 2,
+            "text": "상태"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "검수 요청, 피드백, 재전달 일정이 추적 가능한 상태",
+              "fontSize": 14,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4r65wjud",
+      "id": "45",
+      "name": "decision-owner-4",
+      "bbox": [
+        1056,
+        449,
+        98,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PM",
+      "textPreview": "PM",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PM"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PM",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PM",
+              "fontSize": 14,
+              "color": "#CBD5E1",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/f6dcbulw",
+      "id": "46",
+      "name": "decision-row-5",
+      "bbox": [
+        492,
+        490,
+        704,
+        58
+      ],
+      "geometry": "rect",
+      "fillColor": "#151F34",
+      "lineColor": "#2F3B55",
+      "lineWidth": 1
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mlkjm1cf",
+      "id": "47",
+      "name": "decision-item-5",
+      "bbox": [
+        518,
+        507,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "배포 준비",
+      "textPreview": "배포 준비",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FF6B35",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "배포 준비"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "배포 준비",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FF6B35",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "배포 준비",
+              "fontSize": 15,
+              "color": "#FF6B35",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x0nuxc3y",
+      "id": "48",
+      "name": "decision-gate-5",
+      "bbox": [
+        728,
+        503,
+        300,
+        30
+      ],
+      "geometry": "rect",
+      "text": "스토어·공지·장애 대응 플랜의 최종 담당자 확인",
+      "textPreview": "스토어·공지·장애 대응 플랜의 최종 담당자 확인",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "스토어·공지·장애 대응 플랜의 최종 담당자"
+          },
+          {
+            "index": 2,
+            "text": "확인"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "스토어·공지·장애 대응 플랜의 최종 담당자 확인",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "스토어·공지·장애 대응 플랜의 최종 담당자 확인",
+              "fontSize": 14,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4fu18jqh",
+      "id": "49",
+      "name": "decision-owner-5",
+      "bbox": [
+        1056,
+        507,
+        98,
+        24
+      ],
+      "geometry": "rect",
+      "text": "운영",
+      "textPreview": "운영",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "+mn-lt",
+        "color": "#CBD5E1",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "운영"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "운영",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "color": "#CBD5E1",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "운영",
+              "fontSize": 14,
+              "color": "#CBD5E1",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "50",
+      "name": "principle-panel",
+      "bbox": [
+        54,
+        608,
+        1142,
+        44
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#10192E",
+      "lineColor": "#22304E",
+      "lineWidth": 1
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "51",
+      "name": "principle-label",
+      "bbox": [
+        82,
+        620,
+        120,
+        22
+      ],
+      "geometry": "rect",
+      "text": "운영 원칙",
+      "textPreview": "운영 원칙",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#8BD9E8",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "운영 원칙"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "운영 원칙",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#8BD9E8",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "운영 원칙",
+              "fontSize": 16,
+              "color": "#8BD9E8",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "52",
+      "name": "principle-body",
+      "bbox": [
+        206,
+        620,
+        850,
+        22
+      ],
+      "geometry": "rect",
+      "text": "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.",
+      "textPreview": "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#FFFFFF",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#FFFFFF"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "게이트 미통과 항목은 일정 지연이 아니라 의사결정 이슈로 분리해, 영향도와 대안을 함께 보고합니다.",
+              "fontSize": 15,
+              "color": "#FFFFFF"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}
