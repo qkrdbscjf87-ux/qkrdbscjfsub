@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/a17jc5",
-    "id": "a17jc5",
+    "aid": "sl/pn0mau",
+    "id": "pn0mau",
     "slide": 4,
-    "layoutId": "6dd9d068-0f70-40f5-a4ea-b0aa6c4e1793",
+    "layoutId": "329c4dce-93fb-4533-8d3d-3b6c22f2b2f7",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
+    "masterLayoutId": "41b92bd0-e7c3-406a-893f-c8966144f7d0",
     "masterLayoutName": "Master",
     "backgroundColor": "#0B1020",
     "frame": {
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "6dd9d068-0f70-40f5-a4ea-b0aa6c4e1793",
+      "id": "329c4dce-93fb-4533-8d3d-3b6c22f2b2f7",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
+      "parentLayoutId": "41b92bd0-e7c3-406a-893f-c8966144f7d0",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "51a3b91d-6c14-445a-a820-dc5fcc2ea7e2",
+      "id": "41b92bd0-e7c3-406a-893f-c8966144f7d0",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7u54zido",
+      "aid": "sh/3m94fu18",
       "id": "1",
       "name": "top-accent",
       "bbox": [
@@ -82,7 +82,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wfyxobm5",
+      "aid": "sh/s72x4nap",
       "id": "2",
       "name": "left-accent",
       "bbox": [
@@ -100,7 +100,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/l0rqd4vm",
+      "aid": "sh/lszqtcj6",
       "id": "3",
       "name": "eyebrow",
       "bbox": [
@@ -162,7 +162,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/eloj2t83",
+      "aid": "sh/adsji5sn",
       "id": "4",
       "name": "footer",
       "bbox": [
@@ -221,7 +221,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/36hcrmhk",
+      "aid": "sh/3ylc7u54",
       "id": "5",
       "name": "page-no",
       "bbox": [
@@ -285,7 +285,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wra5gbq1",
+      "aid": "sh/sji5snel",
       "id": "6",
       "name": "title-04",
       "bbox": [
@@ -347,7 +347,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lc7u54zi",
+      "aid": "sh/h4byhgn2",
       "id": "7",
       "name": "subtitle-04",
       "bbox": [
@@ -406,7 +406,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/epkzupwb",
+      "aid": "sh/ap4r65wj",
       "id": "8",
       "name": "risk-title",
       "bbox": [
@@ -468,7 +468,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7adsji5s",
+      "aid": "sh/za1gvy90",
       "id": "9",
       "name": "risk-header",
       "bbox": [
@@ -486,7 +486,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nqxs72x4",
+      "aid": "sh/z61032ls",
       "id": "10",
       "name": "risk-th-1",
       "bbox": [
@@ -548,7 +548,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u54zidon",
+      "aid": "sh/al87ed8b",
       "id": "11",
       "name": "risk-th-2",
       "bbox": [
@@ -610,7 +610,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5sneloj2",
+      "aid": "sh/hcrmhk3q",
       "id": "12",
       "name": "risk-th-3",
       "bbox": [
@@ -672,7 +672,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cbulwval",
+      "aid": "sh/orytsvu9",
       "id": "13",
       "name": "risk-row-1",
       "bbox": [
@@ -690,7 +690,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/neloj2t8",
+      "aid": "sh/zupwb2hw",
       "id": "14",
       "name": "risk-name-1",
       "bbox": [
@@ -752,7 +752,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ytsvu9kn",
+      "aid": "sh/a9w3m94f",
       "id": "15",
       "name": "risk-impact-1",
       "bbox": [
@@ -815,7 +815,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5kb6xkf6",
+      "aid": "sh/h0fepkzu",
       "id": "16",
       "name": "risk-response-1",
       "bbox": [
@@ -874,7 +874,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/czed8v6p",
+      "aid": "sh/sfil0rqd",
       "id": "17",
       "name": "risk-row-2",
       "bbox": [
@@ -892,7 +892,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/n29gr2p8",
+      "aid": "sh/zqtcj6to",
       "id": "18",
       "name": "risk-name-2",
       "bbox": [
@@ -954,7 +954,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/yhgn29gr",
+      "aid": "sh/65wjudg7",
       "id": "19",
       "name": "risk-impact-2",
       "bbox": [
@@ -1013,7 +1013,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6hcrmhk3",
+      "aid": "sh/ed8bat47",
       "id": "20",
       "name": "risk-response-2",
       "bbox": [
@@ -1072,7 +1072,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/z25kb6xk",
+      "aid": "sh/7u54zido",
       "id": "21",
       "name": "risk-row-3",
       "bbox": [
@@ -1090,7 +1090,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/onyd0z61",
+      "aid": "sh/wfyxobm5",
       "id": "22",
       "name": "risk-name-3",
       "bbox": [
@@ -1152,7 +1152,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8v6psfi",
+      "aid": "sh/l0rqd4vm",
       "id": "23",
       "name": "risk-impact-3",
       "bbox": [
@@ -1211,7 +1211,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6tovahoz",
+      "aid": "sh/eloj2t83",
       "id": "24",
       "name": "risk-response-3",
       "bbox": [
@@ -1270,7 +1270,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vahoza1g",
+      "aid": "sh/36hcrmhk",
       "id": "25",
       "name": "risk-row-4",
       "bbox": [
@@ -1288,7 +1288,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ovahoza1",
+      "aid": "sh/wra5gbq1",
       "id": "26",
       "name": "risk-name-4",
       "bbox": [
@@ -1350,7 +1350,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dg7adsji",
+      "aid": "sh/lc7u54zi",
       "id": "27",
       "name": "risk-impact-4",
       "bbox": [
@@ -1413,7 +1413,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/61032lsz",
+      "aid": "sh/epkzupwb",
       "id": "28",
       "name": "risk-response-4",
       "bbox": [
@@ -1472,7 +1472,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vmtwra5g",
+      "aid": "sh/7adsji5s",
       "id": "29",
       "name": "risk-row-5",
       "bbox": [
@@ -1490,7 +1490,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/loj2t83i",
+      "aid": "sh/tgfmlkjm",
       "id": "30",
       "name": "risk-name-5",
       "bbox": [
@@ -1552,7 +1552,7 @@
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/w3m94fu1",
+      "aid": "sh/4vmtwra5",
       "id": "31",
       "name": "risk-impact-5",
       "bbox": [
@@ -1615,7 +1615,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3itgfmlk",
+      "aid": "sh/bat47y1k",
       "id": "32",
       "name": "risk-response-5",
       "bbox": [
@@ -1678,7 +1678,7 @@
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ex0nuxc3",
+      "aid": "sh/mp0bi9s3",
       "id": "33",
       "name": "process-title",
       "bbox": [
@@ -1740,7 +1740,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lwval87e",
+      "aid": "sh/tsvu9kni",
       "id": "34",
       "name": "process-note",
       "bbox": [
@@ -1799,7 +1799,7 @@
       "order": 35,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wb2hwfyx",
+      "aid": "sh/47y1kre1",
       "id": "35",
       "name": "process-step-1",
       "bbox": [
@@ -1817,7 +1817,7 @@
       "order": 36,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3q5o7qpg",
+      "aid": "sh/bm58z25k",
       "id": "36",
       "name": "process-step-bar-1",
       "bbox": [
@@ -1835,7 +1835,7 @@
       "order": 37,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/e9cvixcz",
+      "aid": "sh/m1cfa9w3",
       "id": "37",
       "name": "process-step-no-1",
       "bbox": [
@@ -1901,7 +1901,7 @@
       "order": 38,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/l87ed8ba",
+      "aid": "sh/twra5gbq",
       "id": "38",
       "name": "process-step-title-1",
       "bbox": [
@@ -1963,7 +1963,7 @@
       "order": 39,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sneloj2t",
+      "aid": "sh/4byhgn29",
       "id": "39",
       "name": "process-step-body-1",
       "bbox": [
@@ -2022,7 +2022,7 @@
       "order": 40,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0rqd4vmt",
+      "aid": "sh/8nqxs72x",
       "id": "40",
       "name": "process-step-2",
       "bbox": [
@@ -2040,7 +2040,7 @@
       "order": 41,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tcj6tova",
+      "aid": "sh/18jqh0fe",
       "id": "41",
       "name": "process-step-bar-2",
       "bbox": [
@@ -2058,7 +2058,7 @@
       "order": 42,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/il0rqd4v",
+      "aid": "sh/qh0fepkz",
       "id": "42",
       "name": "process-step-no-2",
       "bbox": [
@@ -2124,7 +2124,7 @@
       "order": 43,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/b6xkf6dc",
+      "aid": "sh/j2t83itg",
       "id": "43",
       "name": "process-step-title-2",
       "bbox": [
@@ -2186,7 +2186,7 @@
       "order": 44,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0je9cvix",
+      "aid": "sh/8bat47y1",
       "id": "44",
       "name": "process-step-body-2",
       "bbox": [
@@ -2245,7 +2245,7 @@
       "order": 45,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/t47y1kre",
+      "aid": "sh/1w7mp0bi",
       "id": "45",
       "name": "process-step-3",
       "bbox": [
@@ -2263,7 +2263,7 @@
       "order": 46,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/idonyd0z",
+      "aid": "sh/q5o7qpg3",
       "id": "46",
       "name": "process-step-bar-3",
       "bbox": [
@@ -2281,7 +2281,7 @@
       "order": 47,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/byhgn29g",
+      "aid": "sh/jqh0fepk",
       "id": "47",
       "name": "process-step-no-3",
       "bbox": [
@@ -2347,7 +2347,7 @@
       "order": 48,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0fepkzup",
+      "aid": "sh/c3ylc7u5",
       "id": "48",
       "name": "process-step-title-3",
       "bbox": [
@@ -2409,7 +2409,7 @@
       "order": 49,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/p0bi9s36",
+      "aid": "sh/1kre1w7m",
       "id": "49",
       "name": "process-step-body-3",
       "bbox": [
@@ -2468,7 +2468,7 @@
       "order": 50,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zed8v6ps",
+      "aid": "sh/re1w7mp0",
       "id": "50",
       "name": "process-step-4",
       "bbox": [
@@ -2486,7 +2486,7 @@
       "order": 51,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6xkf6dcb",
+      "aid": "sh/2t83itgf",
       "id": "51",
       "name": "process-step-bar-4",
       "bbox": [
@@ -2504,7 +2504,7 @@
       "order": 52,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hk3q5o7q",
+      "aid": "sh/9knih4by",
       "id": "52",
       "name": "process-step-no-4",
       "bbox": [
@@ -2570,7 +2570,7 @@
       "order": 53,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/oza1gvy9",
+      "aid": "sh/kzupwb2h",
       "id": "53",
       "name": "process-step-title-4",
       "bbox": [
@@ -2632,7 +2632,7 @@
       "order": 54,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zqtcj6to",
+      "aid": "sh/rqd4vmtw",
       "id": "54",
       "name": "process-step-body-4",
       "bbox": [
@@ -2691,7 +2691,7 @@
       "order": 55,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/65wjudg7",
+      "aid": "sh/25kb6xkf",
       "id": "55",
       "name": "risk-principle-panel",
       "bbox": [
@@ -2709,7 +2709,7 @@
       "order": 56,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hwfyxobm",
+      "aid": "sh/9w3m94fu",
       "id": "56",
       "name": "risk-principle-label",
       "bbox": [
@@ -2771,7 +2771,7 @@
       "order": 57,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/obm58z25",
+      "aid": "sh/kb6xkf6d",
       "id": "57",
       "name": "risk-principle-body",
       "bbox": [

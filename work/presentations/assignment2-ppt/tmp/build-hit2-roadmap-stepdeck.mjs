@@ -522,6 +522,151 @@ function buildSlide04(presentation) {
   return slide;
 }
 
+function addStakeholderCard(slide, index, role, focus, accent) {
+  const left = 54 + index * 150;
+  const top = 226;
+  addRound(slide, `stakeholder-card-${index + 1}`, { left, top, width: 130, height: 114 }, colors.panel2, colors.line);
+  addRect(slide, `stakeholder-bar-${index + 1}`, { left, top, width: 130, height: 6 }, accent, accent, 0);
+  addText(slide, `stakeholder-role-${index + 1}`, role, { left: left + 12, top: top + 24, width: 106, height: 24 }, {
+    fontSize: 15,
+    bold: true,
+    color: colors.white,
+    alignment: "center",
+  });
+  addText(slide, `stakeholder-focus-${index + 1}`, focus, { left: left + 12, top: top + 58, width: 106, height: 38 }, {
+    fontSize: 11.5,
+    color: colors.text,
+    alignment: "center",
+  });
+}
+
+function addCollabFlowStep(slide, index, title, body, accent) {
+  const left = 62 + index * 148;
+  const top = 422;
+  addRound(slide, `collab-flow-step-${index + 1}`, { left, top, width: 122, height: 104 }, colors.rowA, colors.line);
+  addPill(slide, `collab-flow-no-${index + 1}`, `0${index + 1}`, left + 35, top + 12, 52, accent, accent === colors.cyan ? colors.darkText : colors.white);
+  addText(slide, `collab-flow-title-${index + 1}`, title, { left: left + 20, top: top + 45, width: 82, height: 20 }, {
+    fontSize: 13,
+    bold: true,
+    color: colors.white,
+    alignment: "center",
+  });
+  addText(slide, `collab-flow-body-${index + 1}`, body, { left: left + 8, top: top + 68, width: 106, height: 30 }, {
+    fontSize: 9,
+    color: colors.text,
+    alignment: "center",
+  });
+  if (index < 4) {
+    addText(slide, `collab-flow-arrow-${index + 1}`, ">", { left: left + 124, top: top + 38, width: 24, height: 28 }, {
+      fontSize: 18,
+      bold: true,
+      color: colors.muted,
+      alignment: "center",
+    });
+  }
+}
+
+function addPmPoint(slide, index, label, body, accent) {
+  const top = 226 + index * 82;
+  addRound(slide, `pm-point-${index + 1}`, { left: 850, top, width: 346, height: 64 }, colors.panel2, colors.line);
+  addRect(slide, `pm-point-bar-${index + 1}`, { left: 850, top, width: 6, height: 64 }, accent, accent, 0);
+  addText(slide, `pm-point-label-${index + 1}`, label, { left: 874, top: top + 11, width: 262, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, `pm-point-body-${index + 1}`, body, { left: 874, top: top + 36, width: 278, height: 18 }, {
+    fontSize: 12.5,
+    color: colors.text,
+  });
+}
+
+function buildSlide05(presentation) {
+  const slide = presentation.slides.add();
+  addChrome(slide, "05", "PUBLISHER COMMUNICATION | PAGE 05");
+  addTitle(
+    slide,
+    "05",
+    "퍼블리셔 대응은 일정·버전·이슈 기준을 하나로 맞춰 운영합니다",
+    "한·일 협업 구간에서는 요청과 피드백을 분리하지 않고, 마일스톤 판단에 필요한 상태값으로 정리해야 합니다.",
+  );
+
+  addText(slide, "stakeholder-title", "협업 대상", { left: 54, top: 184, width: 180, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, "stakeholder-note", "역할별 확인 기준을 고정해 커뮤니케이션 누락을 줄입니다.", {
+    left: 184,
+    top: 190,
+    width: 430,
+    height: 22,
+  }, {
+    fontSize: 13,
+    color: colors.muted,
+  });
+
+  const stakeholders = [
+    ["개발 PM", "일정·범위 통제\n이슈 우선순위", colors.cyan],
+    ["개발", "빌드 반영\n버전 기준 관리", colors.orange],
+    ["QA", "검수 결과\n수정 반영 추적", colors.purple],
+    ["운영", "공지·이벤트\nLive 준비", colors.cyanSoft],
+    ["일본 퍼블리셔", "검수 피드백\n사업 요청사항", colors.orange],
+  ];
+  stakeholders.forEach((item, index) => addStakeholderCard(slide, index, item[0], item[1], item[2]));
+
+  addText(slide, "flow-title", "주간 커뮤니케이션 흐름", { left: 54, top: 382, width: 270, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addText(slide, "flow-note", "공유 목적은 보고가 아니라 다음 마일스톤 진입 가능 여부 판단입니다.", {
+    left: 306,
+    top: 388,
+    width: 470,
+    height: 22,
+  }, {
+    fontSize: 13,
+    color: colors.muted,
+  });
+
+  const flow = [
+    ["점검", "마일스톤 진행률\n및 지연 항목 확인", colors.cyan],
+    ["전달", "Perforce 기준\n빌드·버전 공유", colors.orange],
+    ["수집", "퍼블리셔 검수\n피드백 정리", colors.purple],
+    ["조정", "일정·범위 영향도\n우선순위 판단", colors.cyanSoft],
+    ["판단", "릴리즈 후보\n진입 여부 확정", colors.orange],
+  ];
+  flow.forEach((item, index) => addCollabFlowStep(slide, index, item[0], item[1], item[2]));
+
+  addText(slide, "pm-points-title", "PM 관리 포인트", { left: 850, top: 184, width: 220, height: 30 }, {
+    fontSize: 22,
+    bold: true,
+    color: colors.white,
+  });
+  addPmPoint(slide, 0, "요청사항 단일화", "퍼블리셔 요청을 일정·범위·이슈로 재분류", colors.cyan);
+  addPmPoint(slide, 1, "버전 기준 고정", "빌드 전달 시점과 검수 대상 버전을 명확화", colors.orange);
+  addPmPoint(slide, 2, "의사결정 이슈 분리", "지연 가능 항목은 마일스톤 판단 안건으로 전환", colors.purple);
+  addPmPoint(slide, 3, "Live 릴리즈 준비", "배포·공지·운영 대응 항목을 같은 기준으로 확인", colors.cyanSoft);
+
+  addRound(slide, "collab-principle-panel", { left: 54, top: 608, width: 1142, height: 44 }, colors.panel, "#22304E");
+  addText(slide, "collab-principle-label", "운영 원칙", { left: 82, top: 620, width: 120, height: 22 }, {
+    fontSize: 16,
+    bold: true,
+    color: colors.cyanSoft,
+  });
+  addText(slide, "collab-principle-body", "퍼블리셔 대응은 별도 보고가 아니라 일정·버전·이슈를 통합 관리하는 PM 운영 흐름 안에서 처리합니다.", {
+    left: 206,
+    top: 620,
+    width: 860,
+    height: 22,
+  }, {
+    fontSize: 15,
+    color: colors.white,
+  });
+  return slide;
+}
+
 async function main() {
   await fs.mkdir(path.dirname(FINAL_PPTX), { recursive: true });
   await fs.mkdir(PREVIEW_DIR, { recursive: true });
@@ -532,6 +677,7 @@ async function main() {
   buildSlide02(presentation);
   buildSlide03(presentation);
   buildSlide04(presentation);
+  buildSlide05(presentation);
 
   for (const [index, slide] of presentation.slides.items.entries()) {
     const stem = `slide-${String(index + 1).padStart(2, "0")}`;
